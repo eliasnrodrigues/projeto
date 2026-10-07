@@ -12,3 +12,38 @@ function daysTo(s){return Math.ceil((new Date(s+'T00:00:00')-new Date('2026-09-3
 function drawTrend(months,hospital){const monthly=months.map(m=>rows.filter(r=>r.DataReferencia===m&&(hospital==='Todas'||r.Hospital===hospital)).reduce((s,r)=>s+r.EstoqueAtual*r.ValorUnitario,0));const el=document.querySelector('#trend-chart');const w=700,h=168,left=42,right=8,top=9,bottom=27,high=Math.max(...monthly)*1.12;const pts=monthly.map((v,i)=>({x:left+i*(w-left-right)/Math.max(1,monthly.length-1),y:top+(1-v/high)*(h-top-bottom)}));const area=`M ${pts[0].x} ${h-bottom} `+pts.map(p=>`L ${p.x} ${p.y}`).join(' ')+` L ${pts.at(-1).x} ${h-bottom} Z`;let grid='';for(let i=0;i<4;i++){const y=top+i*(h-top-bottom)/3;grid+=`<line x1="${left}" y1="${y}" x2="${w-right}" y2="${y}" stroke="#edf0f5"/><text x="${left-7}" y="${y+3}" text-anchor="end" fill="#a1adbd" font-size="8">${fmtBRL(high*(1-i/3)).replace('R$ ','')}</text>`}const points=pts.map((p,i)=>`<circle cx="${p.x}" cy="${p.y}" r="3" fill="#fff" stroke="#5274e5" stroke-width="2"><title>${months[i].slice(0,7)} · ${fmtBRL(monthly[i])}</title></circle><text x="${p.x}" y="${h-8}" text-anchor="middle" fill="#9aa5b4" font-size="8">${new Date(months[i]+'T12:00:00').toLocaleDateString('pt-BR',{month:'short'}).replace('.','')}</text>`).join('');el.innerHTML=`<svg viewBox="0 0 ${w} ${h}" role="img"><defs><linearGradient id="fill" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#5274e5" stop-opacity=".18"/><stop offset="1" stop-color="#5274e5" stop-opacity="0"/></linearGradient></defs>${grid}<path d="${area}" fill="url(#fill)"/><polyline points="${pts.map(p=>`${p.x},${p.y}`).join(' ')}" fill="none" stroke="#5274e5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>${points}</svg>`}
 function drawDonut(current,total){const sums=new Map();current.forEach(r=>sums.set(r.Categoria,(sums.get(r.Categoria)||0)+r.EstoqueAtual*r.ValorUnitario));const vals=[...sums.entries()].sort((a,b)=>b[1]-a[1]);let deg=0;const stops=vals.map(([k,v],i)=>{const start=deg;deg+=total?v/total*360:0;return `${colors[i]} ${start}deg ${deg}deg`});document.querySelector('#donut-chart').style.background=`conic-gradient(${stops.join(',')})`;document.querySelector('#donut-total').textContent=fmtBRL(total);document.querySelector('#category-legend').innerHTML=vals.map(([k,v],i)=>`<div class="category-item"><i style="background:${colors[i]}"></i><span>${k}</span><b>${total?(v/total*100).toFixed(0):0}%</b></div>`).join('')}
 function drawTable(current){const alerts=current.map(r=>({...r,days:daysTo(r.Validade),cov:r.Consumo30Dias?r.EstoqueAtual/r.Consumo30Dias*30:0})).filter(r=>r.EstoqueAtual<r.EstoqueMinimo||(r.days>=0&&r.days<=30)).sort((a,b)=>{const sa=(a.EstoqueAtual<a.EstoqueMinimo?0:1)+(a.days<=30?0:1),sb=(b.EstoqueAtual<b.EstoqueMinimo?0:1)+(b.days<=30?0:1);return sa-sb||a.cov-b.cov}).slice(0,8);document.querySelector('#alert-count').textContent=`${alerts.length} alertas`;document.querySelector('#critical-rows').innerHTML=alerts.map(r=>{const low=r.EstoqueAtual<r.EstoqueMinimo,near=r.days>=0&&r.days<=30;return `<tr><td class="material-cell"><b>${r.Material}</b><small>Cód. ${r.CodigoMaterial} · Lote ${r.Lote}</small></td><td>${r.Hospital}</td><td class="qty">${r.EstoqueAtual}</td><td>${r.EstoqueMinimo}</td><td class="coverage">${r.cov.toFixed(0)} dias</td><td>${near?new Date(r.Validade+'T12:00:00').toLocaleDateString('pt-BR'):'—'}</td><td><span class="status ${low?'critical':'warning'}">${low?'Repor':'Vence em breve'}</span></td></tr>`}).join('')||'<tr><td colspan="7">Nenhum item crítico neste filtro.</td></tr>'}
+
+// Switch between the demo, offer, and project briefing as separate in-page views.
+const viewNames = new Set(['painel', 'planos', 'briefing']);
+function openView(name, pushHistory = false) {
+  if (!viewNames.has(name)) name = 'painel';
+  document.querySelectorAll('[data-window]').forEach(view => {
+    const active = view.dataset.window === name;
+    view.hidden = !active;
+    view.classList.toggle('is-active', active);
+  });
+  document.querySelectorAll('.side-nav .nav-link').forEach(link => {
+    const target = link.getAttribute('href')?.slice(1);
+    link.classList.toggle('active', target === (name === 'painel' && location.hash === '#criticos' ? 'criticos' : name));
+  });
+  if (pushHistory) history.pushState({ view: name }, '', `#${name}`);
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+function handleViewNavigation(event) {
+  const link = event.target.closest('a[href^="#"]');
+  if (!link) return;
+  const target = link.getAttribute('href').slice(1);
+  if (target === 'criticos') {
+    event.preventDefault();
+    openView('painel', true);
+    document.querySelectorAll('.side-nav .nav-link').forEach(item => item.classList.toggle('active', item === link));
+    requestAnimationFrame(() => document.querySelector('#criticos').scrollIntoView({ behavior: 'smooth', block: 'start' }));
+  } else if (viewNames.has(target)) {
+    event.preventDefault();
+    openView(target, true);
+  }
+}
+document.addEventListener('click', handleViewNavigation);
+window.addEventListener('popstate', () => openView(location.hash.slice(1)));
+window.addEventListener('hashchange', () => openView(location.hash.slice(1)));
+openView(viewNames.has(location.hash.slice(1)) ? location.hash.slice(1) : 'painel');
