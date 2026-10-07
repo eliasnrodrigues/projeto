@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101b32">
+  <meta name="description" content="Dashboard de gestão de estoque hospitalar criado por Elias Rodrigues para portfólio de Power BI.">
+  <title>Estoque em Foco | Power BI Portfolio</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="#inicio" aria-label="Estoque em Foco, início"><span class="brand-mark">E</span><span><b>estoque<span class="brand-light">.emfoco</span></b><small>INTELLIGENCE</small></span></a>
+      <div class="side-label">WORKSPACE</div>
+      <a class="nav-link active" href="#painel"><span class="nav-icon">▦</span> Visão geral</a>
+      <a class="nav-link" href="#criticos"><span class="nav-icon">⌁</span> Itens críticos</a>
+      <div class="side-bottom"><div class="avatar">ER</div><div><b>Elias Rodrigues</b><small>Analista de dados</small></div></div>
+    </aside>
+    <main id="inicio">
+      <header class="topbar"><div class="crumb">PORTFÓLIO <span>/</span> LOGÍSTICA HOSPITALAR</div><div class="top-status"><i></i> DADOS DE DEMONSTRAÇÃO</div></header>
+      <section class="content" id="painel">
+        <div class="intro-row"><div><p class="eyebrow">SUPRIMENTOS · ESTOQUE</p><h1>Estoque em Foco</h1><p class="subhead">Visibilidade para decidir melhor. Acompanhe cobertura, valor e riscos de abastecimento.</p></div><div class="updated"><span>ÚLTIMA ATUALIZAÇÃO</span><b id="update-date">—</b></div></div>
+        <div class="filters"><label>UNIDADE<select id="hospital-filter"><option value="Todas">Todas as unidades</option></select></label><label>PERÍODO<select id="period-filter"><option value="12">Últimos 12 meses</option><option value="6">Últimos 6 meses</option><option value="3">Últimos 3 meses</option></select></label><button id="download-csv" class="export-btn" type="button"><span>↓</span> Exportar base</button></div>
+        <section class="kpi-grid" aria-label="Indicadores principais">
+          <article class="kpi-card"><div class="kpi-head"><span>VALOR EM ESTOQUE</span><span class="kpi-icon blue">R$</span></div><strong id="kpi-value">—</strong><div class="kpi-foot"><span class="dot blue-dot"></span> posição mais recente</div></article>
+          <article class="kpi-card"><div class="kpi-head"><span>ITENS ABAIXO DO MÍNIMO</span><span class="kpi-icon red">!</span></div><strong id="kpi-low">—</strong><div class="kpi-foot"><span id="low-rate">—</span> do portfólio selecionado</div></article>
+          <article class="kpi-card"><div class="kpi-head"><span>LOTES A VENCER EM 30 DIAS</span><span class="kpi-icon amber">◷</span></div><strong id="kpi-expiring">—</strong><div class="kpi-foot">Ação preventiva recomendada</div></article>
+          <article class="kpi-card"><div class="kpi-head"><span>COBERTURA MÉDIA</span><span class="kpi-icon green">↗</span></div><strong id="kpi-cover">—</strong><div class="kpi-foot">dias estimados pelo consumo</div></article>
+        </section>
+        <section class="chart-grid">
+          <article class="panel trend-panel"><div class="panel-title"><div><h2>Evolução do valor estocado</h2><p>Valor total por mês · R$</p></div><span class="period-chip" id="trend-period">12 MESES</span></div><div class="chart-area" id="trend-chart" aria-label="Gráfico de evolução do valor em estoque"></div><div class="chart-legend"><span><i class="legend-blue"></i> Valor em estoque</span><span class="muted">Base mensal consolidada</span></div></article>
+          <article class="panel category-panel"><div class="panel-title"><div><h2>Composição do estoque</h2><p>Valor atual por categoria</p></div><button class="more" aria-label="Informações sobre composição" title="Distribuição do valor em estoque">···</button></div><div class="donut-wrap"><div id="donut-chart" class="donut"><div class="donut-center"><b id="donut-total">—</b><span>VALOR TOTAL</span></div></div><div id="category-legend" class="category-legend"></div></div></article>
+        </section>
+        <section class="panel table-panel" id="criticos"><div class="panel-title table-heading"><div><h2>Prioridade de abastecimento</h2><p>Itens com estoque abaixo do mínimo ou vencimento próximo</p></div><span class="alert-count" id="alert-count">—</span></div><div class="table-scroll"><table><thead><tr><th>MATERIAL</th><th>UNIDADE</th><th>ESTOQUE</th><th>MÍNIMO</th><th>COBERTURA</th><th>VALIDADE PRÓXIMA</th><th>STATUS</th></tr></thead><tbody id="critical-rows"></tbody></table></div><div class="table-foot">Exibindo até 8 itens que precisam de acompanhamento</div></section>
+        <footer><span>Projeto demonstrativo de Business Intelligence · <b>Elias Rodrigues</b></span><span>Dados sintéticos para fins de portfólio</span></footer>
+      </section>
+    </main>
+  </div>
+  <script src="assets/app.js"></script>
+</body>
+</html>
