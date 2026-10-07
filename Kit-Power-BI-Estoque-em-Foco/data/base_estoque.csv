@@ -1,0 +1,1369 @@
+﻿DataReferencia,Hospital,CodigoMaterial,Material,Categoria,Lote,Validade,EstoqueAtual,EstoqueMinimo,Consumo30Dias,ValorUnitario
+2025-10-01,Hospital Central,100101,Seringa descartável 10 ml,Descartáveis,L2510-001-1,2026-10-14,4,8,3,1.25
+2025-10-01,Hospital Central,100102,Luva de procedimento M,Descartáveis,L2510-002-1,2026-11-08,23,15,7,0.42
+2025-10-01,Hospital Central,100103,Equipo macrogotas,Descartáveis,L2510-003-1,2026-11-27,43,22,12,2.8
+2025-10-01,Hospital Central,100104,Cateter intravenoso 22G,Descartáveis,L2510-004-1,2026-12-16,58,29,16,1.95
+2025-10-01,Hospital Central,100105,Máscara cirúrgica tripla,Descartáveis,L2510-005-1,2027-01-04,58,36,19,0.18
+2025-10-01,Hospital Central,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2510-006-1,2027-01-23,82,43,21,0.31
+2025-10-01,Hospital Central,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2510-007-1,2027-02-11,22,14,6,0.12
+2025-10-01,Hospital Central,100108,Atadura crepe 10 cm,Descartáveis,L2510-008-1,2027-03-02,43,21,7,0.86
+2025-10-01,Hospital Central,100109,Fita microporosa 25 mm,Descartáveis,L2510-009-1,2027-03-21,46,28,8,1.4
+2025-10-01,Hospital Central,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2510-010-1,2027-04-09,59,35,9,4.35
+2025-10-01,Hospital Central,200202,Dipirona 500 mg,Medicamentos,L2510-011-1,2027-04-28,85,42,12,0.09
+2025-10-01,Hospital Central,200203,Paracetamol 750 mg,Medicamentos,L2510-012-1,2027-05-17,25,13,4,0.14
+2025-10-01,Hospital Central,200204,Omeprazol 20 mg,Medicamentos,L2510-013-1,2027-06-05,28,20,8,0.11
+2025-10-01,Hospital Central,200205,Loratadina 10 mg,Medicamentos,L2510-014-1,2027-06-24,47,27,13,0.16
+2025-10-01,Hospital Central,200206,Clorexidina 2% 100 ml,Medicamentos,L2510-015-1,2027-07-13,70,34,18,7.25
+2025-10-01,Hospital Central,200207,Glicose 50% 10 ml,Medicamentos,L2510-016-1,2027-08-01,85,41,23,0.82
+2025-10-01,Hospital Central,200208,Água para injeção 10 ml,Medicamentos,L2510-017-1,2027-08-20,15,12,6,0.65
+2025-10-01,Hospital Central,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2510-018-1,2027-09-08,32,19,9,18.9
+2025-10-01,Hospital Central,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2510-019-1,2027-09-27,47,26,11,12.4
+2025-10-01,Hospital Central,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2510-020-1,2027-10-16,71,33,11,0.78
+2025-10-01,Hospital Central,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2510-021-1,2027-11-04,68,40,12,3.1
+2025-10-01,Hospital Central,300305,Kit curativo estéril,Materiais cirúrgicos,L2510-022-1,2027-11-23,14,11,3,8.6
+2025-10-01,Hospital Central,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2510-023-1,2027-12-12,32,18,5,24.5
+2025-10-01,Hospital Central,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2510-024-1,2026-11-06,55,25,9,3.75
+2025-10-01,Hospital Central,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2510-025-1,2026-11-25,48,32,13,9.8
+2025-10-01,Hospital Central,400401,Detergente enzimático 1 L,Higiene e limpeza,L2510-026-1,2026-12-14,71,39,19,22.8
+2025-10-01,Hospital Central,400402,Álcool 70% 1 L,Higiene e limpeza,L2510-027-1,2027-01-02,16,10,5,8.9
+2025-10-01,Hospital Central,400403,Papel toalha interfolhado,Higiene e limpeza,L2510-028-1,2027-01-21,31,17,9,12.5
+2025-10-01,Hospital Central,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2510-029-1,2027-02-09,37,24,13,0.72
+2025-10-01,Hospital Central,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2510-030-1,2027-02-28,15,31,15,47.0
+2025-10-01,Hospital Central,500501,Termômetro digital clínico,Equipamentos,L2510-031-1,2027-03-19,72,38,16,18.0
+2025-10-01,Hospital Central,500502,Oxímetro de pulso portátil,Equipamentos,L2510-032-1,2027-04-07,14,9,3,135.0
+2025-10-01,Hospital Central,500503,Esfigmomanômetro adulto,Equipamentos,L2510-033-1,2027-04-26,23,16,5,88.0
+2025-10-01,Hospital Central,500504,Estetoscópio adulto,Equipamentos,L2510-034-1,2027-05-15,37,23,6,64.0
+2025-10-01,Hospital Central,500505,Balança digital portátil,Equipamentos,L2510-035-1,2027-06-03,59,30,9,210.0
+2025-10-01,Hospital Central,500506,Lanterna clínica LED,Equipamentos,L2510-036-1,2027-06-22,84,37,13,28.0
+2025-10-01,Hospital Central,500507,Nebulizador portátil,Equipamentos,L2510-037-1,2027-07-11,7,8,3,160.0
+2025-10-01,Hospital Central,500508,Sensor de oximetria adulto,Equipamentos,L2510-038-1,2026-10-20,23,15,7,42.0
+2025-10-01,Unidade Sul,100101,Seringa descartável 10 ml,Descartáveis,L2510-001-2,2026-11-12,18,13,6,1.25
+2025-10-01,Unidade Sul,100102,Luva de procedimento M,Descartáveis,L2510-002-2,2026-12-01,38,20,11,0.42
+2025-10-01,Unidade Sul,100103,Equipo macrogotas,Descartáveis,L2510-003-2,2026-12-20,62,27,15,2.8
+2025-10-01,Unidade Sul,100104,Cateter intravenoso 22G,Descartáveis,L2510-004-2,2027-01-08,56,34,18,1.95
+2025-10-01,Unidade Sul,100105,Máscara cirúrgica tripla,Descartáveis,L2510-005-2,2027-01-27,81,41,20,0.18
+2025-10-01,Unidade Sul,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2510-006-2,2027-02-15,29,12,5,0.31
+2025-10-01,Unidade Sul,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2510-007-2,2027-03-06,46,19,6,0.12
+2025-10-01,Unidade Sul,100108,Atadura crepe 10 cm,Descartáveis,L2510-008-2,2027-03-25,52,26,8,0.86
+2025-10-01,Unidade Sul,100109,Fita microporosa 25 mm,Descartáveis,L2510-009-2,2027-04-13,74,33,9,1.4
+2025-10-01,Unidade Sul,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2510-010-2,2027-05-02,75,40,12,4.35
+2025-10-01,Unidade Sul,200202,Dipirona 500 mg,Medicamentos,L2510-011-2,2027-05-21,21,11,4,0.09
+2025-10-01,Unidade Sul,200203,Paracetamol 750 mg,Medicamentos,L2510-012-2,2027-06-09,30,18,7,0.14
+2025-10-01,Unidade Sul,200204,Omeprazol 20 mg,Medicamentos,L2510-013-2,2027-06-28,45,25,12,0.11
+2025-10-01,Unidade Sul,200205,Loratadina 10 mg,Medicamentos,L2510-014-2,2027-07-17,69,32,17,0.16
+2025-10-01,Unidade Sul,200206,Clorexidina 2% 100 ml,Medicamentos,L2510-015-2,2027-08-05,96,39,22,7.25
+2025-10-01,Unidade Sul,200207,Glicose 50% 10 ml,Medicamentos,L2510-016-2,2027-08-24,20,10,5,0.82
+2025-10-01,Unidade Sul,200208,Água para injeção 10 ml,Medicamentos,L2510-017-2,2027-09-12,39,17,8,0.65
+2025-10-01,Unidade Sul,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2510-018-2,2027-10-01,60,24,10,18.9
+2025-10-01,Unidade Sul,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2510-019-2,2026-10-15,62,31,11,12.4
+2025-10-01,Unidade Sul,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2510-020-2,2027-11-08,63,38,11,0.78
+2025-10-01,Unidade Sul,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2510-021-2,2027-11-27,15,9,2,3.1
+2025-10-01,Unidade Sul,300305,Kit curativo estéril,Materiais cirúrgicos,L2510-022-2,2026-10-22,31,16,5,8.6
+2025-10-01,Unidade Sul,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2510-023-2,2026-11-10,54,23,8,24.5
+2025-10-01,Unidade Sul,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2510-024-2,2026-11-29,57,30,12,3.75
+2025-10-01,Unidade Sul,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2510-025-2,2026-12-18,73,37,18,9.8
+2025-10-01,Unidade Sul,400401,Detergente enzimático 1 L,Higiene e limpeza,L2510-026-2,2027-01-06,22,8,4,22.8
+2025-10-01,Unidade Sul,400402,Álcool 70% 1 L,Higiene e limpeza,L2510-027-2,2027-01-25,43,15,8,8.9
+2025-10-01,Unidade Sul,400403,Papel toalha interfolhado,Higiene e limpeza,L2510-028-2,2027-02-13,31,22,12,12.5
+2025-10-01,Unidade Sul,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2510-029-2,2027-03-04,14,29,14,0.72
+2025-10-01,Unidade Sul,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2510-030-2,2027-03-23,77,36,15,47.0
+2025-10-01,Unidade Sul,500501,Termômetro digital clínico,Equipamentos,L2510-031-2,2027-04-11,94,43,15,18.0
+2025-10-01,Unidade Sul,500502,Oxímetro de pulso portátil,Equipamentos,L2510-032-2,2027-04-30,25,14,4,135.0
+2025-10-01,Unidade Sul,500503,Esfigmomanômetro adulto,Equipamentos,L2510-033-2,2027-05-19,45,21,6,88.0
+2025-10-01,Unidade Sul,500504,Estetoscópio adulto,Equipamentos,L2510-034-2,2027-06-07,61,28,8,64.0
+2025-10-01,Unidade Sul,500505,Balança digital portátil,Equipamentos,L2510-035-2,2027-06-26,87,35,12,210.0
+2025-10-01,Unidade Sul,500506,Lanterna clínica LED,Equipamentos,L2510-036-2,2027-07-15,85,42,17,28.0
+2025-10-01,Unidade Sul,500507,Nebulizador portátil,Equipamentos,L2510-037-2,2027-08-03,18,13,6,160.0
+2025-10-01,Unidade Sul,500508,Sensor de oximetria adulto,Equipamentos,L2510-038-2,2027-08-22,38,20,11,42.0
+2025-10-01,Unidade Leste,100101,Seringa descartável 10 ml,Descartáveis,L2510-001-3,2026-12-05,29,18,10,1.25
+2025-10-01,Unidade Leste,100102,Luva de procedimento M,Descartáveis,L2510-002-3,2026-12-24,54,25,14,0.42
+2025-10-01,Unidade Leste,100103,Equipo macrogotas,Descartáveis,L2510-003-3,2027-01-12,58,32,17,2.8
+2025-10-01,Unidade Leste,100104,Cateter intravenoso 22G,Descartáveis,L2510-004-3,2027-01-31,74,39,19,1.95
+2025-10-01,Unidade Leste,100105,Máscara cirúrgica tripla,Descartáveis,L2510-005-3,2027-02-19,28,10,4,0.18
+2025-10-01,Unidade Leste,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2510-006-3,2027-03-10,35,17,6,0.31
+2025-10-01,Unidade Leste,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2510-007-3,2027-03-29,38,24,7,0.12
+2025-10-01,Unidade Leste,100108,Atadura crepe 10 cm,Descartáveis,L2510-008-3,2027-04-17,61,31,8,0.86
+2025-10-01,Unidade Leste,100109,Fita microporosa 25 mm,Descartáveis,L2510-009-3,2027-05-06,88,38,11,1.4
+2025-10-01,Unidade Leste,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2510-010-3,2027-05-25,13,9,3,4.35
+2025-10-01,Unidade Leste,200202,Dipirona 500 mg,Medicamentos,L2510-011-3,2027-06-13,24,16,7,0.09
+2025-10-01,Unidade Leste,200203,Paracetamol 750 mg,Medicamentos,L2510-012-3,2027-07-02,46,23,11,0.14
+2025-10-01,Unidade Leste,200204,Omeprazol 20 mg,Medicamentos,L2510-013-3,2027-07-21,63,30,16,0.11
+2025-10-01,Unidade Leste,200205,Loratadina 10 mg,Medicamentos,L2510-014-3,2027-08-09,91,37,20,0.16
+2025-10-01,Unidade Leste,200206,Clorexidina 2% 100 ml,Medicamentos,L2510-015-3,2027-08-28,9,8,4,7.25
+2025-10-01,Unidade Leste,200207,Glicose 50% 10 ml,Medicamentos,L2510-016-3,2027-09-16,26,15,7,0.82
+2025-10-01,Unidade Leste,200208,Água para injeção 10 ml,Medicamentos,L2510-017-3,2027-10-05,48,22,9,0.65
+2025-10-01,Unidade Leste,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2510-018-3,2027-10-24,74,29,10,18.9
+2025-10-01,Unidade Leste,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2510-019-3,2027-11-12,53,36,10,12.4
+2025-10-01,Unidade Leste,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2510-020-3,2027-12-01,79,43,12,0.78
+2025-10-01,Unidade Leste,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2510-021-3,2026-10-26,31,14,4,3.1
+2025-10-01,Unidade Leste,300305,Kit curativo estéril,Materiais cirúrgicos,L2510-022-3,2026-11-14,49,21,7,8.6
+2025-10-01,Unidade Leste,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2510-023-3,2026-12-03,56,28,12,24.5
+2025-10-01,Unidade Leste,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2510-024-3,2026-12-22,65,35,17,3.75
+2025-10-01,Unidade Leste,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2510-025-3,2027-01-10,82,42,22,9.8
+2025-10-01,Unidade Leste,400401,Detergente enzimático 1 L,Higiene e limpeza,L2510-026-3,2027-01-29,31,13,7,22.8
+2025-10-01,Unidade Leste,400402,Álcool 70% 1 L,Higiene e limpeza,L2510-027-3,2027-02-17,41,20,11,8.9
+2025-10-01,Unidade Leste,400403,Papel toalha interfolhado,Higiene e limpeza,L2510-028-3,2027-03-08,13,27,13,12.5
+2025-10-01,Unidade Leste,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2510-029-3,2027-03-27,68,34,14,0.72
+2025-10-01,Unidade Leste,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2510-030-3,2027-04-15,97,41,14,47.0
+2025-10-01,Unidade Leste,500501,Termômetro digital clínico,Equipamentos,L2510-031-3,2027-05-04,23,12,3,18.0
+2025-10-01,Unidade Leste,500502,Oxímetro de pulso portátil,Equipamentos,L2510-032-3,2027-05-23,43,19,5,135.0
+2025-10-01,Unidade Leste,500503,Esfigmomanômetro adulto,Equipamentos,L2510-033-3,2027-06-11,52,26,8,88.0
+2025-10-01,Unidade Leste,500504,Estetoscópio adulto,Equipamentos,L2510-034-3,2027-06-30,70,33,11,64.0
+2025-10-01,Unidade Leste,500505,Balança digital portátil,Equipamentos,L2510-035-3,2027-07-19,71,40,16,210.0
+2025-10-01,Unidade Leste,500506,Lanterna clínica LED,Equipamentos,L2510-036-3,2027-08-07,27,11,5,28.0
+2025-10-01,Unidade Leste,500507,Nebulizador portátil,Equipamentos,L2510-037-3,2026-10-16,29,18,10,160.0
+2025-10-01,Unidade Leste,500508,Sensor de oximetria adulto,Equipamentos,L2510-038-3,2027-09-14,54,25,14,42.0
+2025-11-01,Hospital Central,100101,Seringa descartável 10 ml,Descartáveis,L2511-001-1,2027-12-03,9,8,4,1.25
+2025-11-01,Hospital Central,100102,Luva de procedimento M,Descartáveis,L2511-002-1,2026-10-28,26,15,8,0.42
+2025-11-01,Hospital Central,100103,Equipo macrogotas,Descartáveis,L2511-003-1,2026-11-16,45,22,12,2.8
+2025-11-01,Hospital Central,100104,Cateter intravenoso 22G,Descartáveis,L2511-004-1,2026-12-05,63,29,15,1.95
+2025-11-01,Hospital Central,100105,Máscara cirúrgica tripla,Descartáveis,L2511-005-1,2026-12-24,62,36,17,0.18
+2025-11-01,Hospital Central,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2511-006-1,2027-01-12,84,43,18,0.31
+2025-11-01,Hospital Central,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2511-007-1,2027-01-31,25,14,5,0.12
+2025-11-01,Hospital Central,100108,Atadura crepe 10 cm,Descartáveis,L2511-008-1,2027-02-19,46,21,6,0.86
+2025-11-01,Hospital Central,100109,Fita microporosa 25 mm,Descartáveis,L2511-009-1,2027-03-10,47,28,8,1.4
+2025-11-01,Hospital Central,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2511-010-1,2027-03-29,64,35,10,4.35
+2025-11-01,Hospital Central,200202,Dipirona 500 mg,Medicamentos,L2511-011-1,2027-04-17,89,42,14,0.09
+2025-11-01,Hospital Central,200203,Paracetamol 750 mg,Medicamentos,L2511-012-1,2027-05-06,27,13,5,0.14
+2025-11-01,Hospital Central,200204,Omeprazol 20 mg,Medicamentos,L2511-013-1,2027-05-25,31,20,10,0.11
+2025-11-01,Hospital Central,200205,Loratadina 10 mg,Medicamentos,L2511-014-1,2027-06-13,50,27,14,0.16
+2025-11-01,Hospital Central,200206,Clorexidina 2% 100 ml,Medicamentos,L2511-015-1,2027-07-02,72,34,19,7.25
+2025-11-01,Hospital Central,200207,Glicose 50% 10 ml,Medicamentos,L2511-016-1,2027-07-21,91,41,22,0.82
+2025-11-01,Hospital Central,200208,Água para injeção 10 ml,Medicamentos,L2511-017-1,2027-08-09,17,12,6,0.65
+2025-11-01,Hospital Central,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2511-018-1,2027-08-28,34,19,8,18.9
+2025-11-01,Hospital Central,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2511-019-1,2026-10-23,51,26,9,12.4
+2025-11-01,Hospital Central,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2511-020-1,2027-10-05,75,33,10,0.78
+2025-11-01,Hospital Central,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2511-021-1,2027-10-24,70,40,11,3.1
+2025-11-01,Hospital Central,300305,Kit curativo estéril,Materiais cirúrgicos,L2511-022-1,2027-11-12,17,11,3,8.6
+2025-11-01,Hospital Central,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2511-023-1,2027-12-01,35,18,6,24.5
+2025-11-01,Hospital Central,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2511-024-1,2026-10-26,56,25,10,3.75
+2025-11-01,Hospital Central,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2511-025-1,2026-11-14,52,32,15,9.8
+2025-11-01,Hospital Central,400401,Detergente enzimático 1 L,Higiene e limpeza,L2511-026-1,2026-12-03,75,39,21,22.8
+2025-11-01,Hospital Central,400402,Álcool 70% 1 L,Higiene e limpeza,L2511-027-1,2026-12-22,18,10,6,8.9
+2025-11-01,Hospital Central,400403,Papel toalha interfolhado,Higiene e limpeza,L2511-028-1,2027-01-10,35,17,9,12.5
+2025-11-01,Hospital Central,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2511-029-1,2027-01-29,12,24,12,0.72
+2025-11-01,Hospital Central,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2511-030-1,2027-02-17,59,31,13,47.0
+2025-11-01,Hospital Central,500501,Termômetro digital clínico,Equipamentos,L2511-031-1,2027-03-08,77,38,13,18.0
+2025-11-01,Hospital Central,500502,Oxímetro de pulso portátil,Equipamentos,L2511-032-1,2027-03-27,17,9,3,135.0
+2025-11-01,Hospital Central,500503,Esfigmomanômetro adulto,Equipamentos,L2511-033-1,2027-04-15,25,16,4,88.0
+2025-11-01,Hospital Central,500504,Estetoscópio adulto,Equipamentos,L2511-034-1,2027-05-04,40,23,7,64.0
+2025-11-01,Hospital Central,500505,Balança digital portátil,Equipamentos,L2511-035-1,2027-05-23,62,30,10,210.0
+2025-11-01,Hospital Central,500506,Lanterna clínica LED,Equipamentos,L2511-036-1,2027-06-11,86,37,15,28.0
+2025-11-01,Hospital Central,500507,Nebulizador portátil,Equipamentos,L2511-037-1,2027-06-30,9,8,4,160.0
+2025-11-01,Hospital Central,500508,Sensor de oximetria adulto,Equipamentos,L2511-038-1,2027-07-19,26,15,8,42.0
+2025-11-01,Unidade Sul,100101,Seringa descartável 10 ml,Descartáveis,L2511-001-2,2026-11-01,20,13,7,1.25
+2025-11-01,Unidade Sul,100102,Luva de procedimento M,Descartáveis,L2511-002-2,2026-11-20,40,20,11,0.42
+2025-11-01,Unidade Sul,100103,Equipo macrogotas,Descartáveis,L2511-003-2,2026-12-09,63,27,14,2.8
+2025-11-01,Unidade Sul,100104,Cateter intravenoso 22G,Descartáveis,L2511-004-2,2026-12-28,59,34,16,1.95
+2025-11-01,Unidade Sul,100105,Máscara cirúrgica tripla,Descartáveis,L2511-005-2,2027-01-16,83,41,17,0.18
+2025-11-01,Unidade Sul,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2511-006-2,2027-02-04,30,12,4,0.31
+2025-11-01,Unidade Sul,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2511-007-2,2027-02-23,48,19,6,0.12
+2025-11-01,Unidade Sul,100108,Atadura crepe 10 cm,Descartáveis,L2511-008-2,2027-03-14,54,26,7,0.86
+2025-11-01,Unidade Sul,100109,Fita microporosa 25 mm,Descartáveis,L2511-009-2,2027-04-02,60,33,10,1.4
+2025-11-01,Unidade Sul,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2511-010-2,2027-04-21,79,40,14,4.35
+2025-11-01,Unidade Sul,200202,Dipirona 500 mg,Medicamentos,L2511-011-2,2027-05-10,23,11,5,0.09
+2025-11-01,Unidade Sul,200203,Paracetamol 750 mg,Medicamentos,L2511-012-2,2027-05-29,31,18,9,0.14
+2025-11-01,Unidade Sul,200204,Omeprazol 20 mg,Medicamentos,L2511-013-2,2027-06-17,48,25,13,0.11
+2025-11-01,Unidade Sul,200205,Loratadina 10 mg,Medicamentos,L2511-014-2,2027-07-06,71,32,18,0.16
+2025-11-01,Unidade Sul,200206,Clorexidina 2% 100 ml,Medicamentos,L2511-015-2,2027-07-25,97,39,21,7.25
+2025-11-01,Unidade Sul,200207,Glicose 50% 10 ml,Medicamentos,L2511-016-2,2027-08-13,23,10,5,0.82
+2025-11-01,Unidade Sul,200208,Água para injeção 10 ml,Medicamentos,L2511-017-2,2027-09-01,41,17,7,0.65
+2025-11-01,Unidade Sul,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2511-018-2,2027-09-20,46,24,8,18.9
+2025-11-01,Unidade Sul,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2511-019-2,2027-10-09,66,31,9,12.4
+2025-11-01,Unidade Sul,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2511-020-2,2027-10-28,65,38,10,0.78
+2025-11-01,Unidade Sul,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2511-021-2,2027-11-16,16,9,3,3.1
+2025-11-01,Unidade Sul,300305,Kit curativo estéril,Materiais cirúrgicos,L2511-022-2,2027-12-05,34,16,5,8.6
+2025-11-01,Unidade Sul,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2511-023-2,2026-10-30,56,23,9,24.5
+2025-11-01,Unidade Sul,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2511-024-2,2026-11-18,58,30,14,3.75
+2025-11-01,Unidade Sul,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2511-025-2,2026-12-07,76,37,20,9.8
+2025-11-01,Unidade Sul,400401,Detergente enzimático 1 L,Higiene e limpeza,L2511-026-2,2026-12-26,24,8,4,22.8
+2025-11-01,Unidade Sul,400402,Álcool 70% 1 L,Higiene e limpeza,L2511-027-2,2027-01-14,29,15,8,8.9
+2025-11-01,Unidade Sul,400403,Papel toalha interfolhado,Higiene e limpeza,L2511-028-2,2027-02-02,11,22,11,12.5
+2025-11-01,Unidade Sul,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2511-029-2,2027-02-21,54,29,12,0.72
+2025-11-01,Unidade Sul,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2511-030-2,2027-03-12,78,36,12,47.0
+2025-11-01,Unidade Sul,500501,Termômetro digital clínico,Equipamentos,L2511-031-2,2027-03-31,98,43,12,18.0
+2025-11-01,Unidade Sul,500502,Oxímetro de pulso portátil,Equipamentos,L2511-032-2,2027-04-19,27,14,4,135.0
+2025-11-01,Unidade Sul,500503,Esfigmomanômetro adulto,Equipamentos,L2511-033-2,2027-05-08,46,21,6,88.0
+2025-11-01,Unidade Sul,500504,Estetoscópio adulto,Equipamentos,L2511-034-2,2027-05-27,64,28,10,64.0
+2025-11-01,Unidade Sul,500505,Balança digital portátil,Equipamentos,L2511-035-2,2027-06-15,90,35,14,210.0
+2025-11-01,Unidade Sul,500506,Lanterna clínica LED,Equipamentos,L2511-036-2,2027-07-04,70,42,20,28.0
+2025-11-01,Unidade Sul,500507,Nebulizador portátil,Equipamentos,L2511-037-2,2026-10-24,20,13,7,160.0
+2025-11-01,Unidade Sul,500508,Sensor de oximetria adulto,Equipamentos,L2511-038-2,2027-08-11,40,20,11,42.0
+2025-11-01,Unidade Leste,100101,Seringa descartável 10 ml,Descartáveis,L2511-001-3,2026-11-24,32,18,10,1.25
+2025-11-01,Unidade Leste,100102,Luva de procedimento M,Descartáveis,L2511-002-3,2026-12-13,56,25,13,0.42
+2025-11-01,Unidade Leste,100103,Equipo macrogotas,Descartáveis,L2511-003-3,2027-01-01,59,32,15,2.8
+2025-11-01,Unidade Leste,100104,Cateter intravenoso 22G,Descartáveis,L2511-004-3,2027-01-20,78,39,16,1.95
+2025-11-01,Unidade Leste,100105,Máscara cirúrgica tripla,Descartáveis,L2511-005-3,2027-02-08,14,10,3,0.18
+2025-11-01,Unidade Leste,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2511-006-3,2027-02-27,36,17,5,0.31
+2025-11-01,Unidade Leste,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2511-007-3,2027-03-18,41,24,6,0.12
+2025-11-01,Unidade Leste,100108,Atadura crepe 10 cm,Descartáveis,L2511-008-3,2027-04-06,64,31,9,0.86
+2025-11-01,Unidade Leste,100109,Fita microporosa 25 mm,Descartáveis,L2511-009-3,2027-04-25,89,38,13,1.4
+2025-11-01,Unidade Leste,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2511-010-3,2027-05-14,15,9,4,4.35
+2025-11-01,Unidade Leste,200202,Dipirona 500 mg,Medicamentos,L2511-011-3,2027-06-02,26,16,8,0.09
+2025-11-01,Unidade Leste,200203,Paracetamol 750 mg,Medicamentos,L2511-012-3,2027-06-21,47,23,12,0.14
+2025-11-01,Unidade Leste,200204,Omeprazol 20 mg,Medicamentos,L2511-013-3,2027-07-10,66,30,17,0.11
+2025-11-01,Unidade Leste,200205,Loratadina 10 mg,Medicamentos,L2511-014-3,2027-07-29,78,37,20,0.16
+2025-11-01,Unidade Leste,200206,Clorexidina 2% 100 ml,Medicamentos,L2511-015-3,2027-08-17,11,8,4,7.25
+2025-11-01,Unidade Leste,200207,Glicose 50% 10 ml,Medicamentos,L2511-016-3,2027-09-05,28,15,6,0.82
+2025-11-01,Unidade Leste,200208,Água para injeção 10 ml,Medicamentos,L2511-017-3,2027-09-24,50,22,8,0.65
+2025-11-01,Unidade Leste,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2511-018-3,2026-10-19,75,29,8,18.9
+2025-11-01,Unidade Leste,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2511-019-3,2027-11-01,56,36,10,12.4
+2025-11-01,Unidade Leste,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2511-020-3,2027-11-20,82,43,12,0.78
+2025-11-01,Unidade Leste,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2511-021-3,2027-12-09,32,14,5,3.1
+2025-11-01,Unidade Leste,300305,Kit curativo estéril,Materiais cirúrgicos,L2511-022-3,2026-11-03,52,21,9,8.6
+2025-11-01,Unidade Leste,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2511-023-3,2026-11-22,42,28,14,24.5
+2025-11-01,Unidade Leste,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2511-024-3,2026-12-11,66,35,19,3.75
+2025-11-01,Unidade Leste,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2511-025-3,2026-12-30,86,42,23,9.8
+2025-11-01,Unidade Leste,400401,Detergente enzimático 1 L,Higiene e limpeza,L2511-026-3,2027-01-18,33,13,7,22.8
+2025-11-01,Unidade Leste,400402,Álcool 70% 1 L,Higiene e limpeza,L2511-027-3,2027-02-06,10,20,10,8.9
+2025-11-01,Unidade Leste,400403,Papel toalha interfolhado,Higiene e limpeza,L2511-028-3,2027-02-25,45,27,11,12.5
+2025-11-01,Unidade Leste,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2511-029-3,2027-03-16,70,34,12,0.72
+2025-11-01,Unidade Leste,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2511-030-3,2027-04-04,97,41,12,47.0
+2025-11-01,Unidade Leste,500501,Termômetro digital clínico,Equipamentos,L2511-031-3,2027-04-23,25,12,3,18.0
+2025-11-01,Unidade Leste,500502,Oxímetro de pulso portátil,Equipamentos,L2511-032-3,2027-05-12,30,19,6,135.0
+2025-11-01,Unidade Leste,500503,Esfigmomanômetro adulto,Equipamentos,L2511-033-3,2027-05-31,53,26,9,88.0
+2025-11-01,Unidade Leste,500504,Estetoscópio adulto,Equipamentos,L2511-034-3,2027-06-19,73,33,14,64.0
+2025-11-01,Unidade Leste,500505,Balança digital portátil,Equipamentos,L2511-035-3,2027-07-08,74,40,19,210.0
+2025-11-01,Unidade Leste,500506,Lanterna clínica LED,Equipamentos,L2511-036-3,2027-07-27,28,11,6,28.0
+2025-11-01,Unidade Leste,500507,Nebulizador portátil,Equipamentos,L2511-037-3,2027-08-15,32,18,10,160.0
+2025-11-01,Unidade Leste,500508,Sensor de oximetria adulto,Equipamentos,L2511-038-3,2027-09-03,56,25,13,42.0
+2025-12-01,Hospital Central,100101,Seringa descartável 10 ml,Descartáveis,L2512-001-1,2027-11-22,11,8,4,1.25
+2025-12-01,Hospital Central,100102,Luva de procedimento M,Descartáveis,L2512-002-1,2027-12-11,27,15,8,0.42
+2025-12-01,Hospital Central,100103,Equipo macrogotas,Descartáveis,L2512-003-1,2026-11-05,45,22,12,2.8
+2025-12-01,Hospital Central,100104,Cateter intravenoso 22G,Descartáveis,L2512-004-1,2026-11-24,65,29,14,1.95
+2025-12-01,Hospital Central,100105,Máscara cirúrgica tripla,Descartáveis,L2512-005-1,2026-12-13,63,36,15,0.18
+2025-12-01,Hospital Central,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2512-006-1,2027-01-01,82,43,15,0.31
+2025-12-01,Hospital Central,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2512-007-1,2027-01-20,27,14,4,0.12
+2025-12-01,Hospital Central,100108,Atadura crepe 10 cm,Descartáveis,L2512-008-1,2027-02-08,47,21,6,0.86
+2025-12-01,Hospital Central,100109,Fita microporosa 25 mm,Descartáveis,L2512-009-1,2027-02-27,47,28,8,1.4
+2025-12-01,Hospital Central,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2512-010-1,2027-03-18,66,35,12,4.35
+2025-12-01,Hospital Central,200202,Dipirona 500 mg,Medicamentos,L2512-011-1,2027-04-06,89,42,17,0.09
+2025-12-01,Hospital Central,200203,Paracetamol 750 mg,Medicamentos,L2512-012-1,2027-04-25,27,13,6,0.14
+2025-12-01,Hospital Central,200204,Omeprazol 20 mg,Medicamentos,L2512-013-1,2027-05-14,33,20,11,0.11
+2025-12-01,Hospital Central,200205,Loratadina 10 mg,Medicamentos,L2512-014-1,2027-06-02,51,27,15,0.16
+2025-12-01,Hospital Central,200206,Clorexidina 2% 100 ml,Medicamentos,L2512-015-1,2027-06-21,71,34,18,7.25
+2025-12-01,Hospital Central,200207,Glicose 50% 10 ml,Medicamentos,L2512-016-1,2027-07-10,94,41,20,0.82
+2025-12-01,Hospital Central,200208,Água para injeção 10 ml,Medicamentos,L2512-017-1,2027-07-29,19,12,5,0.65
+2025-12-01,Hospital Central,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2512-018-1,2027-08-17,34,19,6,18.9
+2025-12-01,Hospital Central,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2512-019-1,2027-09-05,53,26,8,12.4
+2025-12-01,Hospital Central,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2512-020-1,2027-09-24,76,33,9,0.78
+2025-12-01,Hospital Central,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2512-021-1,2027-10-13,69,40,12,3.1
+2025-12-01,Hospital Central,300305,Kit curativo estéril,Materiais cirúrgicos,L2512-022-1,2027-11-01,19,11,4,8.6
+2025-12-01,Hospital Central,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2512-023-1,2027-11-20,36,18,7,24.5
+2025-12-01,Hospital Central,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2512-024-1,2027-12-09,56,25,12,3.75
+2025-12-01,Hospital Central,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2512-025-1,2026-11-03,54,32,17,9.8
+2025-12-01,Hospital Central,400401,Detergente enzimático 1 L,Higiene e limpeza,L2512-026-1,2026-11-22,75,39,22,22.8
+2025-12-01,Hospital Central,400402,Álcool 70% 1 L,Higiene e limpeza,L2512-027-1,2026-12-11,18,10,5,8.9
+2025-12-01,Hospital Central,400403,Papel toalha interfolhado,Higiene e limpeza,L2512-028-1,2026-12-30,8,17,8,12.5
+2025-12-01,Hospital Central,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2512-029-1,2027-01-18,41,24,10,0.72
+2025-12-01,Hospital Central,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2512-030-1,2027-02-06,58,31,11,47.0
+2025-12-01,Hospital Central,500501,Termômetro digital clínico,Equipamentos,L2512-031-1,2027-02-25,79,38,11,18.0
+2025-12-01,Hospital Central,500502,Oxímetro de pulso portátil,Equipamentos,L2512-032-1,2027-03-16,18,9,2,135.0
+2025-12-01,Hospital Central,500503,Esfigmomanômetro adulto,Equipamentos,L2512-033-1,2027-04-04,26,16,5,88.0
+2025-12-01,Hospital Central,500504,Estetoscópio adulto,Equipamentos,L2512-034-1,2027-04-23,42,23,8,64.0
+2025-12-01,Hospital Central,500505,Balança digital portátil,Equipamentos,L2512-035-1,2027-05-12,63,30,12,210.0
+2025-12-01,Hospital Central,500506,Lanterna clínica LED,Equipamentos,L2512-036-1,2027-05-31,84,37,18,28.0
+2025-12-01,Hospital Central,500507,Nebulizador portátil,Equipamentos,L2512-037-1,2026-10-17,11,8,4,160.0
+2025-12-01,Hospital Central,500508,Sensor de oximetria adulto,Equipamentos,L2512-038-1,2027-07-08,27,15,8,42.0
+2025-12-01,Unidade Sul,100101,Seringa descartável 10 ml,Descartáveis,L2512-001-2,2026-10-21,22,13,7,1.25
+2025-12-01,Unidade Sul,100102,Luva de procedimento M,Descartáveis,L2512-002-2,2026-11-09,41,20,11,0.42
+2025-12-01,Unidade Sul,100103,Equipo macrogotas,Descartáveis,L2512-003-2,2026-11-28,62,27,13,2.8
+2025-12-01,Unidade Sul,100104,Cateter intravenoso 22G,Descartáveis,L2512-004-2,2026-12-17,62,34,14,1.95
+2025-12-01,Unidade Sul,100105,Máscara cirúrgica tripla,Descartáveis,L2512-005-2,2027-01-05,84,41,14,0.18
+2025-12-01,Unidade Sul,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2512-006-2,2027-01-24,31,12,3,0.31
+2025-12-01,Unidade Sul,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2512-007-2,2027-02-12,51,19,5,0.12
+2025-12-01,Unidade Sul,100108,Atadura crepe 10 cm,Descartáveis,L2512-008-2,2027-03-03,40,26,8,0.86
+2025-12-01,Unidade Sul,100109,Fita microporosa 25 mm,Descartáveis,L2512-009-2,2027-03-22,59,33,11,1.4
+2025-12-01,Unidade Sul,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2512-010-2,2027-04-10,82,40,16,4.35
+2025-12-01,Unidade Sul,200202,Dipirona 500 mg,Medicamentos,L2512-011-2,2027-04-29,24,11,5,0.09
+2025-12-01,Unidade Sul,200203,Paracetamol 750 mg,Medicamentos,L2512-012-2,2027-05-18,32,18,10,0.14
+2025-12-01,Unidade Sul,200204,Omeprazol 20 mg,Medicamentos,L2512-013-2,2027-06-06,50,25,14,0.11
+2025-12-01,Unidade Sul,200205,Loratadina 10 mg,Medicamentos,L2512-014-2,2027-06-25,72,32,17,0.16
+2025-12-01,Unidade Sul,200206,Clorexidina 2% 100 ml,Medicamentos,L2512-015-2,2027-07-14,95,39,19,7.25
+2025-12-01,Unidade Sul,200207,Glicose 50% 10 ml,Medicamentos,L2512-016-2,2027-08-02,24,10,4,0.82
+2025-12-01,Unidade Sul,200208,Água para injeção 10 ml,Medicamentos,L2512-017-2,2027-08-21,27,17,6,0.65
+2025-12-01,Unidade Sul,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2512-018-2,2026-10-27,46,24,7,18.9
+2025-12-01,Unidade Sul,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2512-019-2,2027-09-28,68,31,8,12.4
+2025-12-01,Unidade Sul,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2512-020-2,2027-10-17,66,38,11,0.78
+2025-12-01,Unidade Sul,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2512-021-2,2027-11-05,17,9,3,3.1
+2025-12-01,Unidade Sul,300305,Kit curativo estéril,Materiais cirúrgicos,L2512-022-2,2027-11-24,36,16,7,8.6
+2025-12-01,Unidade Sul,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2512-023-2,2027-12-13,57,23,11,24.5
+2025-12-01,Unidade Sul,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2512-024-2,2026-11-07,58,30,16,3.75
+2025-12-01,Unidade Sul,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2512-025-2,2026-11-26,79,37,20,9.8
+2025-12-01,Unidade Sul,400401,Detergente enzimático 1 L,Higiene e limpeza,L2512-026-2,2026-12-15,10,8,4,22.8
+2025-12-01,Unidade Sul,400402,Álcool 70% 1 L,Higiene e limpeza,L2512-027-2,2027-01-03,7,15,7,8.9
+2025-12-01,Unidade Sul,400403,Papel toalha interfolhado,Higiene e limpeza,L2512-028-2,2027-01-22,35,22,9,12.5
+2025-12-01,Unidade Sul,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2512-029-2,2027-02-10,55,29,10,0.72
+2025-12-01,Unidade Sul,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2512-030-2,2027-03-01,76,36,10,47.0
+2025-12-01,Unidade Sul,500501,Termômetro digital clínico,Equipamentos,L2512-031-2,2027-03-20,101,43,12,18.0
+2025-12-01,Unidade Sul,500502,Oxímetro de pulso portátil,Equipamentos,L2512-032-2,2027-04-08,28,14,4,135.0
+2025-12-01,Unidade Sul,500503,Esfigmomanômetro adulto,Equipamentos,L2512-033-2,2027-04-27,46,21,7,88.0
+2025-12-01,Unidade Sul,500504,Estetoscópio adulto,Equipamentos,L2512-034-2,2027-05-16,66,28,12,64.0
+2025-12-01,Unidade Sul,500505,Balança digital portátil,Equipamentos,L2512-035-2,2027-06-04,75,35,17,210.0
+2025-12-01,Unidade Sul,500506,Lanterna clínica LED,Equipamentos,L2512-036-2,2027-06-23,69,42,22,28.0
+2025-12-01,Unidade Sul,500507,Nebulizador portátil,Equipamentos,L2512-037-2,2027-07-12,22,13,7,160.0
+2025-12-01,Unidade Sul,500508,Sensor de oximetria adulto,Equipamentos,L2512-038-2,2027-07-31,41,20,11,42.0
+2025-12-01,Unidade Leste,100101,Seringa descartável 10 ml,Descartáveis,L2512-001-3,2026-11-13,34,18,10,1.25
+2025-12-01,Unidade Leste,100102,Luva de procedimento M,Descartáveis,L2512-002-3,2026-12-02,58,25,12,0.42
+2025-12-01,Unidade Leste,100103,Equipo macrogotas,Descartáveis,L2512-003-3,2026-12-21,59,32,13,2.8
+2025-12-01,Unidade Leste,100104,Cateter intravenoso 22G,Descartáveis,L2512-004-3,2027-01-09,82,39,13,1.95
+2025-12-01,Unidade Leste,100105,Máscara cirúrgica tripla,Descartáveis,L2512-005-3,2027-01-28,16,10,3,0.18
+2025-12-01,Unidade Leste,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2512-006-3,2027-02-16,37,17,5,0.31
+2025-12-01,Unidade Leste,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2512-007-3,2027-03-07,43,24,7,0.12
+2025-12-01,Unidade Leste,100108,Atadura crepe 10 cm,Descartáveis,L2512-008-3,2027-03-26,65,31,11,0.86
+2025-12-01,Unidade Leste,100109,Fita microporosa 25 mm,Descartáveis,L2512-009-3,2027-04-14,73,38,16,1.4
+2025-12-01,Unidade Leste,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2512-010-3,2027-05-03,17,9,4,4.35
+2025-12-01,Unidade Leste,200202,Dipirona 500 mg,Medicamentos,L2512-011-3,2027-05-22,28,16,9,0.09
+2025-12-01,Unidade Leste,200203,Paracetamol 750 mg,Medicamentos,L2512-012-3,2027-06-10,48,23,13,0.14
+2025-12-01,Unidade Leste,200204,Omeprazol 20 mg,Medicamentos,L2512-013-3,2027-06-29,70,30,16,0.11
+2025-12-01,Unidade Leste,200205,Loratadina 10 mg,Medicamentos,L2512-014-3,2027-07-18,80,37,18,0.16
+2025-12-01,Unidade Leste,200206,Clorexidina 2% 100 ml,Medicamentos,L2512-015-3,2027-08-06,12,8,3,7.25
+2025-12-01,Unidade Leste,200207,Glicose 50% 10 ml,Medicamentos,L2512-016-3,2027-08-25,31,15,5,0.82
+2025-12-01,Unidade Leste,200208,Água para injeção 10 ml,Medicamentos,L2512-017-3,2027-09-13,52,22,6,0.65
+2025-12-01,Unidade Leste,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2512-018-3,2027-10-02,59,29,8,18.9
+2025-12-01,Unidade Leste,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2512-019-3,2027-10-21,59,36,10,12.4
+2025-12-01,Unidade Leste,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2512-020-3,2027-11-09,84,43,15,0.78
+2025-12-01,Unidade Leste,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2512-021-3,2027-11-28,33,14,6,3.1
+2025-12-01,Unidade Leste,300305,Kit curativo estéril,Materiais cirúrgicos,L2512-022-3,2026-10-23,55,21,10,8.6
+2025-12-01,Unidade Leste,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2512-023-3,2026-11-11,44,28,15,24.5
+2025-12-01,Unidade Leste,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2512-024-3,2026-11-30,66,35,19,3.75
+2025-12-01,Unidade Leste,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2512-025-3,2026-12-19,90,42,22,9.8
+2025-12-01,Unidade Leste,400401,Detergente enzimático 1 L,Higiene e limpeza,L2512-026-3,2027-01-07,6,13,6,22.8
+2025-12-01,Unidade Leste,400402,Álcool 70% 1 L,Higiene e limpeza,L2512-027-3,2027-01-26,28,20,8,8.9
+2025-12-01,Unidade Leste,400403,Papel toalha interfolhado,Higiene e limpeza,L2512-028-3,2027-02-14,48,27,9,12.5
+2025-12-01,Unidade Leste,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2512-029-3,2027-03-05,72,34,10,0.72
+2025-12-01,Unidade Leste,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2512-030-3,2027-03-24,97,41,11,47.0
+2025-12-01,Unidade Leste,500501,Termômetro digital clínico,Equipamentos,L2512-031-3,2027-04-12,28,12,3,18.0
+2025-12-01,Unidade Leste,500502,Oxímetro de pulso portátil,Equipamentos,L2512-032-3,2027-05-01,32,19,6,135.0
+2025-12-01,Unidade Leste,500503,Esfigmomanômetro adulto,Equipamentos,L2512-033-3,2027-05-20,53,26,11,88.0
+2025-12-01,Unidade Leste,500504,Estetoscópio adulto,Equipamentos,L2512-034-3,2027-06-08,77,33,16,64.0
+2025-12-01,Unidade Leste,500505,Balança digital portátil,Equipamentos,L2512-035-3,2027-06-27,76,40,21,210.0
+2025-12-01,Unidade Leste,500506,Lanterna clínica LED,Equipamentos,L2512-036-3,2026-10-28,14,11,6,28.0
+2025-12-01,Unidade Leste,500507,Nebulizador portátil,Equipamentos,L2512-037-3,2027-08-04,34,18,10,160.0
+2025-12-01,Unidade Leste,500508,Sensor de oximetria adulto,Equipamentos,L2512-038-3,2027-08-23,58,25,12,42.0
+2026-01-01,Hospital Central,100101,Seringa descartável 10 ml,Descartáveis,L2601-001-1,2027-11-11,13,8,4,1.25
+2026-01-01,Hospital Central,100102,Luva de procedimento M,Descartáveis,L2601-002-1,2027-11-30,27,15,8,0.42
+2026-01-01,Hospital Central,100103,Equipo macrogotas,Descartáveis,L2601-003-1,2026-10-25,43,22,11,2.8
+2026-01-01,Hospital Central,100104,Cateter intravenoso 22G,Descartáveis,L2601-004-1,2026-11-13,66,29,12,1.95
+2026-01-01,Hospital Central,100105,Máscara cirúrgica tripla,Descartáveis,L2601-005-1,2026-12-02,62,36,12,0.18
+2026-01-01,Hospital Central,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2601-006-1,2026-12-21,79,43,12,0.31
+2026-01-01,Hospital Central,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2601-007-1,2027-01-09,28,14,4,0.12
+2026-01-01,Hospital Central,100108,Atadura crepe 10 cm,Descartáveis,L2601-008-1,2027-01-28,47,21,6,0.86
+2026-01-01,Hospital Central,100109,Fita microporosa 25 mm,Descartáveis,L2601-009-1,2027-02-16,46,28,10,1.4
+2026-01-01,Hospital Central,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2601-010-1,2027-03-07,67,35,14,4.35
+2026-01-01,Hospital Central,200202,Dipirona 500 mg,Medicamentos,L2601-011-1,2027-03-26,87,42,20,0.09
+2026-01-01,Hospital Central,200203,Paracetamol 750 mg,Medicamentos,L2601-012-1,2027-04-14,27,13,7,0.14
+2026-01-01,Hospital Central,200204,Omeprazol 20 mg,Medicamentos,L2601-013-1,2027-05-03,34,20,11,0.11
+2026-01-01,Hospital Central,200205,Loratadina 10 mg,Medicamentos,L2601-014-1,2027-05-22,51,27,14,0.16
+2026-01-01,Hospital Central,200206,Clorexidina 2% 100 ml,Medicamentos,L2601-015-1,2027-06-10,68,34,16,7.25
+2026-01-01,Hospital Central,200207,Glicose 50% 10 ml,Medicamentos,L2601-016-1,2027-06-29,94,41,17,0.82
+2026-01-01,Hospital Central,200208,Água para injeção 10 ml,Medicamentos,L2601-017-1,2027-07-18,19,12,4,0.65
+2026-01-01,Hospital Central,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2601-018-1,2026-10-20,34,19,6,18.9
+2026-01-01,Hospital Central,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2601-019-1,2027-08-25,54,26,7,12.4
+2026-01-01,Hospital Central,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2601-020-1,2027-09-13,74,33,10,0.78
+2026-01-01,Hospital Central,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2601-021-1,2027-10-02,66,40,14,3.1
+2026-01-01,Hospital Central,300305,Kit curativo estéril,Materiais cirúrgicos,L2601-022-1,2027-10-21,20,11,5,8.6
+2026-01-01,Hospital Central,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2601-023-1,2027-11-09,37,18,9,24.5
+2026-01-01,Hospital Central,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2601-024-1,2027-11-28,54,25,13,3.75
+2026-01-01,Hospital Central,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2601-025-1,2026-10-23,55,32,18,9.8
+2026-01-01,Hospital Central,400401,Detergente enzimático 1 L,Higiene e limpeza,L2601-026-1,2026-11-11,74,39,21,22.8
+2026-01-01,Hospital Central,400402,Álcool 70% 1 L,Higiene e limpeza,L2601-027-1,2026-11-30,5,10,5,8.9
+2026-01-01,Hospital Central,400403,Papel toalha interfolhado,Higiene e limpeza,L2601-028-1,2026-12-19,38,17,7,12.5
+2026-01-01,Hospital Central,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2601-029-1,2027-01-07,41,24,8,0.72
+2026-01-01,Hospital Central,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2601-030-1,2027-01-26,56,31,9,47.0
+2026-01-01,Hospital Central,500501,Termômetro digital clínico,Equipamentos,L2601-031-1,2027-02-14,80,38,10,18.0
+2026-01-01,Hospital Central,500502,Oxímetro de pulso portátil,Equipamentos,L2601-032-1,2027-03-05,19,9,3,135.0
+2026-01-01,Hospital Central,500503,Esfigmomanômetro adulto,Equipamentos,L2601-033-1,2027-03-24,25,16,5,88.0
+2026-01-01,Hospital Central,500504,Estetoscópio adulto,Equipamentos,L2601-034-1,2027-04-12,44,23,9,64.0
+2026-01-01,Hospital Central,500505,Balança digital portátil,Equipamentos,L2601-035-1,2027-05-01,62,30,14,210.0
+2026-01-01,Hospital Central,500506,Lanterna clínica LED,Equipamentos,L2601-036-1,2027-05-20,80,37,20,28.0
+2026-01-01,Hospital Central,500507,Nebulizador portátil,Equipamentos,L2601-037-1,2027-06-08,13,8,4,160.0
+2026-01-01,Hospital Central,500508,Sensor de oximetria adulto,Equipamentos,L2601-038-1,2027-06-27,27,15,8,42.0
+2026-01-01,Unidade Sul,100101,Seringa descartável 10 ml,Descartáveis,L2601-001-2,2027-12-04,24,13,7,1.25
+2026-01-01,Unidade Sul,100102,Luva de procedimento M,Descartáveis,L2601-002-2,2026-10-29,42,20,10,0.42
+2026-01-01,Unidade Sul,100103,Equipo macrogotas,Descartáveis,L2601-003-2,2026-11-17,61,27,11,2.8
+2026-01-01,Unidade Sul,100104,Cateter intravenoso 22G,Descartáveis,L2601-004-2,2026-12-06,63,34,12,1.95
+2026-01-01,Unidade Sul,100105,Máscara cirúrgica tripla,Descartáveis,L2601-005-2,2026-12-25,84,41,12,0.18
+2026-01-01,Unidade Sul,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2601-006-2,2027-01-13,31,12,3,0.31
+2026-01-01,Unidade Sul,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2601-007-2,2027-02-01,37,19,6,0.12
+2026-01-01,Unidade Sul,100108,Atadura crepe 10 cm,Descartáveis,L2601-008-2,2027-02-20,40,26,9,0.86
+2026-01-01,Unidade Sul,100109,Fita microporosa 25 mm,Descartáveis,L2601-009-2,2027-03-11,58,33,14,1.4
+2026-01-01,Unidade Sul,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2601-010-2,2027-03-30,83,40,19,4.35
+2026-01-01,Unidade Sul,200202,Dipirona 500 mg,Medicamentos,L2601-011-2,2027-04-18,25,11,6,0.09
+2026-01-01,Unidade Sul,200203,Paracetamol 750 mg,Medicamentos,L2601-012-2,2027-05-07,32,18,10,0.14
+2026-01-01,Unidade Sul,200204,Omeprazol 20 mg,Medicamentos,L2601-013-2,2027-05-26,52,25,13,0.11
+2026-01-01,Unidade Sul,200205,Loratadina 10 mg,Medicamentos,L2601-014-2,2027-06-14,72,32,15,0.16
+2026-01-01,Unidade Sul,200206,Clorexidina 2% 100 ml,Medicamentos,L2601-015-2,2027-07-03,92,39,16,7.25
+2026-01-01,Unidade Sul,200207,Glicose 50% 10 ml,Medicamentos,L2601-016-2,2027-07-22,11,10,3,0.82
+2026-01-01,Unidade Sul,200208,Água para injeção 10 ml,Medicamentos,L2601-017-2,2027-08-10,28,17,5,0.65
+2026-01-01,Unidade Sul,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2601-018-2,2027-08-29,45,24,6,18.9
+2026-01-01,Unidade Sul,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2601-019-2,2027-09-17,70,31,9,12.4
+2026-01-01,Unidade Sul,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2601-020-2,2027-10-06,66,38,13,0.78
+2026-01-01,Unidade Sul,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2601-021-2,2027-10-25,18,9,4,3.1
+2026-01-01,Unidade Sul,300305,Kit curativo estéril,Materiais cirúrgicos,L2601-022-2,2027-11-13,37,16,8,8.6
+2026-01-01,Unidade Sul,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2601-023-2,2027-12-02,58,23,12,24.5
+2026-01-01,Unidade Sul,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2601-024-2,2026-10-27,57,30,17,3.75
+2026-01-01,Unidade Sul,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2601-025-2,2026-11-15,65,37,20,9.8
+2026-01-01,Unidade Sul,400401,Detergente enzimático 1 L,Higiene e limpeza,L2601-026-2,2026-12-04,4,8,4,22.8
+2026-01-01,Unidade Sul,400402,Álcool 70% 1 L,Higiene e limpeza,L2601-027-2,2026-12-23,29,15,6,8.9
+2026-01-01,Unidade Sul,400403,Papel toalha interfolhado,Higiene e limpeza,L2601-028-2,2027-01-11,37,22,8,12.5
+2026-01-01,Unidade Sul,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2601-029-2,2027-01-30,56,29,8,0.72
+2026-01-01,Unidade Sul,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2601-030-2,2027-02-18,74,36,10,47.0
+2026-01-01,Unidade Sul,500501,Termômetro digital clínico,Equipamentos,L2601-031-2,2027-03-09,103,43,12,18.0
+2026-01-01,Unidade Sul,500502,Oxímetro de pulso portátil,Equipamentos,L2601-032-2,2027-03-28,29,14,5,135.0
+2026-01-01,Unidade Sul,500503,Esfigmomanômetro adulto,Equipamentos,L2601-033-2,2027-04-16,46,21,9,88.0
+2026-01-01,Unidade Sul,500504,Estetoscópio adulto,Equipamentos,L2601-034-2,2027-05-05,53,28,14,64.0
+2026-01-01,Unidade Sul,500505,Balança digital portátil,Equipamentos,L2601-035-2,2027-05-24,75,35,19,210.0
+2026-01-01,Unidade Sul,500506,Lanterna clínica LED,Equipamentos,L2601-036-2,2026-10-21,67,42,23,28.0
+2026-01-01,Unidade Sul,500507,Nebulizador portátil,Equipamentos,L2601-037-2,2027-07-01,24,13,7,160.0
+2026-01-01,Unidade Sul,500508,Sensor de oximetria adulto,Equipamentos,L2601-038-2,2027-07-20,42,20,10,42.0
+2026-01-01,Unidade Leste,100101,Seringa descartável 10 ml,Descartáveis,L2601-001-3,2026-11-02,37,18,9,1.25
+2026-01-01,Unidade Leste,100102,Luva de procedimento M,Descartáveis,L2601-002-3,2026-11-21,59,25,10,0.42
+2026-01-01,Unidade Leste,100103,Equipo macrogotas,Descartáveis,L2601-003-3,2026-12-10,59,32,11,2.8
+2026-01-01,Unidade Leste,100104,Cateter intravenoso 22G,Descartáveis,L2601-004-3,2026-12-29,70,39,11,1.95
+2026-01-01,Unidade Leste,100105,Máscara cirúrgica tripla,Descartáveis,L2601-005-3,2027-01-17,18,10,3,0.18
+2026-01-01,Unidade Leste,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2601-006-3,2027-02-05,38,17,5,0.31
+2026-01-01,Unidade Leste,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2601-007-3,2027-02-24,46,24,8,0.12
+2026-01-01,Unidade Leste,100108,Atadura crepe 10 cm,Descartáveis,L2601-008-3,2027-03-15,67,31,13,0.86
+2026-01-01,Unidade Leste,100109,Fita microporosa 25 mm,Descartáveis,L2601-009-3,2027-04-03,73,38,18,1.4
+2026-01-01,Unidade Leste,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2601-010-3,2027-04-22,19,9,5,4.35
+2026-01-01,Unidade Leste,200202,Dipirona 500 mg,Medicamentos,L2601-011-3,2027-05-11,30,16,9,0.09
+2026-01-01,Unidade Leste,200203,Paracetamol 750 mg,Medicamentos,L2601-012-3,2027-05-30,48,23,12,0.14
+2026-01-01,Unidade Leste,200204,Omeprazol 20 mg,Medicamentos,L2601-013-3,2027-06-18,58,30,14,0.11
+2026-01-01,Unidade Leste,200205,Loratadina 10 mg,Medicamentos,L2601-014-3,2027-07-07,82,37,15,0.16
+2026-01-01,Unidade Leste,200206,Clorexidina 2% 100 ml,Medicamentos,L2601-015-3,2027-07-26,14,8,3,7.25
+2026-01-01,Unidade Leste,200207,Glicose 50% 10 ml,Medicamentos,L2601-016-3,2027-08-14,33,15,4,0.82
+2026-01-01,Unidade Leste,200208,Água para injeção 10 ml,Medicamentos,L2601-017-3,2026-10-16,54,22,6,0.65
+2026-01-01,Unidade Leste,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2601-018-3,2027-09-21,59,29,8,18.9
+2026-01-01,Unidade Leste,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2601-019-3,2027-10-10,63,36,12,12.4
+2026-01-01,Unidade Leste,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2601-020-3,2027-10-29,85,43,18,0.78
+2026-01-01,Unidade Leste,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2601-021-3,2027-11-17,34,14,7,3.1
+2026-01-01,Unidade Leste,300305,Kit curativo estéril,Materiais cirúrgicos,L2601-022-3,2027-12-06,42,21,11,8.6
+2026-01-01,Unidade Leste,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2601-023-3,2026-10-31,46,28,15,24.5
+2026-01-01,Unidade Leste,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2601-024-3,2026-11-19,65,35,19,3.75
+2026-01-01,Unidade Leste,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2601-025-3,2026-12-08,20,42,20,9.8
+2026-01-01,Unidade Leste,400401,Detergente enzimático 1 L,Higiene e limpeza,L2601-026-3,2026-12-27,37,13,5,22.8
+2026-01-01,Unidade Leste,400402,Álcool 70% 1 L,Higiene e limpeza,L2601-027-3,2027-01-15,29,20,7,8.9
+2026-01-01,Unidade Leste,400403,Papel toalha interfolhado,Higiene e limpeza,L2601-028-3,2027-02-03,51,27,8,12.5
+2026-01-01,Unidade Leste,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2601-029-3,2027-02-22,74,34,9,0.72
+2026-01-01,Unidade Leste,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2601-030-3,2027-03-13,96,41,12,47.0
+2026-01-01,Unidade Leste,500501,Termômetro digital clínico,Equipamentos,L2601-031-3,2027-04-01,15,12,4,18.0
+2026-01-01,Unidade Leste,500502,Oxímetro de pulso portátil,Equipamentos,L2601-032-3,2027-04-20,33,19,8,135.0
+2026-01-01,Unidade Leste,500503,Esfigmomanômetro adulto,Equipamentos,L2601-033-3,2027-05-09,53,26,13,88.0
+2026-01-01,Unidade Leste,500504,Estetoscópio adulto,Equipamentos,L2601-034-3,2027-05-28,81,33,18,64.0
+2026-01-01,Unidade Leste,500505,Balança digital portátil,Equipamentos,L2601-035-3,2027-06-16,77,40,22,210.0
+2026-01-01,Unidade Leste,500506,Lanterna clínica LED,Equipamentos,L2601-036-3,2027-07-05,15,11,6,28.0
+2026-01-01,Unidade Leste,500507,Nebulizador portátil,Equipamentos,L2601-037-3,2027-07-24,37,18,9,160.0
+2026-01-01,Unidade Leste,500508,Sensor de oximetria adulto,Equipamentos,L2601-038-3,2027-08-12,59,25,10,42.0
+2026-02-01,Hospital Central,100101,Seringa descartável 10 ml,Descartáveis,L2602-001-1,2027-10-31,14,8,4,1.25
+2026-02-01,Hospital Central,100102,Luva de procedimento M,Descartáveis,L2602-002-1,2027-11-19,28,15,7,0.42
+2026-02-01,Hospital Central,100103,Equipo macrogotas,Descartáveis,L2602-003-1,2027-12-08,42,22,9,2.8
+2026-02-01,Hospital Central,100104,Cateter intravenoso 22G,Descartáveis,L2602-004-1,2026-11-02,66,29,10,1.95
+2026-02-01,Hospital Central,100105,Máscara cirúrgica tripla,Descartáveis,L2602-005-1,2026-11-21,60,36,10,0.18
+2026-02-01,Hospital Central,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2602-006-1,2026-12-10,75,43,12,0.31
+2026-02-01,Hospital Central,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2602-007-1,2026-12-29,29,14,4,0.12
+2026-02-01,Hospital Central,100108,Atadura crepe 10 cm,Descartáveis,L2602-008-1,2027-01-17,46,21,7,0.86
+2026-02-01,Hospital Central,100109,Fita microporosa 25 mm,Descartáveis,L2602-009-1,2027-02-05,44,28,12,1.4
+2026-02-01,Hospital Central,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2602-010-1,2027-02-24,67,35,17,4.35
+2026-02-01,Hospital Central,200202,Dipirona 500 mg,Medicamentos,L2602-011-1,2027-03-15,85,42,22,0.09
+2026-02-01,Hospital Central,200203,Paracetamol 750 mg,Medicamentos,L2602-012-1,2027-04-03,27,13,7,0.14
+2026-02-01,Hospital Central,200204,Omeprazol 20 mg,Medicamentos,L2602-013-1,2027-04-22,35,20,11,0.11
+2026-02-01,Hospital Central,200205,Loratadina 10 mg,Medicamentos,L2602-014-1,2027-05-11,50,27,13,0.16
+2026-02-01,Hospital Central,200206,Clorexidina 2% 100 ml,Medicamentos,L2602-015-1,2027-05-30,65,34,14,7.25
+2026-02-01,Hospital Central,200207,Glicose 50% 10 ml,Medicamentos,L2602-016-1,2027-06-18,93,41,14,0.82
+2026-02-01,Hospital Central,200208,Água para injeção 10 ml,Medicamentos,L2602-017-1,2027-07-07,20,12,3,0.65
+2026-02-01,Hospital Central,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2602-018-1,2027-07-26,33,19,5,18.9
+2026-02-01,Hospital Central,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2602-019-1,2027-08-14,55,26,8,12.4
+2026-02-01,Hospital Central,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2602-020-1,2027-09-02,72,33,11,0.78
+2026-02-01,Hospital Central,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2602-021-1,2027-09-21,63,40,16,3.1
+2026-02-01,Hospital Central,300305,Kit curativo estéril,Materiais cirúrgicos,L2602-022-1,2027-10-10,21,11,5,8.6
+2026-02-01,Hospital Central,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2602-023-1,2027-10-29,36,18,10,24.5
+2026-02-01,Hospital Central,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2602-024-1,2027-11-17,52,25,14,3.75
+2026-02-01,Hospital Central,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2602-025-1,2027-12-06,56,32,17,9.8
+2026-02-01,Hospital Central,400401,Detergente enzimático 1 L,Higiene e limpeza,L2602-026-1,2026-10-31,19,39,19,22.8
+2026-02-01,Hospital Central,400402,Álcool 70% 1 L,Higiene e limpeza,L2602-027-1,2026-11-19,19,10,4,8.9
+2026-02-01,Hospital Central,400403,Papel toalha interfolhado,Higiene e limpeza,L2602-028-1,2026-12-08,39,17,6,12.5
+2026-02-01,Hospital Central,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2602-029-1,2026-12-27,40,24,7,0.72
+2026-02-01,Hospital Central,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2602-030-1,2027-01-15,54,31,8,47.0
+2026-02-01,Hospital Central,500501,Termômetro digital clínico,Equipamentos,L2602-031-1,2027-02-03,80,38,11,18.0
+2026-02-01,Hospital Central,500502,Oxímetro de pulso portátil,Equipamentos,L2602-032-1,2027-02-22,20,9,3,135.0
+2026-02-01,Hospital Central,500503,Esfigmomanômetro adulto,Equipamentos,L2602-033-1,2027-03-13,25,16,7,88.0
+2026-02-01,Hospital Central,500504,Estetoscópio adulto,Equipamentos,L2602-034-1,2027-04-01,44,23,11,64.0
+2026-02-01,Hospital Central,500505,Balança digital portátil,Equipamentos,L2602-035-1,2027-04-20,61,30,16,210.0
+2026-02-01,Hospital Central,500506,Lanterna clínica LED,Equipamentos,L2602-036-1,2026-10-14,77,37,20,28.0
+2026-02-01,Hospital Central,500507,Nebulizador portátil,Equipamentos,L2602-037-1,2027-05-28,14,8,4,160.0
+2026-02-01,Hospital Central,500508,Sensor de oximetria adulto,Equipamentos,L2602-038-1,2027-06-16,28,15,7,42.0
+2026-02-01,Unidade Sul,100101,Seringa descartável 10 ml,Descartáveis,L2602-001-2,2027-11-23,25,13,6,1.25
+2026-02-01,Unidade Sul,100102,Luva de procedimento M,Descartáveis,L2602-002-2,2027-12-12,43,20,8,0.42
+2026-02-01,Unidade Sul,100103,Equipo macrogotas,Descartáveis,L2602-003-2,2026-11-06,60,27,9,2.8
+2026-02-01,Unidade Sul,100104,Cateter intravenoso 22G,Descartáveis,L2602-004-2,2026-11-25,65,34,10,1.95
+2026-02-01,Unidade Sul,100105,Máscara cirúrgica tripla,Descartáveis,L2602-005-2,2026-12-14,83,41,11,0.18
+2026-02-01,Unidade Sul,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2602-006-2,2027-01-02,16,12,3,0.31
+2026-02-01,Unidade Sul,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2602-007-2,2027-01-21,39,19,6,0.12
+2026-02-01,Unidade Sul,100108,Atadura crepe 10 cm,Descartáveis,L2602-008-2,2027-02-09,41,26,11,0.86
+2026-02-01,Unidade Sul,100109,Fita microporosa 25 mm,Descartáveis,L2602-009-2,2027-02-28,57,33,16,1.4
+2026-02-01,Unidade Sul,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2602-010-2,2027-03-19,85,40,21,4.35
+2026-02-01,Unidade Sul,200202,Dipirona 500 mg,Medicamentos,L2602-011-2,2027-04-07,26,11,6,0.09
+2026-02-01,Unidade Sul,200203,Paracetamol 750 mg,Medicamentos,L2602-012-2,2027-04-26,32,18,10,0.14
+2026-02-01,Unidade Sul,200204,Omeprazol 20 mg,Medicamentos,L2602-013-2,2027-05-15,54,25,12,0.11
+2026-02-01,Unidade Sul,200205,Loratadina 10 mg,Medicamentos,L2602-014-2,2027-06-03,72,32,13,0.16
+2026-02-01,Unidade Sul,200206,Clorexidina 2% 100 ml,Medicamentos,L2602-015-2,2027-06-22,75,39,13,7.25
+2026-02-01,Unidade Sul,200207,Glicose 50% 10 ml,Medicamentos,L2602-016-2,2027-07-11,13,10,3,0.82
+2026-02-01,Unidade Sul,200208,Água para injeção 10 ml,Medicamentos,L2602-017-2,2026-10-24,28,17,5,0.65
+2026-02-01,Unidade Sul,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2602-018-2,2027-08-18,45,24,7,18.9
+2026-02-01,Unidade Sul,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2602-019-2,2027-09-06,71,31,11,12.4
+2026-02-01,Unidade Sul,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2602-020-2,2027-09-25,66,38,16,0.78
+2026-02-01,Unidade Sul,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2602-021-2,2027-10-14,19,9,4,3.1
+2026-02-01,Unidade Sul,300305,Kit curativo estéril,Materiais cirúrgicos,L2602-022-2,2027-11-02,39,16,9,8.6
+2026-02-01,Unidade Sul,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2602-023-2,2027-11-21,58,23,13,24.5
+2026-02-01,Unidade Sul,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2602-024-2,2027-12-10,41,30,16,3.75
+2026-02-01,Unidade Sul,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2602-025-2,2026-11-04,18,37,18,9.8
+2026-02-01,Unidade Sul,400401,Detergente enzimático 1 L,Higiene e limpeza,L2602-026-2,2026-11-23,13,8,3,22.8
+2026-02-01,Unidade Sul,400402,Álcool 70% 1 L,Higiene e limpeza,L2602-027-2,2026-12-12,30,15,5,8.9
+2026-02-01,Unidade Sul,400403,Papel toalha interfolhado,Higiene e limpeza,L2602-028-2,2026-12-31,39,22,6,12.5
+2026-02-01,Unidade Sul,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2602-029-2,2027-01-19,56,29,8,0.72
+2026-02-01,Unidade Sul,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2602-030-2,2027-02-07,73,36,10,47.0
+2026-02-01,Unidade Sul,500501,Termômetro digital clínico,Equipamentos,L2602-031-2,2027-02-26,104,43,15,18.0
+2026-02-01,Unidade Sul,500502,Oxímetro de pulso portátil,Equipamentos,L2602-032-2,2027-03-17,31,14,6,135.0
+2026-02-01,Unidade Sul,500503,Esfigmomanômetro adulto,Equipamentos,L2602-033-2,2027-04-05,30,21,10,88.0
+2026-02-01,Unidade Sul,500504,Estetoscópio adulto,Equipamentos,L2602-034-2,2027-04-24,54,28,15,64.0
+2026-02-01,Unidade Sul,500505,Balança digital portátil,Equipamentos,L2602-035-2,2027-05-13,74,35,19,210.0
+2026-02-01,Unidade Sul,500506,Lanterna clínica LED,Equipamentos,L2602-036-2,2027-06-01,66,42,22,28.0
+2026-02-01,Unidade Sul,500507,Nebulizador portátil,Equipamentos,L2602-037-2,2027-06-20,25,13,6,160.0
+2026-02-01,Unidade Sul,500508,Sensor de oximetria adulto,Equipamentos,L2602-038-2,2027-07-09,43,20,8,42.0
+2026-02-01,Unidade Leste,100101,Seringa descartável 10 ml,Descartáveis,L2602-001-3,2026-10-22,39,18,7,1.25
+2026-02-01,Unidade Leste,100102,Luva de procedimento M,Descartáveis,L2602-002-3,2026-11-10,60,25,9,0.42
+2026-02-01,Unidade Leste,100103,Equipo macrogotas,Descartáveis,L2602-003-3,2026-11-29,60,32,9,2.8
+2026-02-01,Unidade Leste,100104,Cateter intravenoso 22G,Descartáveis,L2602-004-3,2026-12-18,73,39,11,1.95
+2026-02-01,Unidade Leste,100105,Máscara cirúrgica tripla,Descartáveis,L2602-005-3,2027-01-06,19,10,3,0.18
+2026-02-01,Unidade Leste,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2602-006-3,2027-01-25,38,17,6,0.31
+2026-02-01,Unidade Leste,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2602-007-3,2027-02-13,48,24,10,0.12
+2026-02-01,Unidade Leste,100108,Atadura crepe 10 cm,Descartáveis,L2602-008-3,2027-03-04,53,31,15,0.86
+2026-02-01,Unidade Leste,100109,Fita microporosa 25 mm,Descartáveis,L2602-009-3,2027-03-23,72,38,20,1.4
+2026-02-01,Unidade Leste,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2602-010-3,2027-04-11,21,9,5,4.35
+2026-02-01,Unidade Leste,200202,Dipirona 500 mg,Medicamentos,L2602-011-3,2027-04-30,31,16,9,0.09
+2026-02-01,Unidade Leste,200203,Paracetamol 750 mg,Medicamentos,L2602-012-3,2027-05-19,49,23,11,0.14
+2026-02-01,Unidade Leste,200204,Omeprazol 20 mg,Medicamentos,L2602-013-3,2027-06-07,60,30,12,0.11
+2026-02-01,Unidade Leste,200205,Loratadina 10 mg,Medicamentos,L2602-014-3,2027-06-26,83,37,13,0.16
+2026-02-01,Unidade Leste,200206,Clorexidina 2% 100 ml,Medicamentos,L2602-015-3,2027-07-15,15,8,2,7.25
+2026-02-01,Unidade Leste,200207,Glicose 50% 10 ml,Medicamentos,L2602-016-3,2027-08-03,35,15,4,0.82
+2026-02-01,Unidade Leste,200208,Água para injeção 10 ml,Medicamentos,L2602-017-3,2027-08-22,39,22,6,0.65
+2026-02-01,Unidade Leste,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2602-018-3,2027-09-10,59,29,10,18.9
+2026-02-01,Unidade Leste,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2602-019-3,2027-09-29,65,36,15,12.4
+2026-02-01,Unidade Leste,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2602-020-3,2027-10-18,86,43,21,0.78
+2026-02-01,Unidade Leste,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2602-021-3,2027-11-06,35,14,7,3.1
+2026-02-01,Unidade Leste,300305,Kit curativo estéril,Materiais cirúrgicos,L2602-022-3,2027-11-25,45,21,12,8.6
+2026-02-01,Unidade Leste,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2602-023-3,2026-10-20,47,28,15,24.5
+2026-02-01,Unidade Leste,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2602-024-3,2026-11-08,17,35,17,3.75
+2026-02-01,Unidade Leste,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2602-025-3,2026-11-27,97,42,17,9.8
+2026-02-01,Unidade Leste,400401,Detergente enzimático 1 L,Higiene e limpeza,L2602-026-3,2026-12-16,23,13,4,22.8
+2026-02-01,Unidade Leste,400402,Álcool 70% 1 L,Higiene e limpeza,L2602-027-3,2027-01-04,30,20,6,8.9
+2026-02-01,Unidade Leste,400403,Papel toalha interfolhado,Higiene e limpeza,L2602-028-3,2027-01-23,54,27,7,12.5
+2026-02-01,Unidade Leste,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2602-029-3,2027-02-11,75,34,10,0.72
+2026-02-01,Unidade Leste,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2602-030-3,2027-03-02,95,41,14,47.0
+2026-02-01,Unidade Leste,500501,Termômetro digital clínico,Equipamentos,L2602-031-3,2027-03-21,17,12,5,18.0
+2026-02-01,Unidade Leste,500502,Oxímetro de pulso portátil,Equipamentos,L2602-032-3,2027-04-09,35,19,9,135.0
+2026-02-01,Unidade Leste,500503,Esfigmomanômetro adulto,Equipamentos,L2602-033-3,2027-04-28,53,26,14,88.0
+2026-02-01,Unidade Leste,500504,Estetoscópio adulto,Equipamentos,L2602-034-3,2027-05-17,83,33,18,64.0
+2026-02-01,Unidade Leste,500505,Balança digital portátil,Equipamentos,L2602-035-3,2026-10-25,63,40,21,210.0
+2026-02-01,Unidade Leste,500506,Lanterna clínica LED,Equipamentos,L2602-036-3,2027-06-24,17,11,5,28.0
+2026-02-01,Unidade Leste,500507,Nebulizador portátil,Equipamentos,L2602-037-3,2027-07-13,39,18,7,160.0
+2026-02-01,Unidade Leste,500508,Sensor de oximetria adulto,Equipamentos,L2602-038-3,2027-08-01,60,25,9,42.0
+2026-03-01,Hospital Central,100101,Seringa descartável 10 ml,Descartáveis,L2603-001-1,2027-10-20,15,8,4,1.25
+2026-03-01,Hospital Central,100102,Luva de procedimento M,Descartáveis,L2603-002-1,2027-11-08,28,15,6,0.42
+2026-03-01,Hospital Central,100103,Equipo macrogotas,Descartáveis,L2603-003-1,2027-11-27,42,22,8,2.8
+2026-03-01,Hospital Central,100104,Cateter intravenoso 22G,Descartáveis,L2603-004-1,2026-10-22,66,29,8,1.95
+2026-03-01,Hospital Central,100105,Máscara cirúrgica tripla,Descartáveis,L2603-005-1,2026-11-10,59,36,10,0.18
+2026-03-01,Hospital Central,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2603-006-1,2026-11-29,73,43,12,0.31
+2026-03-01,Hospital Central,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2603-007-1,2026-12-18,30,14,5,0.12
+2026-03-01,Hospital Central,100108,Atadura crepe 10 cm,Descartáveis,L2603-008-1,2027-01-06,46,21,9,0.86
+2026-03-01,Hospital Central,100109,Fita microporosa 25 mm,Descartáveis,L2603-009-1,2027-01-25,44,28,14,1.4
+2026-03-01,Hospital Central,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2603-010-1,2027-02-13,67,35,19,4.35
+2026-03-01,Hospital Central,200202,Dipirona 500 mg,Medicamentos,L2603-011-1,2027-03-04,83,42,23,0.09
+2026-03-01,Hospital Central,200203,Paracetamol 750 mg,Medicamentos,L2603-012-1,2027-03-23,27,13,7,0.14
+2026-03-01,Hospital Central,200204,Omeprazol 20 mg,Medicamentos,L2603-013-1,2027-04-11,36,20,10,0.11
+2026-03-01,Hospital Central,200205,Loratadina 10 mg,Medicamentos,L2603-014-1,2027-04-30,49,27,11,0.16
+2026-03-01,Hospital Central,200206,Clorexidina 2% 100 ml,Medicamentos,L2603-015-1,2027-05-19,64,34,12,7.25
+2026-03-01,Hospital Central,200207,Glicose 50% 10 ml,Medicamentos,L2603-016-1,2027-06-07,93,41,12,0.82
+2026-03-01,Hospital Central,200208,Água para injeção 10 ml,Medicamentos,L2603-017-1,2026-10-17,21,12,3,0.65
+2026-03-01,Hospital Central,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2603-018-1,2027-07-15,33,19,6,18.9
+2026-03-01,Hospital Central,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2603-019-1,2027-08-03,55,26,9,12.4
+2026-03-01,Hospital Central,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2603-020-1,2027-08-22,71,33,14,0.78
+2026-03-01,Hospital Central,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2603-021-1,2027-09-10,62,40,19,3.1
+2026-03-01,Hospital Central,300305,Kit curativo estéril,Materiais cirúrgicos,L2603-022-1,2027-09-29,22,11,6,8.6
+2026-03-01,Hospital Central,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2603-023-1,2027-10-18,37,18,10,24.5
+2026-03-01,Hospital Central,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2603-024-1,2027-11-06,51,25,13,3.75
+2026-03-01,Hospital Central,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2603-025-1,2027-11-25,15,32,15,9.8
+2026-03-01,Hospital Central,400401,Detergente enzimático 1 L,Higiene e limpeza,L2603-026-1,2026-10-20,71,39,16,22.8
+2026-03-01,Hospital Central,400402,Álcool 70% 1 L,Higiene e limpeza,L2603-027-1,2026-11-08,20,10,3,8.9
+2026-03-01,Hospital Central,400403,Papel toalha interfolhado,Higiene e limpeza,L2603-028-1,2026-11-27,39,17,5,12.5
+2026-03-01,Hospital Central,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2603-029-1,2026-12-16,40,24,6,0.72
+2026-03-01,Hospital Central,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2603-030-1,2027-01-04,53,31,9,47.0
+2026-03-01,Hospital Central,500501,Termômetro digital clínico,Equipamentos,L2603-031-1,2027-01-23,79,38,13,18.0
+2026-03-01,Hospital Central,500502,Oxímetro de pulso portátil,Equipamentos,L2603-032-1,2027-02-11,21,9,4,135.0
+2026-03-01,Hospital Central,500503,Esfigmomanômetro adulto,Equipamentos,L2603-033-1,2027-03-02,26,16,8,88.0
+2026-03-01,Hospital Central,500504,Estetoscópio adulto,Equipamentos,L2603-034-1,2027-03-21,45,23,12,64.0
+2026-03-01,Hospital Central,500505,Balança digital portátil,Equipamentos,L2603-035-1,2027-04-09,60,30,17,210.0
+2026-03-01,Hospital Central,500506,Lanterna clínica LED,Equipamentos,L2603-036-1,2027-04-28,75,37,20,28.0
+2026-03-01,Hospital Central,500507,Nebulizador portátil,Equipamentos,L2603-037-1,2027-05-17,15,8,4,160.0
+2026-03-01,Hospital Central,500508,Sensor de oximetria adulto,Equipamentos,L2603-038-1,2027-06-05,28,15,6,42.0
+2026-03-01,Unidade Sul,100101,Seringa descartável 10 ml,Descartáveis,L2603-001-2,2027-11-12,27,13,5,1.25
+2026-03-01,Unidade Sul,100102,Luva de procedimento M,Descartáveis,L2603-002-2,2027-12-01,43,20,7,0.42
+2026-03-01,Unidade Sul,100103,Equipo macrogotas,Descartáveis,L2603-003-2,2026-10-26,60,27,8,2.8
+2026-03-01,Unidade Sul,100104,Cateter intravenoso 22G,Descartáveis,L2603-004-2,2026-11-14,66,34,9,1.95
+2026-03-01,Unidade Sul,100105,Máscara cirúrgica tripla,Descartáveis,L2603-005-2,2026-12-03,68,41,12,0.18
+2026-03-01,Unidade Sul,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2603-006-2,2026-12-22,17,12,4,0.31
+2026-03-01,Unidade Sul,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2603-007-2,2027-01-10,40,19,8,0.12
+2026-03-01,Unidade Sul,100108,Atadura crepe 10 cm,Descartáveis,L2603-008-2,2027-01-29,41,26,13,0.86
+2026-03-01,Unidade Sul,100109,Fita microporosa 25 mm,Descartáveis,L2603-009-2,2027-02-17,57,33,18,1.4
+2026-03-01,Unidade Sul,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2603-010-2,2027-03-08,86,40,22,4.35
+2026-03-01,Unidade Sul,200202,Dipirona 500 mg,Medicamentos,L2603-011-2,2027-03-27,27,11,6,0.09
+2026-03-01,Unidade Sul,200203,Paracetamol 750 mg,Medicamentos,L2603-012-2,2027-04-15,33,18,9,0.14
+2026-03-01,Unidade Sul,200204,Omeprazol 20 mg,Medicamentos,L2603-013-2,2027-05-04,55,25,10,0.11
+2026-03-01,Unidade Sul,200205,Loratadina 10 mg,Medicamentos,L2603-014-2,2027-05-23,57,32,11,0.16
+2026-03-01,Unidade Sul,200206,Clorexidina 2% 100 ml,Medicamentos,L2603-015-2,2027-06-11,75,39,11,7.25
+2026-03-01,Unidade Sul,200207,Glicose 50% 10 ml,Medicamentos,L2603-016-2,2027-06-30,14,10,3,0.82
+2026-03-01,Unidade Sul,200208,Água para injeção 10 ml,Medicamentos,L2603-017-2,2027-07-19,29,17,5,0.65
+2026-03-01,Unidade Sul,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2603-018-2,2027-08-07,45,24,8,18.9
+2026-03-01,Unidade Sul,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2603-019-2,2027-08-26,72,31,13,12.4
+2026-03-01,Unidade Sul,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2603-020-2,2027-09-14,66,38,18,0.78
+2026-03-01,Unidade Sul,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2603-021-2,2027-10-03,21,9,5,3.1
+2026-03-01,Unidade Sul,300305,Kit curativo estéril,Materiais cirúrgicos,L2603-022-2,2027-10-22,40,16,9,8.6
+2026-03-01,Unidade Sul,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2603-023-2,2027-11-10,43,23,12,24.5
+2026-03-01,Unidade Sul,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2603-024-2,2027-11-29,14,30,14,3.75
+2026-03-01,Unidade Sul,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2603-025-2,2026-10-24,68,37,15,9.8
+2026-03-01,Unidade Sul,400401,Detergente enzimático 1 L,Higiene e limpeza,L2603-026-2,2026-11-12,14,8,3,22.8
+2026-03-01,Unidade Sul,400402,Álcool 70% 1 L,Higiene e limpeza,L2603-027-2,2026-12-01,31,15,4,8.9
+2026-03-01,Unidade Sul,400403,Papel toalha interfolhado,Higiene e limpeza,L2603-028-2,2026-12-20,40,22,6,12.5
+2026-03-01,Unidade Sul,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2603-029-2,2027-01-08,56,29,8,0.72
+2026-03-01,Unidade Sul,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2603-030-2,2027-01-27,73,36,12,47.0
+2026-03-01,Unidade Sul,500501,Termômetro digital clínico,Equipamentos,L2603-031-2,2027-02-15,105,43,18,18.0
+2026-03-01,Unidade Sul,500502,Oxímetro de pulso portátil,Equipamentos,L2603-032-2,2027-03-06,16,14,7,135.0
+2026-03-01,Unidade Sul,500503,Esfigmomanômetro adulto,Equipamentos,L2603-033-2,2027-03-25,31,21,11,88.0
+2026-03-01,Unidade Sul,500504,Estetoscópio adulto,Equipamentos,L2603-034-2,2027-04-13,55,28,15,64.0
+2026-03-01,Unidade Sul,500505,Balança digital portátil,Equipamentos,L2603-035-2,2026-10-18,74,35,19,210.0
+2026-03-01,Unidade Sul,500506,Lanterna clínica LED,Equipamentos,L2603-036-2,2027-05-21,65,42,20,28.0
+2026-03-01,Unidade Sul,500507,Nebulizador portátil,Equipamentos,L2603-037-2,2027-06-09,27,13,5,160.0
+2026-03-01,Unidade Sul,500508,Sensor de oximetria adulto,Equipamentos,L2603-038-2,2027-06-28,43,20,7,42.0
+2026-03-01,Unidade Leste,100101,Seringa descartável 10 ml,Descartáveis,L2603-001-3,2027-12-05,41,18,6,1.25
+2026-03-01,Unidade Leste,100102,Luva de procedimento M,Descartáveis,L2603-002-3,2026-10-30,61,25,7,0.42
+2026-03-01,Unidade Leste,100103,Equipo macrogotas,Descartáveis,L2603-003-3,2026-11-18,45,32,9,2.8
+2026-03-01,Unidade Leste,100104,Cateter intravenoso 22G,Descartáveis,L2603-004-3,2026-12-07,73,39,11,1.95
+2026-03-01,Unidade Leste,100105,Máscara cirúrgica tripla,Descartáveis,L2603-005-3,2026-12-26,20,10,3,0.18
+2026-03-01,Unidade Leste,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2603-006-3,2027-01-14,39,17,7,0.31
+2026-03-01,Unidade Leste,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2603-007-3,2027-02-02,50,24,12,0.12
+2026-03-01,Unidade Leste,100108,Atadura crepe 10 cm,Descartáveis,L2603-008-3,2027-02-21,53,31,17,0.86
+2026-03-01,Unidade Leste,100109,Fita microporosa 25 mm,Descartáveis,L2603-009-3,2027-03-12,72,38,21,1.4
+2026-03-01,Unidade Leste,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2603-010-3,2027-03-31,23,9,5,4.35
+2026-03-01,Unidade Leste,200202,Dipirona 500 mg,Medicamentos,L2603-011-3,2027-04-19,32,16,8,0.09
+2026-03-01,Unidade Leste,200203,Paracetamol 750 mg,Medicamentos,L2603-012-3,2027-05-08,34,23,9,0.14
+2026-03-01,Unidade Leste,200204,Omeprazol 20 mg,Medicamentos,L2603-013-3,2027-05-27,61,30,10,0.11
+2026-03-01,Unidade Leste,200205,Loratadina 10 mg,Medicamentos,L2603-014-3,2027-06-15,82,37,11,0.16
+2026-03-01,Unidade Leste,200206,Clorexidina 2% 100 ml,Medicamentos,L2603-015-3,2027-07-04,16,8,2,7.25
+2026-03-01,Unidade Leste,200207,Glicose 50% 10 ml,Medicamentos,L2603-016-3,2026-10-28,36,15,4,0.82
+2026-03-01,Unidade Leste,200208,Água para injeção 10 ml,Medicamentos,L2603-017-3,2027-08-11,40,22,8,0.65
+2026-03-01,Unidade Leste,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2603-018-3,2027-08-30,59,29,12,18.9
+2026-03-01,Unidade Leste,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2603-019-3,2027-09-18,66,36,17,12.4
+2026-03-01,Unidade Leste,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2603-020-3,2027-10-07,86,43,23,0.78
+2026-03-01,Unidade Leste,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2603-021-3,2027-10-26,20,14,8,3.1
+2026-03-01,Unidade Leste,300305,Kit curativo estéril,Materiais cirúrgicos,L2603-022-3,2027-11-14,46,21,11,8.6
+2026-03-01,Unidade Leste,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2603-023-3,2027-12-03,13,28,14,24.5
+2026-03-01,Unidade Leste,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2603-024-3,2026-10-28,65,35,14,3.75
+2026-03-01,Unidade Leste,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2603-025-3,2026-11-16,97,42,14,9.8
+2026-03-01,Unidade Leste,400401,Detergente enzimático 1 L,Higiene e limpeza,L2603-026-3,2026-12-05,24,13,4,22.8
+2026-03-01,Unidade Leste,400402,Álcool 70% 1 L,Higiene e limpeza,L2603-027-3,2026-12-24,30,20,5,8.9
+2026-03-01,Unidade Leste,400403,Papel toalha interfolhado,Higiene e limpeza,L2603-028-3,2027-01-12,55,27,8,12.5
+2026-03-01,Unidade Leste,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2603-029-3,2027-01-31,75,34,12,0.72
+2026-03-01,Unidade Leste,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2603-030-3,2027-02-19,79,41,17,47.0
+2026-03-01,Unidade Leste,500501,Termômetro digital clínico,Equipamentos,L2603-031-3,2027-03-10,18,12,6,18.0
+2026-03-01,Unidade Leste,500502,Oxímetro de pulso portátil,Equipamentos,L2603-032-3,2027-03-29,36,19,10,135.0
+2026-03-01,Unidade Leste,500503,Esfigmomanômetro adulto,Equipamentos,L2603-033-3,2027-04-17,54,26,14,88.0
+2026-03-01,Unidade Leste,500504,Estetoscópio adulto,Equipamentos,L2603-034-3,2027-05-06,84,33,18,64.0
+2026-03-01,Unidade Leste,500505,Balança digital portátil,Equipamentos,L2603-035-3,2027-05-25,63,40,19,210.0
+2026-03-01,Unidade Leste,500506,Lanterna clínica LED,Equipamentos,L2603-036-3,2027-06-13,18,11,5,28.0
+2026-03-01,Unidade Leste,500507,Nebulizador portátil,Equipamentos,L2603-037-3,2027-07-02,41,18,6,160.0
+2026-03-01,Unidade Leste,500508,Sensor de oximetria adulto,Equipamentos,L2603-038-3,2027-07-21,61,25,7,42.0
+2026-04-01,Hospital Central,100101,Seringa descartável 10 ml,Descartáveis,L2604-001-1,2027-10-09,17,8,3,1.25
+2026-04-01,Hospital Central,100102,Luva de procedimento M,Descartáveis,L2604-002-1,2027-10-28,29,15,5,0.42
+2026-04-01,Hospital Central,100103,Equipo macrogotas,Descartáveis,L2604-003-1,2027-11-16,43,22,6,2.8
+2026-04-01,Hospital Central,100104,Cateter intravenoso 22G,Descartáveis,L2604-004-1,2027-12-05,66,29,8,1.95
+2026-04-01,Hospital Central,100105,Máscara cirúrgica tripla,Descartáveis,L2604-005-1,2026-10-30,60,36,10,0.18
+2026-04-01,Hospital Central,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2604-006-1,2026-11-18,74,43,15,0.31
+2026-04-01,Hospital Central,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2604-007-1,2026-12-07,31,14,6,0.12
+2026-04-01,Hospital Central,100108,Atadura crepe 10 cm,Descartáveis,L2604-008-1,2026-12-26,46,21,10,0.86
+2026-04-01,Hospital Central,100109,Fita microporosa 25 mm,Descartáveis,L2604-009-1,2027-01-14,45,28,15,1.4
+2026-04-01,Hospital Central,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2604-010-1,2027-02-02,67,35,19,4.35
+2026-04-01,Hospital Central,200202,Dipirona 500 mg,Medicamentos,L2604-011-1,2027-02-21,82,42,22,0.09
+2026-04-01,Hospital Central,200203,Paracetamol 750 mg,Medicamentos,L2604-012-1,2027-03-12,29,13,6,0.14
+2026-04-01,Hospital Central,200204,Omeprazol 20 mg,Medicamentos,L2604-013-1,2027-03-31,36,20,8,0.11
+2026-04-01,Hospital Central,200205,Loratadina 10 mg,Medicamentos,L2604-014-1,2027-04-19,50,27,9,0.16
+2026-04-01,Hospital Central,200206,Clorexidina 2% 100 ml,Medicamentos,L2604-015-1,2027-05-08,65,34,10,7.25
+2026-04-01,Hospital Central,200207,Glicose 50% 10 ml,Medicamentos,L2604-016-1,2027-05-27,92,41,11,0.82
+2026-04-01,Hospital Central,200208,Água para injeção 10 ml,Medicamentos,L2604-017-1,2027-06-15,22,12,3,0.65
+2026-04-01,Hospital Central,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2604-018-1,2027-07-04,35,19,6,18.9
+2026-04-01,Hospital Central,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2604-019-1,2027-07-23,55,26,11,12.4
+2026-04-01,Hospital Central,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2604-020-1,2027-08-11,71,33,16,0.78
+2026-04-01,Hospital Central,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2604-021-1,2027-08-30,63,40,21,3.1
+2026-04-01,Hospital Central,300305,Kit curativo estéril,Materiais cirúrgicos,L2604-022-1,2027-09-18,23,11,6,8.6
+2026-04-01,Hospital Central,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2604-023-1,2027-10-07,37,18,10,24.5
+2026-04-01,Hospital Central,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2604-024-1,2027-10-26,12,25,12,3.75
+2026-04-01,Hospital Central,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2604-025-1,2027-11-14,56,32,13,9.8
+2026-04-01,Hospital Central,400401,Detergente enzimático 1 L,Higiene e limpeza,L2604-026-1,2027-12-03,70,39,13,22.8
+2026-04-01,Hospital Central,400402,Álcool 70% 1 L,Higiene e limpeza,L2604-027-1,2026-10-28,21,10,3,8.9
+2026-04-01,Hospital Central,400403,Papel toalha interfolhado,Higiene e limpeza,L2604-028-1,2026-11-16,40,17,5,12.5
+2026-04-01,Hospital Central,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2604-029-1,2026-12-05,41,24,7,0.72
+2026-04-01,Hospital Central,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2604-030-1,2026-12-24,54,31,11,47.0
+2026-04-01,Hospital Central,500501,Termômetro digital clínico,Equipamentos,L2604-031-1,2027-01-12,79,38,16,18.0
+2026-04-01,Hospital Central,500502,Oxímetro de pulso portátil,Equipamentos,L2604-032-1,2027-01-31,22,9,4,135.0
+2026-04-01,Hospital Central,500503,Esfigmomanômetro adulto,Equipamentos,L2604-033-1,2027-02-19,27,16,9,88.0
+2026-04-01,Hospital Central,500504,Estetoscópio adulto,Equipamentos,L2604-034-1,2027-03-10,45,23,13,64.0
+2026-04-01,Hospital Central,500505,Balança digital portátil,Equipamentos,L2604-035-1,2026-10-26,60,30,16,210.0
+2026-04-01,Hospital Central,500506,Lanterna clínica LED,Equipamentos,L2604-036-1,2027-04-17,76,37,18,28.0
+2026-04-01,Hospital Central,500507,Nebulizador portátil,Equipamentos,L2604-037-1,2027-05-06,17,8,3,160.0
+2026-04-01,Hospital Central,500508,Sensor de oximetria adulto,Equipamentos,L2604-038-1,2027-05-25,29,15,5,42.0
+2026-04-01,Unidade Sul,100101,Seringa descartável 10 ml,Descartáveis,L2604-001-2,2027-11-01,28,13,4,1.25
+2026-04-01,Unidade Sul,100102,Luva de procedimento M,Descartáveis,L2604-002-2,2027-11-20,44,20,6,0.42
+2026-04-01,Unidade Sul,100103,Equipo macrogotas,Descartáveis,L2604-003-2,2027-12-09,61,27,7,2.8
+2026-04-01,Unidade Sul,100104,Cateter intravenoso 22G,Descartáveis,L2604-004-2,2026-11-03,51,34,10,1.95
+2026-04-01,Unidade Sul,100105,Máscara cirúrgica tripla,Descartáveis,L2604-005-2,2026-11-22,68,41,14,0.18
+2026-04-01,Unidade Sul,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2604-006-2,2026-12-11,19,12,5,0.31
+2026-04-01,Unidade Sul,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2604-007-2,2026-12-30,41,19,9,0.12
+2026-04-01,Unidade Sul,100108,Atadura crepe 10 cm,Descartáveis,L2604-008-2,2027-01-18,42,26,14,0.86
+2026-04-01,Unidade Sul,100109,Fita microporosa 25 mm,Descartáveis,L2604-009-2,2027-02-06,58,33,18,1.4
+2026-04-01,Unidade Sul,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2604-010-2,2027-02-25,85,40,21,4.35
+2026-04-01,Unidade Sul,200202,Dipirona 500 mg,Medicamentos,L2604-011-2,2027-03-16,28,11,5,0.09
+2026-04-01,Unidade Sul,200203,Paracetamol 750 mg,Medicamentos,L2604-012-2,2027-04-04,35,18,7,0.14
+2026-04-01,Unidade Sul,200204,Omeprazol 20 mg,Medicamentos,L2604-013-2,2027-04-23,40,25,9,0.11
+2026-04-01,Unidade Sul,200205,Loratadina 10 mg,Medicamentos,L2604-014-2,2027-05-12,57,32,9,0.16
+2026-04-01,Unidade Sul,200206,Clorexidina 2% 100 ml,Medicamentos,L2604-015-2,2027-05-31,75,39,11,7.25
+2026-04-01,Unidade Sul,200207,Glicose 50% 10 ml,Medicamentos,L2604-016-2,2026-10-21,15,10,3,0.82
+2026-04-01,Unidade Sul,200208,Água para injeção 10 ml,Medicamentos,L2604-017-2,2027-07-08,30,17,6,0.65
+2026-04-01,Unidade Sul,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2604-018-2,2027-07-27,46,24,10,18.9
+2026-04-01,Unidade Sul,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2604-019-2,2027-08-15,72,31,15,12.4
+2026-04-01,Unidade Sul,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2604-020-2,2027-09-03,66,38,20,0.78
+2026-04-01,Unidade Sul,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2604-021-2,2027-09-22,22,9,5,3.1
+2026-04-01,Unidade Sul,300305,Kit curativo estéril,Materiais cirúrgicos,L2604-022-2,2027-10-11,26,16,9,8.6
+2026-04-01,Unidade Sul,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2604-023-2,2027-10-30,11,23,11,24.5
+2026-04-01,Unidade Sul,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2604-024-2,2027-11-18,43,30,12,3.75
+2026-04-01,Unidade Sul,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2604-025-2,2027-12-07,68,37,13,9.8
+2026-04-01,Unidade Sul,400401,Detergente enzimático 1 L,Higiene e limpeza,L2604-026-2,2026-11-01,15,8,2,22.8
+2026-04-01,Unidade Sul,400402,Álcool 70% 1 L,Higiene e limpeza,L2604-027-2,2026-11-20,32,15,4,8.9
+2026-04-01,Unidade Sul,400403,Papel toalha interfolhado,Higiene e limpeza,L2604-028-2,2026-12-09,41,22,6,12.5
+2026-04-01,Unidade Sul,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2604-029-2,2026-12-28,56,29,10,0.72
+2026-04-01,Unidade Sul,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2604-030-2,2027-01-16,74,36,15,47.0
+2026-04-01,Unidade Sul,500501,Termômetro digital clínico,Equipamentos,L2604-031-2,2027-02-04,89,43,21,18.0
+2026-04-01,Unidade Sul,500502,Oxímetro de pulso portátil,Equipamentos,L2604-032-2,2027-02-23,17,14,7,135.0
+2026-04-01,Unidade Sul,500503,Esfigmomanômetro adulto,Equipamentos,L2604-033-2,2027-03-14,32,21,12,88.0
+2026-04-01,Unidade Sul,500504,Estetoscópio adulto,Equipamentos,L2604-034-2,2027-04-02,56,28,15,64.0
+2026-04-01,Unidade Sul,500505,Balança digital portátil,Equipamentos,L2604-035-2,2027-04-21,74,35,17,210.0
+2026-04-01,Unidade Sul,500506,Lanterna clínica LED,Equipamentos,L2604-036-2,2027-05-10,66,42,17,28.0
+2026-04-01,Unidade Sul,500507,Nebulizador portátil,Equipamentos,L2604-037-2,2027-05-29,28,13,4,160.0
+2026-04-01,Unidade Sul,500508,Sensor de oximetria adulto,Equipamentos,L2604-038-2,2027-06-17,44,20,6,42.0
+2026-04-01,Unidade Leste,100101,Seringa descartável 10 ml,Descartáveis,L2604-001-3,2027-11-24,41,18,5,1.25
+2026-04-01,Unidade Leste,100102,Luva de procedimento M,Descartáveis,L2604-002-3,2027-12-13,60,25,7,0.42
+2026-04-01,Unidade Leste,100103,Equipo macrogotas,Descartáveis,L2604-003-3,2026-11-07,45,32,9,2.8
+2026-04-01,Unidade Leste,100104,Cateter intravenoso 22G,Descartáveis,L2604-004-3,2026-11-26,72,39,13,1.95
+2026-04-01,Unidade Leste,100105,Máscara cirúrgica tripla,Descartáveis,L2604-005-3,2026-12-15,21,10,4,0.18
+2026-04-01,Unidade Leste,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2604-006-3,2027-01-03,40,17,8,0.31
+2026-04-01,Unidade Leste,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2604-007-3,2027-01-22,34,24,13,0.12
+2026-04-01,Unidade Leste,100108,Atadura crepe 10 cm,Descartáveis,L2604-008-3,2027-02-10,52,31,17,0.86
+2026-04-01,Unidade Leste,100109,Fita microporosa 25 mm,Descartáveis,L2604-009-3,2027-03-01,71,38,20,1.4
+2026-04-01,Unidade Leste,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2604-010-3,2027-03-20,24,9,4,4.35
+2026-04-01,Unidade Leste,200202,Dipirona 500 mg,Medicamentos,L2604-011-3,2027-04-08,33,16,7,0.09
+2026-04-01,Unidade Leste,200203,Paracetamol 750 mg,Medicamentos,L2604-012-3,2027-04-27,34,23,8,0.14
+2026-04-01,Unidade Leste,200204,Omeprazol 20 mg,Medicamentos,L2604-013-3,2027-05-16,60,30,9,0.11
+2026-04-01,Unidade Leste,200205,Loratadina 10 mg,Medicamentos,L2604-014-3,2027-06-04,80,37,10,0.16
+2026-04-01,Unidade Leste,200206,Clorexidina 2% 100 ml,Medicamentos,L2604-015-3,2027-06-23,18,8,2,7.25
+2026-04-01,Unidade Leste,200207,Glicose 50% 10 ml,Medicamentos,L2604-016-3,2027-07-12,22,15,5,0.82
+2026-04-01,Unidade Leste,200208,Água para injeção 10 ml,Medicamentos,L2604-017-3,2027-07-31,40,22,9,0.65
+2026-04-01,Unidade Leste,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2604-018-3,2027-08-19,59,29,14,18.9
+2026-04-01,Unidade Leste,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2604-019-3,2027-09-07,65,36,19,12.4
+2026-04-01,Unidade Leste,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2604-020-3,2027-09-26,84,43,24,0.78
+2026-04-01,Unidade Leste,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2604-021-3,2027-10-15,21,14,7,3.1
+2026-04-01,Unidade Leste,300305,Kit curativo estéril,Materiais cirúrgicos,L2604-022-3,2027-11-03,10,21,10,8.6
+2026-04-01,Unidade Leste,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2604-023-3,2027-11-22,47,28,12,24.5
+2026-04-01,Unidade Leste,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2604-024-3,2027-12-11,65,35,12,3.75
+2026-04-01,Unidade Leste,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2604-025-3,2026-11-05,80,42,12,9.8
+2026-04-01,Unidade Leste,400401,Detergente enzimático 1 L,Higiene e limpeza,L2604-026-3,2026-11-24,24,13,4,22.8
+2026-04-01,Unidade Leste,400402,Álcool 70% 1 L,Higiene e limpeza,L2604-027-3,2026-12-13,31,20,6,8.9
+2026-04-01,Unidade Leste,400403,Papel toalha interfolhado,Higiene e limpeza,L2604-028-3,2027-01-01,55,27,9,12.5
+2026-04-01,Unidade Leste,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2604-029-3,2027-01-20,73,34,14,0.72
+2026-04-01,Unidade Leste,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2604-030-3,2027-02-08,79,41,20,47.0
+2026-04-01,Unidade Leste,500501,Termômetro digital clínico,Equipamentos,L2604-031-3,2027-02-27,19,12,6,18.0
+2026-04-01,Unidade Leste,500502,Oxímetro de pulso portátil,Equipamentos,L2604-032-3,2027-03-18,36,19,11,135.0
+2026-04-01,Unidade Leste,500503,Esfigmomanômetro adulto,Equipamentos,L2604-033-3,2027-04-06,54,26,14,88.0
+2026-04-01,Unidade Leste,500504,Estetoscópio adulto,Equipamentos,L2604-034-3,2026-10-22,67,33,16,64.0
+2026-04-01,Unidade Leste,500505,Balança digital portátil,Equipamentos,L2604-035-3,2027-05-14,62,40,16,210.0
+2026-04-01,Unidade Leste,500506,Lanterna clínica LED,Equipamentos,L2604-036-3,2027-06-02,19,11,4,28.0
+2026-04-01,Unidade Leste,500507,Nebulizador portátil,Equipamentos,L2604-037-3,2027-06-21,41,18,5,160.0
+2026-04-01,Unidade Leste,500508,Sensor de oximetria adulto,Equipamentos,L2604-038-3,2027-07-10,60,25,7,42.0
+2026-05-01,Hospital Central,100101,Seringa descartável 10 ml,Descartáveis,L2605-001-1,2027-09-28,18,8,3,1.25
+2026-05-01,Hospital Central,100102,Luva de procedimento M,Descartáveis,L2605-002-1,2027-10-17,31,15,4,0.42
+2026-05-01,Hospital Central,100103,Equipo macrogotas,Descartáveis,L2605-003-1,2027-11-05,45,22,6,2.8
+2026-05-01,Hospital Central,100104,Cateter intravenoso 22G,Descartáveis,L2605-004-1,2027-11-24,66,29,8,1.95
+2026-05-01,Hospital Central,100105,Máscara cirúrgica tripla,Descartáveis,L2605-005-1,2027-12-13,61,36,12,0.18
+2026-05-01,Hospital Central,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2605-006-1,2026-11-07,77,43,18,0.31
+2026-05-01,Hospital Central,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2605-007-1,2026-11-26,32,14,7,0.12
+2026-05-01,Hospital Central,100108,Atadura crepe 10 cm,Descartáveis,L2605-008-1,2026-12-15,47,21,11,0.86
+2026-05-01,Hospital Central,100109,Fita microporosa 25 mm,Descartáveis,L2605-009-1,2027-01-03,48,28,15,1.4
+2026-05-01,Hospital Central,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2605-010-1,2027-01-22,67,35,19,4.35
+2026-05-01,Hospital Central,200202,Dipirona 500 mg,Medicamentos,L2605-011-1,2027-02-10,83,42,20,0.09
+2026-05-01,Hospital Central,200203,Paracetamol 750 mg,Medicamentos,L2605-012-1,2027-03-01,31,13,5,0.14
+2026-05-01,Hospital Central,200204,Omeprazol 20 mg,Medicamentos,L2605-013-1,2027-03-20,37,20,7,0.11
+2026-05-01,Hospital Central,200205,Loratadina 10 mg,Medicamentos,L2605-014-1,2027-04-08,51,27,8,0.16
+2026-05-01,Hospital Central,200206,Clorexidina 2% 100 ml,Medicamentos,L2605-015-1,2027-04-27,67,34,9,7.25
+2026-05-01,Hospital Central,200207,Glicose 50% 10 ml,Medicamentos,L2605-016-1,2026-10-14,91,41,12,0.82
+2026-05-01,Hospital Central,200208,Água para injeção 10 ml,Medicamentos,L2605-017-1,2027-06-04,24,12,4,0.65
+2026-05-01,Hospital Central,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2605-018-1,2027-06-23,37,19,8,18.9
+2026-05-01,Hospital Central,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2605-019-1,2027-07-12,55,26,13,12.4
+2026-05-01,Hospital Central,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2605-020-1,2027-07-31,72,33,18,0.78
+2026-05-01,Hospital Central,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2605-021-1,2027-08-19,66,40,22,3.1
+2026-05-01,Hospital Central,300305,Kit curativo estéril,Materiais cirúrgicos,L2605-022-1,2027-09-07,25,11,6,8.6
+2026-05-01,Hospital Central,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2605-023-1,2027-09-26,9,18,9,24.5
+2026-05-01,Hospital Central,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2605-024-1,2027-10-15,55,25,10,3.75
+2026-05-01,Hospital Central,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2605-025-1,2027-11-03,56,32,11,9.8
+2026-05-01,Hospital Central,400401,Detergente enzimático 1 L,Higiene e limpeza,L2605-026-1,2027-11-22,71,39,11,22.8
+2026-05-01,Hospital Central,400402,Álcool 70% 1 L,Higiene e limpeza,L2605-027-1,2027-12-11,23,10,3,8.9
+2026-05-01,Hospital Central,400403,Papel toalha interfolhado,Higiene e limpeza,L2605-028-1,2026-11-05,41,17,5,12.5
+2026-05-01,Hospital Central,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2605-029-1,2026-11-24,42,24,8,0.72
+2026-05-01,Hospital Central,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2605-030-1,2026-12-13,57,31,13,47.0
+2026-05-01,Hospital Central,500501,Termômetro digital clínico,Equipamentos,L2605-031-1,2027-01-01,79,38,18,18.0
+2026-05-01,Hospital Central,500502,Oxímetro de pulso portátil,Equipamentos,L2605-032-1,2027-01-20,23,9,5,135.0
+2026-05-01,Hospital Central,500503,Esfigmomanômetro adulto,Equipamentos,L2605-033-1,2027-02-08,29,16,9,88.0
+2026-05-01,Hospital Central,500504,Estetoscópio adulto,Equipamentos,L2605-034-1,2027-02-27,46,23,12,64.0
+2026-05-01,Hospital Central,500505,Balança digital portátil,Equipamentos,L2605-035-1,2027-03-18,61,30,14,210.0
+2026-05-01,Hospital Central,500506,Lanterna clínica LED,Equipamentos,L2605-036-1,2027-04-06,78,37,15,28.0
+2026-05-01,Hospital Central,500507,Nebulizador portátil,Equipamentos,L2605-037-1,2027-04-25,18,8,3,160.0
+2026-05-01,Hospital Central,500508,Sensor de oximetria adulto,Equipamentos,L2605-038-1,2027-05-14,31,15,4,42.0
+2026-05-01,Unidade Sul,100101,Seringa descartável 10 ml,Descartáveis,L2605-001-2,2027-10-21,28,13,4,1.25
+2026-05-01,Unidade Sul,100102,Luva de procedimento M,Descartáveis,L2605-002-2,2027-11-09,44,20,5,0.42
+2026-05-01,Unidade Sul,100103,Equipo macrogotas,Descartáveis,L2605-003-2,2027-11-28,47,27,8,2.8
+2026-05-01,Unidade Sul,100104,Cateter intravenoso 22G,Descartáveis,L2605-004-2,2026-10-23,50,34,12,1.95
+2026-05-01,Unidade Sul,100105,Máscara cirúrgica tripla,Descartáveis,L2605-005-2,2026-11-11,67,41,17,0.18
+2026-05-01,Unidade Sul,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2605-006-2,2026-11-30,21,12,6,0.31
+2026-05-01,Unidade Sul,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2605-007-2,2026-12-19,40,19,10,0.12
+2026-05-01,Unidade Sul,100108,Atadura crepe 10 cm,Descartáveis,L2605-008-2,2027-01-07,42,26,14,0.86
+2026-05-01,Unidade Sul,100109,Fita microporosa 25 mm,Descartáveis,L2605-009-2,2027-01-26,59,33,18,1.4
+2026-05-01,Unidade Sul,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2605-010-2,2027-02-14,84,40,19,4.35
+2026-05-01,Unidade Sul,200202,Dipirona 500 mg,Medicamentos,L2605-011-2,2027-03-05,29,11,5,0.09
+2026-05-01,Unidade Sul,200203,Paracetamol 750 mg,Medicamentos,L2605-012-2,2027-03-24,21,18,6,0.14
+2026-05-01,Unidade Sul,200204,Omeprazol 20 mg,Medicamentos,L2605-013-2,2027-04-12,40,25,7,0.11
+2026-05-01,Unidade Sul,200205,Loratadina 10 mg,Medicamentos,L2605-014-2,2027-05-01,57,32,9,0.16
+2026-05-01,Unidade Sul,200206,Clorexidina 2% 100 ml,Medicamentos,L2605-015-2,2027-05-20,77,39,11,7.25
+2026-05-01,Unidade Sul,200207,Glicose 50% 10 ml,Medicamentos,L2605-016-2,2027-06-08,16,10,3,0.82
+2026-05-01,Unidade Sul,200208,Água para injeção 10 ml,Medicamentos,L2605-017-2,2027-06-27,31,17,7,0.65
+2026-05-01,Unidade Sul,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2605-018-2,2027-07-16,48,24,12,18.9
+2026-05-01,Unidade Sul,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2605-019-2,2027-08-04,71,31,17,12.4
+2026-05-01,Unidade Sul,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2605-020-2,2027-08-23,66,38,21,0.78
+2026-05-01,Unidade Sul,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2605-021-2,2027-09-11,8,9,5,3.1
+2026-05-01,Unidade Sul,300305,Kit curativo estéril,Materiais cirúrgicos,L2605-022-2,2027-09-30,8,16,8,8.6
+2026-05-01,Unidade Sul,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2605-023-2,2027-10-19,44,23,9,24.5
+2026-05-01,Unidade Sul,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2605-024-2,2027-11-07,44,30,10,3.75
+2026-05-01,Unidade Sul,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2605-025-2,2027-11-26,66,37,11,9.8
+2026-05-01,Unidade Sul,400401,Detergente enzimático 1 L,Higiene e limpeza,L2605-026-2,2026-10-21,17,8,2,22.8
+2026-05-01,Unidade Sul,400402,Álcool 70% 1 L,Higiene e limpeza,L2605-027-2,2026-11-09,34,15,4,8.9
+2026-05-01,Unidade Sul,400403,Papel toalha interfolhado,Higiene e limpeza,L2605-028-2,2026-11-28,41,22,8,12.5
+2026-05-01,Unidade Sul,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2605-029-2,2026-12-17,57,29,12,0.72
+2026-05-01,Unidade Sul,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2605-030-2,2027-01-05,60,36,17,47.0
+2026-05-01,Unidade Sul,500501,Termômetro digital clínico,Equipamentos,L2605-031-2,2027-01-24,86,43,23,18.0
+2026-05-01,Unidade Sul,500502,Oxímetro de pulso portátil,Equipamentos,L2605-032-2,2027-02-12,18,14,8,135.0
+2026-05-01,Unidade Sul,500503,Esfigmomanômetro adulto,Equipamentos,L2605-033-2,2027-03-03,34,21,11,88.0
+2026-05-01,Unidade Sul,500504,Estetoscópio adulto,Equipamentos,L2605-034-2,2026-10-15,55,28,14,64.0
+2026-05-01,Unidade Sul,500505,Balança digital portátil,Equipamentos,L2605-035-2,2027-04-10,73,35,14,210.0
+2026-05-01,Unidade Sul,500506,Lanterna clínica LED,Equipamentos,L2605-036-2,2027-04-29,68,42,14,28.0
+2026-05-01,Unidade Sul,500507,Nebulizador portátil,Equipamentos,L2605-037-2,2027-05-18,28,13,4,160.0
+2026-05-01,Unidade Sul,500508,Sensor de oximetria adulto,Equipamentos,L2605-038-2,2027-06-06,44,20,5,42.0
+2026-05-01,Unidade Leste,100101,Seringa descartável 10 ml,Descartáveis,L2605-001-3,2027-11-13,40,18,5,1.25
+2026-05-01,Unidade Leste,100102,Luva de procedimento M,Descartáveis,L2605-002-3,2027-12-02,44,25,7,0.42
+2026-05-01,Unidade Leste,100103,Equipo macrogotas,Descartáveis,L2605-003-3,2026-10-27,45,32,11,2.8
+2026-05-01,Unidade Leste,100104,Cateter intravenoso 22G,Descartáveis,L2605-004-3,2026-11-15,69,39,16,1.95
+2026-05-01,Unidade Leste,100105,Máscara cirúrgica tripla,Descartáveis,L2605-005-3,2026-12-04,22,10,5,0.18
+2026-05-01,Unidade Leste,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2605-006-3,2026-12-23,41,17,9,0.31
+2026-05-01,Unidade Leste,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2605-007-3,2027-01-11,33,24,13,0.12
+2026-05-01,Unidade Leste,100108,Atadura crepe 10 cm,Descartáveis,L2605-008-3,2027-01-30,51,31,17,0.86
+2026-05-01,Unidade Leste,100109,Fita microporosa 25 mm,Descartáveis,L2605-009-3,2027-02-18,71,38,18,1.4
+2026-05-01,Unidade Leste,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2605-010-3,2027-03-09,24,9,4,4.35
+2026-05-01,Unidade Leste,200202,Dipirona 500 mg,Medicamentos,L2605-011-3,2027-03-28,18,16,5,0.09
+2026-05-01,Unidade Leste,200203,Paracetamol 750 mg,Medicamentos,L2605-012-3,2027-04-16,35,23,7,0.14
+2026-05-01,Unidade Leste,200204,Omeprazol 20 mg,Medicamentos,L2605-013-3,2027-05-05,58,30,8,0.11
+2026-05-01,Unidade Leste,200205,Loratadina 10 mg,Medicamentos,L2605-014-3,2027-05-24,78,37,11,0.16
+2026-05-01,Unidade Leste,200206,Clorexidina 2% 100 ml,Medicamentos,L2605-015-3,2026-10-25,19,8,3,7.25
+2026-05-01,Unidade Leste,200207,Glicose 50% 10 ml,Medicamentos,L2605-016-3,2027-07-01,21,15,6,0.82
+2026-05-01,Unidade Leste,200208,Água para injeção 10 ml,Medicamentos,L2605-017-3,2027-07-20,39,22,11,0.65
+2026-05-01,Unidade Leste,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2605-018-3,2027-08-08,59,29,15,18.9
+2026-05-01,Unidade Leste,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2605-019-3,2027-08-27,63,36,20,12.4
+2026-05-01,Unidade Leste,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2605-020-3,2027-09-15,66,43,23,0.78
+2026-05-01,Unidade Leste,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2605-021-3,2027-10-04,7,14,7,3.1
+2026-05-01,Unidade Leste,300305,Kit curativo estéril,Materiais cirúrgicos,L2605-022-3,2027-10-23,44,21,9,8.6
+2026-05-01,Unidade Leste,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2605-023-3,2027-11-11,47,28,10,24.5
+2026-05-01,Unidade Leste,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2605-024-3,2027-11-30,65,35,10,3.75
+2026-05-01,Unidade Leste,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2605-025-3,2026-10-25,76,42,11,9.8
+2026-05-01,Unidade Leste,400401,Detergente enzimático 1 L,Higiene e limpeza,L2605-026-3,2026-11-13,24,13,4,22.8
+2026-05-01,Unidade Leste,400402,Álcool 70% 1 L,Higiene e limpeza,L2605-027-3,2026-12-02,32,20,7,8.9
+2026-05-01,Unidade Leste,400403,Papel toalha interfolhado,Higiene e limpeza,L2605-028-3,2026-12-21,53,27,11,12.5
+2026-05-01,Unidade Leste,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2605-029-3,2027-01-09,56,34,16,0.72
+2026-05-01,Unidade Leste,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2605-030-3,2027-01-28,78,41,22,47.0
+2026-05-01,Unidade Leste,500501,Termômetro digital clínico,Equipamentos,L2605-031-3,2027-02-16,19,12,7,18.0
+2026-05-01,Unidade Leste,500502,Oxímetro de pulso portátil,Equipamentos,L2605-032-3,2027-03-07,36,19,10,135.0
+2026-05-01,Unidade Leste,500503,Esfigmomanômetro adulto,Equipamentos,L2605-033-3,2027-03-26,54,26,13,88.0
+2026-05-01,Unidade Leste,500504,Estetoscópio adulto,Equipamentos,L2605-034-3,2027-04-14,64,33,14,64.0
+2026-05-01,Unidade Leste,500505,Balança digital portátil,Equipamentos,L2605-035-3,2027-05-03,60,40,14,210.0
+2026-05-01,Unidade Leste,500506,Lanterna clínica LED,Equipamentos,L2605-036-3,2027-05-22,20,11,3,28.0
+2026-05-01,Unidade Leste,500507,Nebulizador portátil,Equipamentos,L2605-037-3,2027-06-10,40,18,5,160.0
+2026-05-01,Unidade Leste,500508,Sensor de oximetria adulto,Equipamentos,L2605-038-3,2027-06-29,44,25,7,42.0
+2026-06-01,Hospital Central,100101,Seringa descartável 10 ml,Descartáveis,L2606-001-1,2027-09-17,19,8,2,1.25
+2026-06-01,Hospital Central,100102,Luva de procedimento M,Descartáveis,L2606-002-1,2027-10-06,32,15,4,0.42
+2026-06-01,Hospital Central,100103,Equipo macrogotas,Descartáveis,L2606-003-1,2027-10-25,48,22,6,2.8
+2026-06-01,Hospital Central,100104,Cateter intravenoso 22G,Descartáveis,L2606-004-1,2027-11-13,66,29,10,1.95
+2026-06-01,Hospital Central,100105,Máscara cirúrgica tripla,Descartáveis,L2606-005-1,2027-12-02,62,36,15,0.18
+2026-06-01,Hospital Central,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2606-006-1,2026-10-27,81,43,21,0.31
+2026-06-01,Hospital Central,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2606-007-1,2026-11-15,33,14,7,0.12
+2026-06-01,Hospital Central,100108,Atadura crepe 10 cm,Descartáveis,L2606-008-1,2026-12-04,49,21,12,0.86
+2026-06-01,Hospital Central,100109,Fita microporosa 25 mm,Descartáveis,L2606-009-1,2026-12-23,50,28,15,1.4
+2026-06-01,Hospital Central,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2606-010-1,2027-01-11,67,35,17,4.35
+2026-06-01,Hospital Central,200202,Dipirona 500 mg,Medicamentos,L2606-011-1,2027-01-30,85,42,17,0.09
+2026-06-01,Hospital Central,200203,Paracetamol 750 mg,Medicamentos,L2606-012-1,2027-02-18,33,13,4,0.14
+2026-06-01,Hospital Central,200204,Omeprazol 20 mg,Medicamentos,L2606-013-1,2027-03-09,38,20,6,0.11
+2026-06-01,Hospital Central,200205,Loratadina 10 mg,Medicamentos,L2606-014-1,2027-03-28,53,27,7,0.16
+2026-06-01,Hospital Central,200206,Clorexidina 2% 100 ml,Medicamentos,L2606-015-1,2027-04-16,71,34,10,7.25
+2026-06-01,Hospital Central,200207,Glicose 50% 10 ml,Medicamentos,L2606-016-1,2027-05-05,90,41,14,0.82
+2026-06-01,Hospital Central,200208,Água para injeção 10 ml,Medicamentos,L2606-017-1,2027-05-24,25,12,5,0.65
+2026-06-01,Hospital Central,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2606-018-1,2027-06-12,39,19,9,18.9
+2026-06-01,Hospital Central,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2606-019-1,2027-07-01,56,26,14,12.4
+2026-06-01,Hospital Central,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2606-020-1,2027-07-20,73,33,18,0.78
+2026-06-01,Hospital Central,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2606-021-1,2027-08-08,69,40,21,3.1
+2026-06-01,Hospital Central,300305,Kit curativo estéril,Materiais cirúrgicos,L2606-022-1,2027-08-27,5,11,5,8.6
+2026-06-01,Hospital Central,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2606-023-1,2027-09-15,40,18,7,24.5
+2026-06-01,Hospital Central,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2606-024-1,2027-10-04,58,25,9,3.75
+2026-06-01,Hospital Central,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2606-025-1,2027-10-23,57,32,9,9.8
+2026-06-01,Hospital Central,400401,Detergente enzimático 1 L,Higiene e limpeza,L2606-026-1,2027-11-11,73,39,11,22.8
+2026-06-01,Hospital Central,400402,Álcool 70% 1 L,Higiene e limpeza,L2606-027-1,2027-11-30,26,10,3,8.9
+2026-06-01,Hospital Central,400403,Papel toalha interfolhado,Higiene e limpeza,L2606-028-1,2026-10-25,41,17,6,12.5
+2026-06-01,Hospital Central,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2606-029-1,2026-11-13,44,24,10,0.72
+2026-06-01,Hospital Central,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2606-030-1,2026-12-02,60,31,15,47.0
+2026-06-01,Hospital Central,500501,Termômetro digital clínico,Equipamentos,L2606-031-1,2026-12-21,78,38,20,18.0
+2026-06-01,Hospital Central,500502,Oxímetro de pulso portátil,Equipamentos,L2606-032-1,2027-01-09,25,9,5,135.0
+2026-06-01,Hospital Central,500503,Esfigmomanômetro adulto,Equipamentos,L2606-033-1,2027-01-28,32,16,9,88.0
+2026-06-01,Hospital Central,500504,Estetoscópio adulto,Equipamentos,L2606-034-1,2026-10-23,46,23,11,64.0
+2026-06-01,Hospital Central,500505,Balança digital portátil,Equipamentos,L2606-035-1,2027-03-07,62,30,12,210.0
+2026-06-01,Hospital Central,500506,Lanterna clínica LED,Equipamentos,L2606-036-1,2027-03-26,82,37,13,28.0
+2026-06-01,Hospital Central,500507,Nebulizador portátil,Equipamentos,L2606-037-1,2027-04-14,19,8,2,160.0
+2026-06-01,Hospital Central,500508,Sensor de oximetria adulto,Equipamentos,L2606-038-1,2027-05-03,32,15,4,42.0
+2026-06-01,Unidade Sul,100101,Seringa descartável 10 ml,Descartáveis,L2606-001-2,2027-10-10,29,13,4,1.25
+2026-06-01,Unidade Sul,100102,Luva de procedimento M,Descartáveis,L2606-002-2,2027-10-29,30,20,6,0.42
+2026-06-01,Unidade Sul,100103,Equipo macrogotas,Descartáveis,L2606-003-2,2027-11-17,49,27,9,2.8
+2026-06-01,Unidade Sul,100104,Cateter intravenoso 22G,Descartáveis,L2606-004-2,2027-12-06,49,34,14,1.95
+2026-06-01,Unidade Sul,100105,Máscara cirúrgica tripla,Descartáveis,L2606-005-2,2026-10-31,67,41,20,0.18
+2026-06-01,Unidade Sul,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2606-006-2,2026-11-19,22,12,6,0.31
+2026-06-01,Unidade Sul,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2606-007-2,2026-12-08,40,19,11,0.12
+2026-06-01,Unidade Sul,100108,Atadura crepe 10 cm,Descartáveis,L2606-008-2,2026-12-27,43,26,14,0.86
+2026-06-01,Unidade Sul,100109,Fita microporosa 25 mm,Descartáveis,L2606-009-2,2027-01-15,61,33,16,1.4
+2026-06-01,Unidade Sul,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2606-010-2,2027-02-03,81,40,16,4.35
+2026-06-01,Unidade Sul,200202,Dipirona 500 mg,Medicamentos,L2606-011-2,2027-02-22,15,11,4,0.09
+2026-06-01,Unidade Sul,200203,Paracetamol 750 mg,Medicamentos,L2606-012-2,2027-03-13,23,18,5,0.14
+2026-06-01,Unidade Sul,200204,Omeprazol 20 mg,Medicamentos,L2606-013-2,2027-04-01,39,25,7,0.11
+2026-06-01,Unidade Sul,200205,Loratadina 10 mg,Medicamentos,L2606-014-2,2027-04-20,57,32,9,0.16
+2026-06-01,Unidade Sul,200206,Clorexidina 2% 100 ml,Medicamentos,L2606-015-2,2026-10-18,79,39,13,7.25
+2026-06-01,Unidade Sul,200207,Glicose 50% 10 ml,Medicamentos,L2606-016-2,2027-05-28,17,10,4,0.82
+2026-06-01,Unidade Sul,200208,Água para injeção 10 ml,Medicamentos,L2606-017-2,2027-06-16,32,17,8,0.65
+2026-06-01,Unidade Sul,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2606-018-2,2027-07-05,50,24,13,18.9
+2026-06-01,Unidade Sul,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2606-019-2,2027-07-24,69,31,17,12.4
+2026-06-01,Unidade Sul,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2606-020-2,2027-08-12,51,38,20,0.78
+2026-06-01,Unidade Sul,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2606-021-2,2027-08-31,4,9,4,3.1
+2026-06-01,Unidade Sul,300305,Kit curativo estéril,Materiais cirúrgicos,L2606-022-2,2027-09-19,26,16,7,8.6
+2026-06-01,Unidade Sul,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2606-023-2,2027-10-08,44,23,8,24.5
+2026-06-01,Unidade Sul,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2606-024-2,2027-10-27,46,30,9,3.75
+2026-06-01,Unidade Sul,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2606-025-2,2027-11-15,65,37,10,9.8
+2026-06-01,Unidade Sul,400401,Detergente enzimático 1 L,Higiene e limpeza,L2606-026-2,2027-12-04,18,8,2,22.8
+2026-06-01,Unidade Sul,400402,Álcool 70% 1 L,Higiene e limpeza,L2606-027-2,2026-10-29,35,15,5,8.9
+2026-06-01,Unidade Sul,400403,Papel toalha interfolhado,Higiene e limpeza,L2606-028-2,2026-11-17,41,22,9,12.5
+2026-06-01,Unidade Sul,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2606-029-2,2026-12-06,42,29,14,0.72
+2026-06-01,Unidade Sul,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2606-030-2,2026-12-25,62,36,19,47.0
+2026-06-01,Unidade Sul,500501,Termômetro digital clínico,Equipamentos,L2606-031-2,2027-01-13,83,43,24,18.0
+2026-06-01,Unidade Sul,500502,Oxímetro de pulso portátil,Equipamentos,L2606-032-2,2027-02-01,20,14,7,135.0
+2026-06-01,Unidade Sul,500503,Esfigmomanômetro adulto,Equipamentos,L2606-033-2,2027-02-20,36,21,10,88.0
+2026-06-01,Unidade Sul,500504,Estetoscópio adulto,Equipamentos,L2606-034-2,2027-03-11,54,28,12,64.0
+2026-06-01,Unidade Sul,500505,Balança digital portátil,Equipamentos,L2606-035-2,2027-03-30,73,35,12,210.0
+2026-06-01,Unidade Sul,500506,Lanterna clínica LED,Equipamentos,L2606-036-2,2027-04-18,70,42,12,28.0
+2026-06-01,Unidade Sul,500507,Nebulizador portátil,Equipamentos,L2606-037-2,2027-05-07,29,13,4,160.0
+2026-06-01,Unidade Sul,500508,Sensor de oximetria adulto,Equipamentos,L2606-038-2,2027-05-26,30,20,6,42.0
+2026-06-01,Unidade Leste,100101,Seringa descartável 10 ml,Descartáveis,L2606-001-3,2027-11-02,39,18,5,1.25
+2026-06-01,Unidade Leste,100102,Luva de procedimento M,Descartáveis,L2606-002-3,2027-11-21,43,25,9,0.42
+2026-06-01,Unidade Leste,100103,Equipo macrogotas,Descartáveis,L2606-003-3,2027-12-10,46,32,13,2.8
+2026-06-01,Unidade Leste,100104,Cateter intravenoso 22G,Descartáveis,L2606-004-3,2026-11-04,66,39,19,1.95
+2026-06-01,Unidade Leste,100105,Máscara cirúrgica tripla,Descartáveis,L2606-005-3,2026-11-23,23,10,5,0.18
+2026-06-01,Unidade Leste,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2606-006-3,2026-12-12,26,17,9,0.31
+2026-06-01,Unidade Leste,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2606-007-3,2026-12-31,32,24,13,0.12
+2026-06-01,Unidade Leste,100108,Atadura crepe 10 cm,Descartáveis,L2606-008-3,2027-01-19,50,31,15,0.86
+2026-06-01,Unidade Leste,100109,Fita microporosa 25 mm,Descartáveis,L2606-009-3,2027-02-07,72,38,16,1.4
+2026-06-01,Unidade Leste,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2606-010-3,2027-02-26,24,9,3,4.35
+2026-06-01,Unidade Leste,200202,Dipirona 500 mg,Medicamentos,L2606-011-3,2027-03-17,18,16,5,0.09
+2026-06-01,Unidade Leste,200203,Paracetamol 750 mg,Medicamentos,L2606-012-3,2027-04-05,36,23,6,0.14
+2026-06-01,Unidade Leste,200204,Omeprazol 20 mg,Medicamentos,L2606-013-3,2027-04-24,56,30,9,0.11
+2026-06-01,Unidade Leste,200205,Loratadina 10 mg,Medicamentos,L2606-014-3,2027-05-13,76,37,13,0.16
+2026-06-01,Unidade Leste,200206,Clorexidina 2% 100 ml,Medicamentos,L2606-015-3,2027-06-01,5,8,3,7.25
+2026-06-01,Unidade Leste,200207,Glicose 50% 10 ml,Medicamentos,L2606-016-3,2027-06-20,21,15,7,0.82
+2026-06-01,Unidade Leste,200208,Água para injeção 10 ml,Medicamentos,L2606-017-3,2027-07-09,39,22,12,0.65
+2026-06-01,Unidade Leste,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2606-018-3,2027-07-28,60,29,16,18.9
+2026-06-01,Unidade Leste,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2606-019-3,2027-08-16,61,36,19,12.4
+2026-06-01,Unidade Leste,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2606-020-3,2027-09-04,21,43,21,0.78
+2026-06-01,Unidade Leste,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2606-021-3,2027-09-23,24,14,6,3.1
+2026-06-01,Unidade Leste,300305,Kit curativo estéril,Materiais cirúrgicos,L2606-022-3,2027-10-12,43,21,7,8.6
+2026-06-01,Unidade Leste,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2606-023-3,2027-10-31,46,28,8,24.5
+2026-06-01,Unidade Leste,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2606-024-3,2027-11-19,51,35,9,3.75
+2026-06-01,Unidade Leste,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2606-025-3,2027-12-08,72,42,12,9.8
+2026-06-01,Unidade Leste,400401,Detergente enzimático 1 L,Higiene e limpeza,L2606-026-3,2026-11-02,25,13,4,22.8
+2026-06-01,Unidade Leste,400402,Álcool 70% 1 L,Higiene e limpeza,L2606-027-3,2026-11-21,33,20,8,8.9
+2026-06-01,Unidade Leste,400403,Papel toalha interfolhado,Higiene e limpeza,L2606-028-3,2026-12-10,51,27,13,12.5
+2026-06-01,Unidade Leste,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2606-029-3,2026-12-29,55,34,18,0.72
+2026-06-01,Unidade Leste,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2606-030-3,2027-01-17,78,41,23,47.0
+2026-06-01,Unidade Leste,500501,Termômetro digital clínico,Equipamentos,L2606-031-3,2027-02-05,20,12,6,18.0
+2026-06-01,Unidade Leste,500502,Oxímetro de pulso portátil,Equipamentos,L2606-032-3,2027-02-24,36,19,9,135.0
+2026-06-01,Unidade Leste,500503,Esfigmomanômetro adulto,Equipamentos,L2606-033-3,2026-10-19,40,26,11,88.0
+2026-06-01,Unidade Leste,500504,Estetoscópio adulto,Equipamentos,L2606-034-3,2027-04-03,61,33,11,64.0
+2026-06-01,Unidade Leste,500505,Balança digital portátil,Equipamentos,L2606-035-3,2027-04-22,59,40,12,210.0
+2026-06-01,Unidade Leste,500506,Lanterna clínica LED,Equipamentos,L2606-036-3,2027-05-11,22,11,3,28.0
+2026-06-01,Unidade Leste,500507,Nebulizador portátil,Equipamentos,L2606-037-3,2027-05-30,39,18,5,160.0
+2026-06-01,Unidade Leste,500508,Sensor de oximetria adulto,Equipamentos,L2606-038-3,2027-06-18,43,25,9,42.0
+2026-07-01,Hospital Central,100101,Seringa descartável 10 ml,Descartáveis,L2607-001-1,2027-09-06,5,8,2,1.25
+2026-07-01,Hospital Central,100102,Luva de procedimento M,Descartáveis,L2607-002-1,2027-09-25,19,15,4,0.42
+2026-07-01,Hospital Central,100103,Equipo macrogotas,Descartáveis,L2607-003-1,2027-10-14,36,22,8,2.8
+2026-07-01,Hospital Central,100104,Cateter intravenoso 22G,Descartáveis,L2607-004-1,2027-11-02,51,29,12,1.95
+2026-07-01,Hospital Central,100105,Máscara cirúrgica tripla,Descartáveis,L2607-005-1,2027-11-21,49,36,17,0.18
+2026-07-01,Hospital Central,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2607-006-1,2027-12-10,69,43,23,0.31
+2026-07-01,Hospital Central,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2607-007-1,2026-11-04,19,14,8,0.12
+2026-07-01,Hospital Central,100108,Atadura crepe 10 cm,Descartáveis,L2607-008-1,2026-11-23,36,21,11,0.86
+2026-07-01,Hospital Central,100109,Fita microporosa 25 mm,Descartáveis,L2607-009-1,2026-12-12,38,28,14,1.4
+2026-07-01,Hospital Central,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2607-010-1,2026-12-31,52,35,14,4.35
+2026-07-01,Hospital Central,200202,Dipirona 500 mg,Medicamentos,L2607-011-1,2027-01-19,71,42,14,0.09
+2026-07-01,Hospital Central,200203,Paracetamol 750 mg,Medicamentos,L2607-012-1,2027-02-07,21,13,4,0.14
+2026-07-01,Hospital Central,200204,Omeprazol 20 mg,Medicamentos,L2607-013-1,2027-02-26,24,20,5,0.11
+2026-07-01,Hospital Central,200205,Loratadina 10 mg,Medicamentos,L2607-014-1,2027-03-17,39,27,8,0.16
+2026-07-01,Hospital Central,200206,Clorexidina 2% 100 ml,Medicamentos,L2607-015-1,2026-10-26,59,34,12,7.25
+2026-07-01,Hospital Central,200207,Glicose 50% 10 ml,Medicamentos,L2607-016-1,2027-04-24,75,41,17,0.82
+2026-07-01,Hospital Central,200208,Água para injeção 10 ml,Medicamentos,L2607-017-1,2027-05-13,12,12,6,0.65
+2026-07-01,Hospital Central,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2607-018-1,2027-06-01,27,19,10,18.9
+2026-07-01,Hospital Central,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2607-019-1,2027-06-20,41,26,14,12.4
+2026-07-01,Hospital Central,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2607-020-1,2027-07-09,60,33,18,0.78
+2026-07-01,Hospital Central,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2607-021-1,2027-07-28,19,40,19,3.1
+2026-07-01,Hospital Central,300305,Kit curativo estéril,Materiais cirúrgicos,L2607-022-1,2027-08-16,12,11,5,8.6
+2026-07-01,Hospital Central,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2607-023-1,2027-09-04,27,18,6,24.5
+2026-07-01,Hospital Central,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2607-024-1,2027-09-23,46,25,7,3.75
+2026-07-01,Hospital Central,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2607-025-1,2027-10-12,42,32,9,9.8
+2026-07-01,Hospital Central,400401,Detergente enzimático 1 L,Higiene e limpeza,L2607-026-1,2027-10-31,59,39,11,22.8
+2026-07-01,Hospital Central,400402,Álcool 70% 1 L,Higiene e limpeza,L2607-027-1,2027-11-19,13,10,3,8.9
+2026-07-01,Hospital Central,400403,Papel toalha interfolhado,Higiene e limpeza,L2607-028-1,2027-12-08,27,17,7,12.5
+2026-07-01,Hospital Central,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2607-029-1,2026-11-02,30,24,12,0.72
+2026-07-01,Hospital Central,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2607-030-1,2026-11-21,48,31,17,47.0
+2026-07-01,Hospital Central,500501,Termômetro digital clínico,Equipamentos,L2607-031-1,2026-12-10,63,38,21,18.0
+2026-07-01,Hospital Central,500502,Oxímetro de pulso portátil,Equipamentos,L2607-032-1,2026-12-29,11,9,5,135.0
+2026-07-01,Hospital Central,500503,Esfigmomanômetro adulto,Equipamentos,L2607-033-1,2027-01-17,19,16,8,88.0
+2026-07-01,Hospital Central,500504,Estetoscópio adulto,Equipamentos,L2607-034-1,2027-02-05,32,23,9,64.0
+2026-07-01,Hospital Central,500505,Balança digital portátil,Equipamentos,L2607-035-1,2027-02-24,49,30,10,210.0
+2026-07-01,Hospital Central,500506,Lanterna clínica LED,Equipamentos,L2607-036-1,2027-03-15,71,37,11,28.0
+2026-07-01,Hospital Central,500507,Nebulizador portátil,Equipamentos,L2607-037-1,2027-04-03,5,8,2,160.0
+2026-07-01,Hospital Central,500508,Sensor de oximetria adulto,Equipamentos,L2607-038-1,2027-04-22,19,15,4,42.0
+2026-07-01,Unidade Sul,100101,Seringa descartável 10 ml,Descartáveis,L2607-001-2,2027-09-29,14,13,4,1.25
+2026-07-01,Unidade Sul,100102,Luva de procedimento M,Descartáveis,L2607-002-2,2027-10-18,31,20,7,0.42
+2026-07-01,Unidade Sul,100103,Equipo macrogotas,Descartáveis,L2607-003-2,2027-11-06,52,27,11,2.8
+2026-07-01,Unidade Sul,100104,Cateter intravenoso 22G,Descartáveis,L2607-004-2,2027-11-25,48,34,16,1.95
+2026-07-01,Unidade Sul,100105,Máscara cirúrgica tripla,Descartáveis,L2607-005-2,2026-10-20,68,41,22,0.18
+2026-07-01,Unidade Sul,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2607-006-2,2026-11-08,24,12,7,0.31
+2026-07-01,Unidade Sul,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2607-007-2,2026-11-27,40,19,10,0.12
+2026-07-01,Unidade Sul,100108,Atadura crepe 10 cm,Descartáveis,L2607-008-2,2026-12-16,44,26,13,0.86
+2026-07-01,Unidade Sul,100109,Fita microporosa 25 mm,Descartáveis,L2607-009-2,2027-01-04,64,33,14,1.4
+2026-07-01,Unidade Sul,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2607-010-2,2027-01-23,64,40,14,4.35
+2026-07-01,Unidade Sul,200202,Dipirona 500 mg,Medicamentos,L2607-011-2,2027-02-11,16,11,3,0.09
+2026-07-01,Unidade Sul,200203,Paracetamol 750 mg,Medicamentos,L2607-012-2,2027-03-02,25,18,5,0.14
+2026-07-01,Unidade Sul,200204,Omeprazol 20 mg,Medicamentos,L2607-013-2,2027-03-21,39,25,7,0.11
+2026-07-01,Unidade Sul,200205,Loratadina 10 mg,Medicamentos,L2607-014-2,2027-04-09,58,32,11,0.16
+2026-07-01,Unidade Sul,200206,Clorexidina 2% 100 ml,Medicamentos,L2607-015-2,2027-04-28,81,39,16,7.25
+2026-07-01,Unidade Sul,200207,Glicose 50% 10 ml,Medicamentos,L2607-016-2,2027-05-17,18,10,5,0.82
+2026-07-01,Unidade Sul,200208,Água para injeção 10 ml,Medicamentos,L2607-017-2,2027-06-05,33,17,9,0.65
+2026-07-01,Unidade Sul,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2607-018-2,2027-06-24,52,24,13,18.9
+2026-07-01,Unidade Sul,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2607-019-2,2027-07-13,53,31,17,12.4
+2026-07-01,Unidade Sul,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2607-020-2,2027-08-01,18,38,18,0.78
+2026-07-01,Unidade Sul,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2607-021-2,2027-08-20,12,9,4,3.1
+2026-07-01,Unidade Sul,300305,Kit curativo estéril,Materiais cirúrgicos,L2607-022-2,2027-09-08,27,16,5,8.6
+2026-07-01,Unidade Sul,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2607-023-2,2027-09-27,45,23,7,24.5
+2026-07-01,Unidade Sul,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2607-024-2,2027-10-16,48,30,8,3.75
+2026-07-01,Unidade Sul,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2607-025-2,2027-11-04,63,37,11,9.8
+2026-07-01,Unidade Sul,400401,Detergente enzimático 1 L,Higiene e limpeza,L2607-026-2,2027-11-23,20,8,3,22.8
+2026-07-01,Unidade Sul,400402,Álcool 70% 1 L,Higiene e limpeza,L2607-027-2,2027-12-12,37,15,6,8.9
+2026-07-01,Unidade Sul,400403,Papel toalha interfolhado,Higiene e limpeza,L2607-028-2,2026-11-06,26,22,11,12.5
+2026-07-01,Unidade Sul,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2607-029-2,2026-11-25,43,29,15,0.72
+2026-07-01,Unidade Sul,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2607-030-2,2026-12-14,64,36,20,47.0
+2026-07-01,Unidade Sul,500501,Termômetro digital clínico,Equipamentos,L2607-031-2,2027-01-02,81,43,23,18.0
+2026-07-01,Unidade Sul,500502,Oxímetro de pulso portátil,Equipamentos,L2607-032-2,2027-01-21,21,14,7,135.0
+2026-07-01,Unidade Sul,500503,Esfigmomanômetro adulto,Equipamentos,L2607-033-2,2026-10-27,38,21,9,88.0
+2026-07-01,Unidade Sul,500504,Estetoscópio adulto,Equipamentos,L2607-034-2,2027-02-28,53,28,10,64.0
+2026-07-01,Unidade Sul,500505,Balança digital portátil,Equipamentos,L2607-035-2,2027-03-19,73,35,10,210.0
+2026-07-01,Unidade Sul,500506,Lanterna clínica LED,Equipamentos,L2607-036-2,2027-04-07,72,42,11,28.0
+2026-07-01,Unidade Sul,500507,Nebulizador portátil,Equipamentos,L2607-037-2,2027-04-26,14,13,4,160.0
+2026-07-01,Unidade Sul,500508,Sensor de oximetria adulto,Equipamentos,L2607-038-2,2027-05-15,31,20,7,42.0
+2026-07-01,Unidade Leste,100101,Seringa descartável 10 ml,Descartáveis,L2607-001-3,2027-10-22,24,18,6,1.25
+2026-07-01,Unidade Leste,100102,Luva de procedimento M,Descartáveis,L2607-002-3,2027-11-10,44,25,10,0.42
+2026-07-01,Unidade Leste,100103,Equipo macrogotas,Descartáveis,L2607-003-3,2027-11-29,48,32,15,2.8
+2026-07-01,Unidade Leste,100104,Cateter intravenoso 22G,Descartáveis,L2607-004-3,2026-10-24,65,39,21,1.95
+2026-07-01,Unidade Leste,100105,Máscara cirúrgica tripla,Descartáveis,L2607-005-3,2026-11-12,24,10,6,0.18
+2026-07-01,Unidade Leste,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2607-006-3,2026-12-01,29,17,9,0.31
+2026-07-01,Unidade Leste,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2607-007-3,2026-12-20,32,24,12,0.12
+2026-07-01,Unidade Leste,100108,Atadura crepe 10 cm,Descartáveis,L2607-008-3,2027-01-08,51,31,13,0.86
+2026-07-01,Unidade Leste,100109,Fita microporosa 25 mm,Descartáveis,L2607-009-3,2027-01-27,74,38,13,1.4
+2026-07-01,Unidade Leste,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2607-010-3,2027-02-15,10,9,3,4.35
+2026-07-01,Unidade Leste,200202,Dipirona 500 mg,Medicamentos,L2607-011-3,2027-03-06,20,16,4,0.09
+2026-07-01,Unidade Leste,200203,Paracetamol 750 mg,Medicamentos,L2607-012-3,2027-03-25,38,23,7,0.14
+2026-07-01,Unidade Leste,200204,Omeprazol 20 mg,Medicamentos,L2607-013-3,2027-04-13,55,30,10,0.11
+2026-07-01,Unidade Leste,200205,Loratadina 10 mg,Medicamentos,L2607-014-3,2026-10-22,77,37,15,0.16
+2026-07-01,Unidade Leste,200206,Clorexidina 2% 100 ml,Medicamentos,L2607-015-3,2027-05-21,7,8,4,7.25
+2026-07-01,Unidade Leste,200207,Glicose 50% 10 ml,Medicamentos,L2607-016-3,2027-06-09,22,15,8,0.82
+2026-07-01,Unidade Leste,200208,Água para injeção 10 ml,Medicamentos,L2607-017-3,2027-06-28,40,22,12,0.65
+2026-07-01,Unidade Leste,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2607-018-3,2027-07-17,63,29,15,18.9
+2026-07-01,Unidade Leste,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2607-019-3,2027-08-05,17,36,17,12.4
+2026-07-01,Unidade Leste,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2607-020-3,2027-08-24,65,43,18,0.78
+2026-07-01,Unidade Leste,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2607-021-3,2027-09-12,26,14,5,3.1
+2026-07-01,Unidade Leste,300305,Kit curativo estéril,Materiais cirúrgicos,L2607-022-3,2027-10-01,42,21,6,8.6
+2026-07-01,Unidade Leste,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2607-023-3,2027-10-20,47,28,8,24.5
+2026-07-01,Unidade Leste,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2607-024-3,2027-11-08,53,35,10,3.75
+2026-07-01,Unidade Leste,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2607-025-3,2027-11-27,70,42,14,9.8
+2026-07-01,Unidade Leste,400401,Detergente enzimático 1 L,Higiene e limpeza,L2607-026-3,2026-10-22,26,13,5,22.8
+2026-07-01,Unidade Leste,400402,Álcool 70% 1 L,Higiene e limpeza,L2607-027-3,2026-11-10,35,20,10,8.9
+2026-07-01,Unidade Leste,400403,Papel toalha interfolhado,Higiene e limpeza,L2607-028-3,2026-11-29,36,27,14,12.5
+2026-07-01,Unidade Leste,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2607-029-3,2026-12-18,56,34,19,0.72
+2026-07-01,Unidade Leste,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2607-030-3,2027-01-06,81,41,22,47.0
+2026-07-01,Unidade Leste,500501,Termômetro digital clínico,Equipamentos,L2607-031-3,2027-01-25,20,12,6,18.0
+2026-07-01,Unidade Leste,500502,Oxímetro de pulso portátil,Equipamentos,L2607-032-3,2027-02-13,37,19,8,135.0
+2026-07-01,Unidade Leste,500503,Esfigmomanômetro adulto,Equipamentos,L2607-033-3,2027-03-04,42,26,9,88.0
+2026-07-01,Unidade Leste,500504,Estetoscópio adulto,Equipamentos,L2607-034-3,2027-03-23,60,33,10,64.0
+2026-07-01,Unidade Leste,500505,Balança digital portátil,Equipamentos,L2607-035-3,2027-04-11,60,40,11,210.0
+2026-07-01,Unidade Leste,500506,Lanterna clínica LED,Equipamentos,L2607-036-3,2027-04-30,23,11,3,28.0
+2026-07-01,Unidade Leste,500507,Nebulizador portátil,Equipamentos,L2607-037-3,2027-05-19,24,18,6,160.0
+2026-07-01,Unidade Leste,500508,Sensor de oximetria adulto,Equipamentos,L2607-038-3,2027-06-07,44,25,10,42.0
+2026-08-01,Hospital Central,100101,Seringa descartável 10 ml,Descartáveis,L2608-001-1,2027-08-26,7,8,2,1.25
+2026-08-01,Hospital Central,100102,Luva de procedimento M,Descartáveis,L2608-002-1,2027-09-14,21,15,5,0.42
+2026-08-01,Hospital Central,100103,Equipo macrogotas,Descartáveis,L2608-003-1,2027-10-03,39,22,9,2.8
+2026-08-01,Hospital Central,100104,Cateter intravenoso 22G,Descartáveis,L2608-004-1,2027-10-22,52,29,14,1.95
+2026-08-01,Hospital Central,100105,Máscara cirúrgica tripla,Descartáveis,L2608-005-1,2027-11-10,51,36,19,0.18
+2026-08-01,Hospital Central,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2608-006-1,2027-11-29,73,43,24,0.31
+2026-08-01,Hospital Central,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2608-007-1,2026-10-24,20,14,7,0.12
+2026-08-01,Hospital Central,100108,Atadura crepe 10 cm,Descartáveis,L2608-008-1,2026-11-12,38,21,10,0.86
+2026-08-01,Hospital Central,100109,Fita microporosa 25 mm,Descartáveis,L2608-009-1,2026-12-01,41,28,12,1.4
+2026-08-01,Hospital Central,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2608-010-1,2026-12-20,53,35,12,4.35
+2026-08-01,Hospital Central,200202,Dipirona 500 mg,Medicamentos,L2608-011-1,2027-01-08,74,42,12,0.09
+2026-08-01,Hospital Central,200203,Paracetamol 750 mg,Medicamentos,L2608-012-1,2027-01-27,23,13,4,0.14
+2026-08-01,Hospital Central,200204,Omeprazol 20 mg,Medicamentos,L2608-013-1,2027-02-15,25,20,6,0.11
+2026-08-01,Hospital Central,200205,Loratadina 10 mg,Medicamentos,L2608-014-1,2027-03-06,41,27,9,0.16
+2026-08-01,Hospital Central,200206,Clorexidina 2% 100 ml,Medicamentos,L2608-015-1,2027-03-25,63,34,14,7.25
+2026-08-01,Hospital Central,200207,Glicose 50% 10 ml,Medicamentos,L2608-016-1,2027-04-13,75,41,20,0.82
+2026-08-01,Hospital Central,200208,Água para injeção 10 ml,Medicamentos,L2608-017-1,2027-05-02,14,12,6,0.65
+2026-08-01,Hospital Central,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2608-018-1,2027-05-21,29,19,11,18.9
+2026-08-01,Hospital Central,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2608-019-1,2027-06-09,42,26,14,12.4
+2026-08-01,Hospital Central,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2608-020-1,2027-06-28,16,33,16,0.78
+2026-08-01,Hospital Central,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2608-021-1,2027-07-17,61,40,16,3.1
+2026-08-01,Hospital Central,300305,Kit curativo estéril,Materiais cirúrgicos,L2608-022-1,2027-08-05,13,11,4,8.6
+2026-08-01,Hospital Central,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2608-023-1,2027-08-24,29,18,5,24.5
+2026-08-01,Hospital Central,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2608-024-1,2027-09-12,49,25,7,3.75
+2026-08-01,Hospital Central,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2608-025-1,2027-10-01,43,32,9,9.8
+2026-08-01,Hospital Central,400401,Detergente enzimático 1 L,Higiene e limpeza,L2608-026-1,2027-10-20,62,39,13,22.8
+2026-08-01,Hospital Central,400402,Álcool 70% 1 L,Higiene e limpeza,L2608-027-1,2027-11-08,15,10,4,8.9
+2026-08-01,Hospital Central,400403,Papel toalha interfolhado,Higiene e limpeza,L2608-028-1,2027-11-27,28,17,8,12.5
+2026-08-01,Hospital Central,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2608-029-1,2026-10-22,32,24,13,0.72
+2026-08-01,Hospital Central,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2608-030-1,2026-11-10,51,31,17,47.0
+2026-08-01,Hospital Central,500501,Termômetro digital clínico,Equipamentos,L2608-031-1,2026-11-29,63,38,20,18.0
+2026-08-01,Hospital Central,500502,Oxímetro de pulso portátil,Equipamentos,L2608-032-1,2026-12-18,13,9,4,135.0
+2026-08-01,Hospital Central,500503,Esfigmomanômetro adulto,Equipamentos,L2608-033-1,2026-10-20,21,16,7,88.0
+2026-08-01,Hospital Central,500504,Estetoscópio adulto,Equipamentos,L2608-034-1,2027-01-25,33,23,8,64.0
+2026-08-01,Hospital Central,500505,Balança digital portátil,Equipamentos,L2608-035-1,2027-02-13,51,30,9,210.0
+2026-08-01,Hospital Central,500506,Lanterna clínica LED,Equipamentos,L2608-036-1,2027-03-04,75,37,10,28.0
+2026-08-01,Hospital Central,500507,Nebulizador portátil,Equipamentos,L2608-037-1,2027-03-23,7,8,2,160.0
+2026-08-01,Hospital Central,500508,Sensor de oximetria adulto,Equipamentos,L2608-038-1,2027-04-11,21,15,5,42.0
+2026-08-01,Unidade Sul,100101,Seringa descartável 10 ml,Descartáveis,L2608-001-2,2027-09-18,16,13,4,1.25
+2026-08-01,Unidade Sul,100102,Luva de procedimento M,Descartáveis,L2608-002-2,2027-10-07,33,20,8,0.42
+2026-08-01,Unidade Sul,100103,Equipo macrogotas,Descartáveis,L2608-003-2,2027-10-26,55,27,13,2.8
+2026-08-01,Unidade Sul,100104,Cateter intravenoso 22G,Descartáveis,L2608-004-2,2027-11-14,49,34,18,1.95
+2026-08-01,Unidade Sul,100105,Máscara cirúrgica tripla,Descartáveis,L2608-005-2,2027-12-03,70,41,23,0.18
+2026-08-01,Unidade Sul,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2608-006-2,2026-10-28,27,12,6,0.31
+2026-08-01,Unidade Sul,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2608-007-2,2026-11-16,41,19,9,0.12
+2026-08-01,Unidade Sul,100108,Atadura crepe 10 cm,Descartáveis,L2608-008-2,2026-12-05,46,26,11,0.86
+2026-08-01,Unidade Sul,100109,Fita microporosa 25 mm,Descartáveis,L2608-009-2,2026-12-24,52,33,11,1.4
+2026-08-01,Unidade Sul,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2608-010-2,2027-01-12,65,40,12,4.35
+2026-08-01,Unidade Sul,200202,Dipirona 500 mg,Medicamentos,L2608-011-2,2027-01-31,18,11,3,0.09
+2026-08-01,Unidade Sul,200203,Paracetamol 750 mg,Medicamentos,L2608-012-2,2027-02-19,27,18,5,0.14
+2026-08-01,Unidade Sul,200204,Omeprazol 20 mg,Medicamentos,L2608-013-2,2027-03-10,40,25,9,0.11
+2026-08-01,Unidade Sul,200205,Loratadina 10 mg,Medicamentos,L2608-014-2,2026-10-15,60,32,13,0.16
+2026-08-01,Unidade Sul,200206,Clorexidina 2% 100 ml,Medicamentos,L2608-015-2,2027-04-17,85,39,19,7.25
+2026-08-01,Unidade Sul,200207,Glicose 50% 10 ml,Medicamentos,L2608-016-2,2027-05-06,20,10,5,0.82
+2026-08-01,Unidade Sul,200208,Água para injeção 10 ml,Medicamentos,L2608-017-2,2027-05-25,35,17,9,0.65
+2026-08-01,Unidade Sul,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2608-018-2,2027-06-13,40,24,13,18.9
+2026-08-01,Unidade Sul,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2608-019-2,2027-07-02,15,31,15,12.4
+2026-08-01,Unidade Sul,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2608-020-2,2027-07-21,54,38,16,0.78
+2026-08-01,Unidade Sul,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2608-021-2,2027-08-09,14,9,3,3.1
+2026-08-01,Unidade Sul,300305,Kit curativo estéril,Materiais cirúrgicos,L2608-022-2,2027-08-28,28,16,5,8.6
+2026-08-01,Unidade Sul,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2608-023-2,2027-09-16,47,23,6,24.5
+2026-08-01,Unidade Sul,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2608-024-2,2027-10-05,51,30,9,3.75
+2026-08-01,Unidade Sul,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2608-025-2,2027-10-24,64,37,13,9.8
+2026-08-01,Unidade Sul,400401,Detergente enzimático 1 L,Higiene e limpeza,L2608-026-2,2027-11-12,21,8,3,22.8
+2026-08-01,Unidade Sul,400402,Álcool 70% 1 L,Higiene e limpeza,L2608-027-2,2027-12-01,25,15,7,8.9
+2026-08-01,Unidade Sul,400403,Papel toalha interfolhado,Higiene e limpeza,L2608-028-2,2026-10-26,27,22,12,12.5
+2026-08-01,Unidade Sul,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2608-029-2,2026-11-14,45,29,16,0.72
+2026-08-01,Unidade Sul,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2608-030-2,2026-12-03,68,36,19,47.0
+2026-08-01,Unidade Sul,500501,Termômetro digital clínico,Equipamentos,L2608-031-2,2026-12-22,81,43,21,18.0
+2026-08-01,Unidade Sul,500502,Oxímetro de pulso portátil,Equipamentos,L2608-032-2,2027-01-10,23,14,6,135.0
+2026-08-01,Unidade Sul,500503,Esfigmomanômetro adulto,Equipamentos,L2608-033-2,2027-01-29,41,21,7,88.0
+2026-08-01,Unidade Sul,500504,Estetoscópio adulto,Equipamentos,L2608-034-2,2027-02-17,54,28,8,64.0
+2026-08-01,Unidade Sul,500505,Balança digital portátil,Equipamentos,L2608-035-2,2027-03-08,76,35,9,210.0
+2026-08-01,Unidade Sul,500506,Lanterna clínica LED,Equipamentos,L2608-036-2,2027-03-27,61,42,12,28.0
+2026-08-01,Unidade Sul,500507,Nebulizador portátil,Equipamentos,L2608-037-2,2027-04-15,16,13,4,160.0
+2026-08-01,Unidade Sul,500508,Sensor de oximetria adulto,Equipamentos,L2608-038-2,2027-05-04,33,20,8,42.0
+2026-08-01,Unidade Leste,100101,Seringa descartável 10 ml,Descartáveis,L2608-001-3,2027-10-11,26,18,7,1.25
+2026-08-01,Unidade Leste,100102,Luva de procedimento M,Descartáveis,L2608-002-3,2027-10-30,47,25,12,0.42
+2026-08-01,Unidade Leste,100103,Equipo macrogotas,Descartáveis,L2608-003-3,2027-11-18,52,32,17,2.8
+2026-08-01,Unidade Leste,100104,Cateter intravenoso 22G,Descartáveis,L2608-004-3,2027-12-07,66,39,22,1.95
+2026-08-01,Unidade Leste,100105,Máscara cirúrgica tripla,Descartáveis,L2608-005-3,2026-11-01,11,10,5,0.18
+2026-08-01,Unidade Leste,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2608-006-3,2026-11-20,32,17,8,0.31
+2026-08-01,Unidade Leste,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2608-007-3,2026-12-09,34,24,10,0.12
+2026-08-01,Unidade Leste,100108,Atadura crepe 10 cm,Descartáveis,L2608-008-3,2026-12-28,54,31,11,0.86
+2026-08-01,Unidade Leste,100109,Fita microporosa 25 mm,Descartáveis,L2608-009-3,2027-01-16,79,38,11,1.4
+2026-08-01,Unidade Leste,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2608-010-3,2027-02-04,12,9,2,4.35
+2026-08-01,Unidade Leste,200202,Dipirona 500 mg,Medicamentos,L2608-011-3,2027-02-23,22,16,5,0.09
+2026-08-01,Unidade Leste,200203,Paracetamol 750 mg,Medicamentos,L2608-012-3,2027-03-14,42,23,8,0.14
+2026-08-01,Unidade Leste,200204,Omeprazol 20 mg,Medicamentos,L2608-013-3,2027-04-02,57,30,12,0.11
+2026-08-01,Unidade Leste,200205,Loratadina 10 mg,Medicamentos,L2608-014-3,2027-04-21,66,37,18,0.16
+2026-08-01,Unidade Leste,200206,Clorexidina 2% 100 ml,Medicamentos,L2608-015-3,2027-05-10,9,8,4,7.25
+2026-08-01,Unidade Leste,200207,Glicose 50% 10 ml,Medicamentos,L2608-016-3,2027-05-29,24,15,8,0.82
+2026-08-01,Unidade Leste,200208,Água para injeção 10 ml,Medicamentos,L2608-017-3,2027-06-17,43,22,12,0.65
+2026-08-01,Unidade Leste,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2608-018-3,2027-07-06,14,29,14,18.9
+2026-08-01,Unidade Leste,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2608-019-3,2027-07-25,46,36,15,12.4
+2026-08-01,Unidade Leste,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2608-020-3,2027-08-13,69,43,15,0.78
+2026-08-01,Unidade Leste,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2608-021-3,2027-09-01,28,14,4,3.1
+2026-08-01,Unidade Leste,300305,Kit curativo estéril,Materiais cirúrgicos,L2608-022-3,2027-09-20,44,21,6,8.6
+2026-08-01,Unidade Leste,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2608-023-3,2027-10-09,35,28,8,24.5
+2026-08-01,Unidade Leste,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2608-024-3,2027-10-28,58,35,12,3.75
+2026-08-01,Unidade Leste,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2608-025-3,2027-11-16,72,42,17,9.8
+2026-08-01,Unidade Leste,400401,Detergente enzimático 1 L,Higiene e limpeza,L2608-026-3,2027-12-05,29,13,6,22.8
+2026-08-01,Unidade Leste,400402,Álcool 70% 1 L,Higiene e limpeza,L2608-027-3,2026-10-30,38,20,11,8.9
+2026-08-01,Unidade Leste,400403,Papel toalha interfolhado,Higiene e limpeza,L2608-028-3,2026-11-18,37,27,15,12.5
+2026-08-01,Unidade Leste,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2608-029-3,2026-12-07,60,34,18,0.72
+2026-08-01,Unidade Leste,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2608-030-3,2026-12-26,87,41,20,47.0
+2026-08-01,Unidade Leste,500501,Termômetro digital clínico,Equipamentos,L2608-031-3,2027-01-14,22,12,5,18.0
+2026-08-01,Unidade Leste,500502,Oxímetro de pulso portátil,Equipamentos,L2608-032-3,2026-10-16,24,19,6,135.0
+2026-08-01,Unidade Leste,500503,Esfigmomanômetro adulto,Equipamentos,L2608-033-3,2027-02-21,46,26,8,88.0
+2026-08-01,Unidade Leste,500504,Estetoscópio adulto,Equipamentos,L2608-034-3,2027-03-12,62,33,9,64.0
+2026-08-01,Unidade Leste,500505,Balança digital portátil,Equipamentos,L2608-035-3,2027-03-31,63,40,12,210.0
+2026-08-01,Unidade Leste,500506,Lanterna clínica LED,Equipamentos,L2608-036-3,2027-04-19,26,11,4,28.0
+2026-08-01,Unidade Leste,500507,Nebulizador portátil,Equipamentos,L2608-037-3,2027-05-08,26,18,7,160.0
+2026-08-01,Unidade Leste,500508,Sensor de oximetria adulto,Equipamentos,L2608-038-3,2027-05-27,47,25,12,42.0
+2026-09-01,Hospital Central,100101,Seringa descartável 10 ml,Descartáveis,L2609-001-1,2027-08-15,9,8,3,1.25
+2026-09-01,Hospital Central,100102,Luva de procedimento M,Descartáveis,L2609-002-1,2027-09-03,23,15,6,0.42
+2026-09-01,Hospital Central,100103,Equipo macrogotas,Descartáveis,L2609-003-1,2027-09-22,42,22,11,2.8
+2026-09-01,Hospital Central,100104,Cateter intravenoso 22G,Descartáveis,L2609-004-1,2027-10-11,54,29,15,1.95
+2026-09-01,Hospital Central,100105,Máscara cirúrgica tripla,Descartáveis,L2609-005-1,2027-10-30,54,36,20,0.18
+2026-09-01,Hospital Central,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2609-006-1,2027-11-18,77,43,23,0.31
+2026-09-01,Hospital Central,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2609-007-1,2027-12-07,22,14,7,0.12
+2026-09-01,Hospital Central,100108,Atadura crepe 10 cm,Descartáveis,L2609-008-1,2026-11-01,41,21,9,0.86
+2026-09-01,Hospital Central,100109,Fita microporosa 25 mm,Descartáveis,L2609-009-1,2026-11-20,44,28,10,1.4
+2026-09-01,Hospital Central,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2609-010-1,2026-12-09,55,35,10,4.35
+2026-09-01,Hospital Central,200202,Dipirona 500 mg,Medicamentos,L2609-011-1,2026-12-28,78,42,11,0.09
+2026-09-01,Hospital Central,200203,Paracetamol 750 mg,Medicamentos,L2609-012-1,2027-01-16,25,13,4,0.14
+2026-09-01,Hospital Central,200204,Omeprazol 20 mg,Medicamentos,L2609-013-1,2027-02-04,27,20,7,0.11
+2026-09-01,Hospital Central,200205,Loratadina 10 mg,Medicamentos,L2609-014-1,2026-10-23,44,27,11,0.16
+2026-09-01,Hospital Central,200206,Clorexidina 2% 100 ml,Medicamentos,L2609-015-1,2027-03-14,66,34,16,7.25
+2026-09-01,Hospital Central,200207,Glicose 50% 10 ml,Medicamentos,L2609-016-1,2027-04-02,78,41,22,0.82
+2026-09-01,Hospital Central,200208,Água para injeção 10 ml,Medicamentos,L2609-017-1,2027-04-21,16,12,7,0.65
+2026-09-01,Hospital Central,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2609-018-1,2027-05-10,32,19,10,18.9
+2026-09-01,Hospital Central,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2609-019-1,2027-05-29,12,26,13,12.4
+2026-09-01,Hospital Central,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2609-020-1,2027-06-17,66,33,14,0.78
+2026-09-01,Hospital Central,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2609-021-1,2027-07-06,64,40,14,3.1
+2026-09-01,Hospital Central,300305,Kit curativo estéril,Materiais cirúrgicos,L2609-022-1,2027-07-25,15,11,3,8.6
+2026-09-01,Hospital Central,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2609-023-1,2027-08-13,31,18,5,24.5
+2026-09-01,Hospital Central,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2609-024-1,2027-09-01,52,25,7,3.75
+2026-09-01,Hospital Central,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2609-025-1,2027-09-20,45,32,11,9.8
+2026-09-01,Hospital Central,400401,Detergente enzimático 1 L,Higiene e limpeza,L2609-026-1,2027-10-09,66,39,16,22.8
+2026-09-01,Hospital Central,400402,Álcool 70% 1 L,Higiene e limpeza,L2609-027-1,2027-10-28,17,10,5,8.9
+2026-09-01,Hospital Central,400403,Papel toalha interfolhado,Higiene e limpeza,L2609-028-1,2027-11-16,30,17,9,12.5
+2026-09-01,Hospital Central,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2609-029-1,2027-12-05,35,24,13,0.72
+2026-09-01,Hospital Central,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2609-030-1,2026-10-30,55,31,17,47.0
+2026-09-01,Hospital Central,500501,Termômetro digital clínico,Equipamentos,L2609-031-1,2026-11-18,66,38,18,18.0
+2026-09-01,Hospital Central,500502,Oxímetro de pulso portátil,Equipamentos,L2609-032-1,2026-12-07,15,9,4,135.0
+2026-09-01,Hospital Central,500503,Esfigmomanômetro adulto,Equipamentos,L2609-033-1,2026-12-26,24,16,5,88.0
+2026-09-01,Hospital Central,500504,Estetoscópio adulto,Equipamentos,L2609-034-1,2027-01-14,35,23,7,64.0
+2026-09-01,Hospital Central,500505,Balança digital portátil,Equipamentos,L2609-035-1,2027-02-02,55,30,8,210.0
+2026-09-01,Hospital Central,500506,Lanterna clínica LED,Equipamentos,L2609-036-1,2027-02-21,79,37,11,28.0
+2026-09-01,Hospital Central,500507,Nebulizador portátil,Equipamentos,L2609-037-1,2027-03-12,9,8,3,160.0
+2026-09-01,Hospital Central,500508,Sensor de oximetria adulto,Equipamentos,L2609-038-1,2027-03-31,23,15,6,42.0
+2026-09-01,Unidade Sul,100101,Seringa descartável 10 ml,Descartáveis,L2609-001-2,2027-09-07,18,13,5,1.25
+2026-09-01,Unidade Sul,100102,Luva de procedimento M,Descartáveis,L2609-002-2,2027-09-26,37,20,10,0.42
+2026-09-01,Unidade Sul,100103,Equipo macrogotas,Descartáveis,L2609-003-2,2027-10-15,59,27,14,2.8
+2026-09-01,Unidade Sul,100104,Cateter intravenoso 22G,Descartáveis,L2609-004-2,2027-11-03,52,34,19,1.95
+2026-09-01,Unidade Sul,100105,Máscara cirúrgica tripla,Descartáveis,L2609-005-2,2027-11-22,75,41,22,0.18
+2026-09-01,Unidade Sul,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2609-006-2,2027-12-11,29,12,6,0.31
+2026-09-01,Unidade Sul,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2609-007-2,2026-11-05,44,19,8,0.12
+2026-09-01,Unidade Sul,100108,Atadura crepe 10 cm,Descartáveis,L2609-008-2,2026-11-24,34,26,9,0.86
+2026-09-01,Unidade Sul,100109,Fita microporosa 25 mm,Descartáveis,L2609-009-2,2026-12-13,56,33,10,1.4
+2026-09-01,Unidade Sul,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2609-010-2,2027-01-01,69,40,11,4.35
+2026-09-01,Unidade Sul,200202,Dipirona 500 mg,Medicamentos,L2609-011-2,2027-01-20,21,11,3,0.09
+2026-09-01,Unidade Sul,200203,Paracetamol 750 mg,Medicamentos,L2609-012-2,2027-02-08,30,18,6,0.14
+2026-09-01,Unidade Sul,200204,Omeprazol 20 mg,Medicamentos,L2609-013-2,2027-02-27,43,25,10,0.11
+2026-09-01,Unidade Sul,200205,Loratadina 10 mg,Medicamentos,L2609-014-2,2027-03-18,65,32,15,0.16
+2026-09-01,Unidade Sul,200206,Clorexidina 2% 100 ml,Medicamentos,L2609-015-2,2027-04-06,91,39,21,7.25
+2026-09-01,Unidade Sul,200207,Glicose 50% 10 ml,Medicamentos,L2609-016-2,2027-04-25,22,10,6,0.82
+2026-09-01,Unidade Sul,200208,Água para injeção 10 ml,Medicamentos,L2609-017-2,2027-05-14,23,17,9,0.65
+2026-09-01,Unidade Sul,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2609-018-2,2027-06-02,12,24,12,18.9
+2026-09-01,Unidade Sul,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2609-019-2,2027-06-21,57,31,13,12.4
+2026-09-01,Unidade Sul,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2609-020-2,2027-07-10,58,38,13,0.78
+2026-09-01,Unidade Sul,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2609-021-2,2027-07-29,17,9,3,3.1
+2026-09-01,Unidade Sul,300305,Kit curativo estéril,Materiais cirúrgicos,L2609-022-2,2027-08-17,31,16,4,8.6
+2026-09-01,Unidade Sul,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2609-023-2,2027-09-05,51,23,7,24.5
+2026-09-01,Unidade Sul,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2609-024-2,2027-09-24,55,30,10,3.75
+2026-09-01,Unidade Sul,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2609-025-2,2027-10-13,68,37,15,9.8
+2026-09-01,Unidade Sul,400401,Detergente enzimático 1 L,Higiene e limpeza,L2609-026-2,2027-11-01,8,8,4,22.8
+2026-09-01,Unidade Sul,400402,Álcool 70% 1 L,Higiene e limpeza,L2609-027-2,2027-11-20,28,15,8,8.9
+2026-09-01,Unidade Sul,400403,Papel toalha interfolhado,Higiene e limpeza,L2609-028-2,2027-12-09,29,22,12,12.5
+2026-09-01,Unidade Sul,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2609-029-2,2026-11-03,49,29,15,0.72
+2026-09-01,Unidade Sul,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2609-030-2,2026-11-22,73,36,17,47.0
+2026-09-01,Unidade Sul,500501,Termômetro digital clínico,Equipamentos,L2609-031-2,2026-12-11,86,43,18,18.0
+2026-09-01,Unidade Sul,500502,Oxímetro de pulso portátil,Equipamentos,L2609-032-2,2026-10-24,26,14,5,135.0
+2026-09-01,Unidade Sul,500503,Esfigmomanômetro adulto,Equipamentos,L2609-033-2,2027-01-18,44,21,6,88.0
+2026-09-01,Unidade Sul,500504,Estetoscópio adulto,Equipamentos,L2609-034-2,2027-02-06,57,28,8,64.0
+2026-09-01,Unidade Sul,500505,Balança digital portátil,Equipamentos,L2609-035-2,2027-02-25,66,35,10,210.0
+2026-09-01,Unidade Sul,500506,Lanterna clínica LED,Equipamentos,L2609-036-2,2027-03-16,65,42,14,28.0
+2026-09-01,Unidade Sul,500507,Nebulizador portátil,Equipamentos,L2609-037-2,2027-04-04,18,13,5,160.0
+2026-09-01,Unidade Sul,500508,Sensor de oximetria adulto,Equipamentos,L2609-038-2,2027-04-23,37,20,10,42.0
+2026-09-01,Unidade Leste,100101,Seringa descartável 10 ml,Descartáveis,L2609-001-3,2027-09-30,29,18,9,1.25
+2026-09-01,Unidade Leste,100102,Luva de procedimento M,Descartáveis,L2609-002-3,2027-10-19,52,25,13,0.42
+2026-09-01,Unidade Leste,100103,Equipo macrogotas,Descartáveis,L2609-003-3,2027-11-07,58,32,18,2.8
+2026-09-01,Unidade Leste,100104,Cateter intravenoso 22G,Descartáveis,L2609-004-3,2027-11-26,72,39,21,1.95
+2026-09-01,Unidade Leste,100105,Máscara cirúrgica tripla,Descartáveis,L2609-005-3,2026-10-21,14,10,5,0.18
+2026-09-01,Unidade Leste,100106,"Gaze estéril 7,5 x 7,5",Descartáveis,L2609-006-3,2026-11-09,36,17,7,0.31
+2026-09-01,Unidade Leste,100107,Agulha hipodérmica 25 x 7,Descartáveis,L2609-007-3,2026-11-28,38,24,8,0.12
+2026-09-01,Unidade Leste,100108,Atadura crepe 10 cm,Descartáveis,L2609-008-3,2026-12-17,60,31,9,0.86
+2026-09-01,Unidade Leste,100109,Fita microporosa 25 mm,Descartáveis,L2609-009-3,2027-01-05,71,38,10,1.4
+2026-09-01,Unidade Leste,200201,"Soro fisiológico 0,9% 500 ml",Medicamentos,L2609-010-3,2027-01-24,14,9,3,4.35
+2026-09-01,Unidade Leste,200202,Dipirona 500 mg,Medicamentos,L2609-011-3,2027-02-12,26,16,5,0.09
+2026-09-01,Unidade Leste,200203,Paracetamol 750 mg,Medicamentos,L2609-012-3,2027-03-03,46,23,9,0.14
+2026-09-01,Unidade Leste,200204,Omeprazol 20 mg,Medicamentos,L2609-013-3,2026-10-19,62,30,14,0.11
+2026-09-01,Unidade Leste,200205,Loratadina 10 mg,Medicamentos,L2609-014-3,2027-04-10,73,37,20,0.16
+2026-09-01,Unidade Leste,200206,Clorexidina 2% 100 ml,Medicamentos,L2609-015-3,2027-04-29,12,8,4,7.25
+2026-09-01,Unidade Leste,200207,Glicose 50% 10 ml,Medicamentos,L2609-016-3,2027-05-18,27,15,8,0.82
+2026-09-01,Unidade Leste,200208,Água para injeção 10 ml,Medicamentos,L2609-017-3,2027-06-06,11,22,11,0.65
+2026-09-01,Unidade Leste,300301,Campo cirúrgico descartável,Materiais cirúrgicos,L2609-018-3,2027-06-25,58,29,12,18.9
+2026-09-01,Unidade Leste,300302,Fio de sutura nylon 3-0,Materiais cirúrgicos,L2609-019-3,2027-07-14,51,36,12,12.4
+2026-09-01,Unidade Leste,300303,Lâmina de bisturi nº 15,Materiais cirúrgicos,L2609-020-3,2027-08-02,76,43,12,0.78
+2026-09-01,Unidade Leste,300304,Compressa cirúrgica 25 x 28,Materiais cirúrgicos,L2609-021-3,2027-08-21,32,14,4,3.1
+2026-09-01,Unidade Leste,300305,Kit curativo estéril,Materiais cirúrgicos,L2609-022-3,2027-09-09,48,21,6,8.6
+2026-09-01,Unidade Leste,300306,"Dreno de sucção 4,8 mm",Materiais cirúrgicos,L2609-023-3,2027-09-28,40,28,10,24.5
+2026-09-01,Unidade Leste,300307,Cânula de aspiração nº 12,Materiais cirúrgicos,L2609-024-3,2027-10-17,64,35,14,3.75
+2026-09-01,Unidade Leste,300308,Avental cirúrgico estéril,Materiais cirúrgicos,L2609-025-3,2027-11-05,78,42,20,9.8
+2026-09-01,Unidade Leste,400401,Detergente enzimático 1 L,Higiene e limpeza,L2609-026-3,2027-11-24,32,13,7,22.8
+2026-09-01,Unidade Leste,400402,Álcool 70% 1 L,Higiene e limpeza,L2609-027-3,2027-12-13,27,20,11,8.9
+2026-09-01,Unidade Leste,400403,Papel toalha interfolhado,Higiene e limpeza,L2609-028-3,2026-11-07,42,27,14,12.5
+2026-09-01,Unidade Leste,400404,Saco para resíduo infectante 50 L,Higiene e limpeza,L2609-029-3,2026-11-26,66,34,16,0.72
+2026-09-01,Unidade Leste,400405,Desinfetante hospitalar 5 L,Higiene e limpeza,L2609-030-3,2026-12-15,94,41,17,47.0
+2026-09-01,Unidade Leste,500501,Termômetro digital clínico,Equipamentos,L2609-031-3,2027-01-03,25,12,4,18.0
+2026-09-01,Unidade Leste,500502,Oxímetro de pulso portátil,Equipamentos,L2609-032-3,2027-01-22,29,19,6,135.0
+2026-09-01,Unidade Leste,500503,Esfigmomanômetro adulto,Equipamentos,L2609-033-3,2027-02-10,51,26,7,88.0
+2026-09-01,Unidade Leste,500504,Estetoscópio adulto,Equipamentos,L2609-034-3,2027-03-01,67,33,10,64.0
+2026-09-01,Unidade Leste,500505,Balança digital portátil,Equipamentos,L2609-035-3,2027-03-20,69,40,14,210.0
+2026-09-01,Unidade Leste,500506,Lanterna clínica LED,Equipamentos,L2609-036-3,2027-04-08,14,11,5,28.0
+2026-09-01,Unidade Leste,500507,Nebulizador portátil,Equipamentos,L2609-037-3,2027-04-27,29,18,9,160.0
+2026-09-01,Unidade Leste,500508,Sensor de oximetria adulto,Equipamentos,L2609-038-3,2027-05-16,52,25,13,42.0
