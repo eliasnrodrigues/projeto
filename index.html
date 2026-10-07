@@ -4,28 +4,29 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#101b32">
-  <meta name="description" content="Dashboard de gestão de estoque hospitalar criado por Elias Rodrigues para portfólio de Power BI.">
-  <title>Estoque em Foco | Power BI Portfolio</title>
+  <meta name="description" content="Demonstração visual de um dashboard Power BI para gestão de estoque, com planos de serviço e briefing do projeto.">
+  <title>Demonstração Power BI | Estoque em Foco</title>
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
   <div class="app-shell">
     <aside class="sidebar">
-      <a class="brand" href="#inicio" aria-label="Estoque em Foco, início"><span class="brand-mark">E</span><span><b>estoque<span class="brand-light">.emfoco</span></b><small>INTELLIGENCE</small></span></a>
+      <a class="brand" href="#painel" data-view="painel" aria-label="Abrir demonstração Estoque em Foco"><span class="brand-mark">E</span><span><b>estoque<span class="brand-light">.emfoco</span></b><small>INTELLIGENCE</small></span></a>
       <div class="side-label">WORKSPACE</div>
       <nav class="side-nav" aria-label="Navegação da página">
-        <a class="nav-link active" href="#painel"><span class="nav-icon">▦</span> Visão geral</a>
+        <a class="nav-link active" href="#painel" data-view="painel"><span class="nav-icon">▦</span> Demonstração</a>
         <a class="nav-link" href="#criticos"><span class="nav-icon">⌁</span> Itens críticos</a>
-        <a class="nav-link" href="#planos"><span class="nav-icon">R$</span> Planos</a>
-        <a class="nav-link" href="#briefing"><span class="nav-icon">☷</span> Briefing</a>
+        <a class="nav-link" href="#planos" data-view="planos"><span class="nav-icon">R$</span> Planos</a>
+        <a class="nav-link" href="#briefing" data-view="briefing"><span class="nav-icon">☷</span> Briefing</a>
       </nav>
       <div class="side-bottom"><div class="avatar">ER</div><div><b>Elias Rodrigues</b><small>Analista de dados</small></div></div>
     </aside>
     <main id="inicio">
-      <header class="topbar"><div class="crumb">PORTFÓLIO <span>/</span> LOGÍSTICA HOSPITALAR</div><div class="top-status"><i></i> TEMPLATE POWER BI · RÉPLICA NA NUVEM</div></header>
-      <section class="content" id="painel">
-        <div class="intro-row"><div><p class="eyebrow">SUPRIMENTOS · ESTOQUE</p><h1>Estoque em Foco</h1><p class="subhead">Visibilidade para decidir melhor. Acompanhe cobertura, valor e riscos de abastecimento.</p></div><div class="updated"><span>ÚLTIMA ATUALIZAÇÃO</span><b id="update-date">—</b></div></div>
-        <div class="delivery-note"><span class="delivery-icon">BI</span><p><b>O dashboard contratado é entregue em Power BI (.pbix).</b><span>Esta página na internet é uma replicação na nuvem do template Power BI para demonstrar o visual e a navegação. Ela não substitui o arquivo Power BI entregue ao cliente.</span></p></div>
+      <header class="topbar"><div class="crumb">PORTFÓLIO <span>/</span> ESTOQUE EM FOCO</div><div class="top-status"><i></i> DEMONSTRAÇÃO POWER BI</div></header>
+      <div class="content app-content">
+       <section class="view-window is-active" id="painel" data-window="painel">
+        <div class="intro-row"><div><p class="eyebrow">DEMONSTRAÇÃO · ESTOQUE</p><h1>Estoque em Foco</h1><p class="subhead">Explore um exemplo de painel Power BI para acompanhar estoque, reposição e vencimentos.</p></div><div class="updated"><span>PERÍODO DA BASE</span><b id="update-date">—</b></div></div>
+        <div class="delivery-note"><span class="delivery-icon">BI</span><p><b>Esta é uma demonstração visual de um dashboard feito para Power BI.</b><span>Os dados são fictícios e esta página reproduz o template na nuvem para você testar a navegação. Em projetos contratados, o painel é entregue em arquivo Power BI (.pbix), pronto para abrir no Power BI Desktop.</span></p></div>
         <div class="filters"><label>UNIDADE<select id="hospital-filter"><option value="Todas">Todas as unidades</option></select></label><label>PERÍODO<select id="period-filter"><option value="12">Últimos 12 meses</option><option value="6">Últimos 6 meses</option><option value="3">Últimos 3 meses</option></select></label><button id="download-csv" class="export-btn" type="button"><span>↓</span> Exportar base</button></div>
         <section class="kpi-grid" aria-label="Indicadores principais">
           <article class="kpi-card"><div class="kpi-head"><span>VALOR EM ESTOQUE</span><span class="kpi-icon blue">R$</span></div><strong id="kpi-value">—</strong><div class="kpi-foot"><span class="dot blue-dot"></span> posição mais recente</div></article>
@@ -38,33 +39,34 @@
           <article class="panel category-panel"><div class="panel-title"><div><h2>Composição do estoque</h2><p>Valor atual por categoria</p></div><button class="more" aria-label="Informações sobre composição" title="Distribuição do valor em estoque">···</button></div><div class="donut-wrap"><div id="donut-chart" class="donut"><div class="donut-center"><b id="donut-total">—</b><span>VALOR TOTAL</span></div></div><div id="category-legend" class="category-legend"></div></div></article>
         </section>
         <section class="panel table-panel" id="criticos"><div class="panel-title table-heading"><div><h2>Prioridade de abastecimento</h2><p>Itens com estoque abaixo do mínimo ou vencimento próximo</p></div><span class="alert-count" id="alert-count">—</span></div><div class="table-scroll"><table><thead><tr><th>MATERIAL</th><th>UNIDADE</th><th>ESTOQUE</th><th>MÍNIMO</th><th>COBERTURA</th><th>VALIDADE PRÓXIMA</th><th>STATUS</th></tr></thead><tbody id="critical-rows"></tbody></table></div><div class="table-foot">Exibindo até 8 itens que precisam de acompanhamento</div></section>
-        <section class="sales-section" id="planos">
-          <div class="sales-heading"><div><p class="eyebrow">SERVIÇO DE BUSINESS INTELLIGENCE</p><h2>Transforme seus dados de estoque em decisões mais claras</h2><p class="sales-lead">Painéis Power BI personalizados para acompanhar reposição, vencimentos, cobertura e valor em estoque. O escopo começa com seus dados e suas regras.</p></div><a class="sales-cta" href="#briefing">Começar pelo briefing <span>↓</span></a></div>
-          <div class="offer-note"><span class="note-mark">i</span><p><b>Entrega principal: arquivo Power BI (.pbix).</b> A página deste portfólio é uma replicação na nuvem do template para demonstração visual. Os pacotes são referências para projetos com arquivos organizados em Excel ou CSV; a proposta confirma fontes, regras, páginas e prazo após o diagnóstico. Integrações de ERP/API, publicação do relatório no Power BI Service e licenças são estimadas à parte.</p></div>
+       </section>
+       <section class="view-window content-window sales-section" id="planos" data-window="planos" hidden>
+          <div class="window-heading"><div><p class="eyebrow">SERVIÇO DE BUSINESS INTELLIGENCE</p><h1>Planos para seu dashboard</h1><p class="sales-lead">Escolha um ponto de partida. Vamos adaptar o painel às suas planilhas, aos seus indicadores e à rotina da sua equipe.</p></div><span class="window-tag">ENTREGA EM POWER BI</span></div>
+          <div class="offer-note"><span class="note-mark">i</span><p><b>Todos os planos entregam um arquivo Power BI (.pbix).</b> Você abre e edita o relatório no Power BI Desktop. Esta página é apenas a demonstração online do modelo visual. Publicação no Power BI Service, integração com ERP/API e licenças podem ser orçadas separadamente.</p></div>
           <div class="offer-grid">
-            <article class="offer-card"><div class="offer-top"><span class="offer-label">PARA COMEÇAR</span><span class="offer-price">R$ 1.500</span></div><h3>Essencial</h3><p class="offer-description">Uma visão objetiva para acompanhar a posição do estoque e seus principais riscos.</p><ul><li>1 fonte em Excel ou CSV</li><li>1 página executiva</li><li>Até 6 indicadores e filtros básicos</li><li>Arquivo Power BI e instrução de atualização</li><li>1 rodada de ajustes e orientação de 45 min</li></ul><div class="offer-delivery">Prazo estimado: 5 a 7 dias úteis</div><a class="offer-link" href="#briefing">Ver o que precisamos →</a></article>
-            <article class="offer-card offer-featured"><div class="offer-top"><span class="offer-label">MAIS COMPLETO</span><span class="offer-price">R$ 2.200</span></div><h3>Gestão</h3><p class="offer-description">Mais contexto para a equipe priorizar reposição e agir antes de perdas.</p><ul><li>Até 2 arquivos Excel ou CSV padronizados</li><li>Até 3 páginas: geral, reposição e validade</li><li>Até 10 indicadores e filtros</li><li>2 rodadas de ajustes</li><li>Arquivo Power BI e orientação de 60 min</li></ul><div class="offer-delivery">Prazo estimado: 8 a 10 dias úteis</div><a class="offer-link" href="#briefing">Ver o que precisamos →</a></article>
-            <article class="offer-card"><div class="offer-top"><span class="offer-label">ANÁLISE AMPLIADA</span><span class="offer-price">R$ 3.000</span></div><h3>Avançado</h3><p class="offer-description">Uma análise mais ampla para comparar fontes, unidades e prioridades.</p><ul><li>Até 3 fontes tabulares</li><li>Até 4 páginas e 14 indicadores</li><li>Cobertura, vencimentos e prioridades</li><li>Arquivo Power BI (.pbix) e documentação de atualização</li><li>2 rodadas de ajustes e treinamento de 90 min</li></ul><div class="offer-delivery">Prazo estimado: 10 a 15 dias úteis</div><a class="offer-link" href="#briefing">Ver o que precisamos →</a></article>
+            <article class="offer-card"><div class="offer-top"><span class="offer-label">PARA COMEÇAR</span><span class="offer-price">R$ 1.500</span></div><h3>Essencial</h3><p class="offer-description">Para organizar uma planilha e enxergar o que merece atenção primeiro.</p><ul><li>1 arquivo Excel ou CSV</li><li>1 página com visão geral</li><li>Até 6 indicadores e filtros</li><li>Arquivo Power BI (.pbix) e instrução de atualização</li><li>1 rodada de ajustes e orientação de 45 min</li></ul><div class="offer-delivery">Prazo estimado: 5 a 7 dias úteis</div><a class="offer-link" href="#briefing">Entender o briefing →</a></article>
+            <article class="offer-card offer-featured"><div class="offer-top"><span class="offer-label">MAIS ESCOLHIDO</span><span class="offer-price">R$ 2.200</span></div><h3>Gestão</h3><p class="offer-description">Para acompanhar estoque, reposição e vencimentos em um só lugar.</p><ul><li>Até 2 arquivos Excel ou CSV organizados</li><li>Até 3 páginas: geral, reposição e validade</li><li>Até 10 indicadores e filtros</li><li>Arquivo Power BI (.pbix) e instruções</li><li>2 revisões e orientação de 60 min</li></ul><div class="offer-delivery">Prazo estimado: 8 a 10 dias úteis</div><a class="offer-link" href="#briefing">Entender o briefing →</a></article>
+            <article class="offer-card"><div class="offer-top"><span class="offer-label">ANÁLISE AMPLIADA</span><span class="offer-price">R$ 3.000</span></div><h3>Avançado</h3><p class="offer-description">Para combinar mais fontes e analisar diferentes prioridades.</p><ul><li>Até 3 fontes em arquivos tabulares</li><li>Até 4 páginas e 14 indicadores</li><li>Cobertura, vencimentos e estoque parado</li><li>Arquivo Power BI (.pbix) e documentação</li><li>2 revisões e treinamento de 90 min</li></ul><div class="offer-delivery">Prazo estimado: 10 a 15 dias úteis</div><a class="offer-link" href="#briefing">Entender o briefing →</a></article>
           </div>
-          <p class="offer-footnote">Todos os pacotes incluem o dashboard como arquivo Power BI (.pbix). Prazos começam após o recebimento dos dados e a aprovação das regras. Licenças do Power BI, publicação no Power BI Service, conectores, automações e novas fontes não descritas no escopo são avaliados separadamente.</p>
+          <p class="offer-footnote">O prazo começa quando recebemos os arquivos e aprovamos os indicadores. Integrações, automações, licenças e publicação do relatório no Power BI Service não estão incluídas; podem ser avaliadas em uma proposta separada.</p>
         </section>
-        <section class="briefing-section" id="briefing">
-          <div class="briefing-header"><div><p class="eyebrow">PRIMEIRA CONVERSA</p><h2>Briefing do projeto</h2><p class="sales-lead">Antes de definir o painel e o orçamento, entendemos a operação, as fontes disponíveis e como cada indicador deve ser calculado.</p></div><span class="briefing-badge">20–30 MIN</span></div>
+        <section class="view-window content-window briefing-section" id="briefing" data-window="briefing" hidden>
+          <div class="window-heading"><div><p class="eyebrow">PRIMEIRA CONVERSA</p><h1>Briefing do projeto</h1><p class="sales-lead">Uma conversa de 20 a 30 minutos para entender o que você precisa e indicar o plano certo. Estas são as perguntas que vamos alinhar.</p></div><span class="window-tag">20–30 MIN</span></div>
           <div class="briefing-grid">
-            <article class="brief-card"><span class="brief-number">01</span><div><h3>Objetivo e operação</h3><p>Quem vai usar o painel? Quais decisões precisa tomar? O problema é ruptura, excesso, vencimento, estoque parado ou divergência?</p></div></article>
-            <article class="brief-card"><span class="brief-number">02</span><div><h3>Dados e fontes</h3><p>Os dados vêm de Excel, CSV ou ERP? Quais campos existem? Qual é a granularidade e o período histórico disponível?</p></div></article>
-            <article class="brief-card"><span class="brief-number">03</span><div><h3>Regras de negócio</h3><p>Como são definidos mínimo, ponto de reposição, consumo, cobertura, valor do estoque e prazo de vencimento?</p></div></article>
-            <article class="brief-card"><span class="brief-number">04</span><div><h3>Páginas e indicadores</h3><p>Quais visões são prioritárias: geral, reposição, validade, estoque parado, unidade, categoria ou fornecedor?</p></div></article>
-            <article class="brief-card"><span class="brief-number">05</span><div><h3>Acesso e atualização</h3><p>Quem atualizará os arquivos? Como o relatório será compartilhado? A equipe tem Power BI Desktop e licenças necessárias?</p></div></article>
-            <article class="brief-card"><span class="brief-number">06</span><div><h3>Validação e aceite</h3><p>Quem aprova os números e com qual relatório de referência? Definimos as rodadas de revisão, prazo e entregáveis.</p></div></article>
+            <article class="brief-card"><span class="brief-number">01</span><div><h3>O que você quer melhorar?</h3><p>Quem vai usar o painel e que decisão precisa tomar? Hoje, o maior desafio é falta de produto, excesso, vencimento ou outro?</p></div></article>
+            <article class="brief-card"><span class="brief-number">02</span><div><h3>Quais dados você já tem?</h3><p>Os dados estão em Excel, CSV ou sistema? Com que frequência são atualizados e quais informações aparecem nos arquivos?</p></div></article>
+            <article class="brief-card"><span class="brief-number">03</span><div><h3>Como os números são calculados?</h3><p>Como vocês definem estoque mínimo, consumo, cobertura, custo e prazo para considerar um lote próximo do vencimento?</p></div></article>
+            <article class="brief-card"><span class="brief-number">04</span><div><h3>O que precisa aparecer?</h3><p>Vamos escolher as páginas e os indicadores mais úteis: resumo, reposição, validade, excesso ou comparação entre unidades.</p></div></article>
+            <article class="brief-card"><span class="brief-number">05</span><div><h3>Quem vai atualizar e usar o painel?</h3><p>Vamos combinar quem fornece os arquivos, quem consulta o relatório e como a equipe pretende compartilhá-lo.</p></div></article>
+            <article class="brief-card"><span class="brief-number">06</span><div><h3>Como vamos conferir o resultado?</h3><p>Definiremos quem valida os números, qual relatório será usado como comparação e quantas revisões estão incluídas.</p></div></article>
           </div>
-          <div class="privacy-note"><span>Privacidade dos dados</span><p>Para o diagnóstico, uma amostra pequena e autorizada costuma bastar. Não envie senhas, dados de pacientes ou informações pessoais; a demonstração desta página usa dados sintéticos.</p></div>
-          <div class="briefing-close"><div><b>Próximo passo</b><span>Com o briefing respondido, confirmamos escopo, investimento e prazo em uma proposta.</span></div><a href="#painel">Voltar à demonstração ↑</a></div>
+          <div class="privacy-note"><span>Quais arquivos separar?</span><p>Uma amostra pequena e autorizada já ajuda a estimar o trabalho. Remova dados pessoais e nunca envie senhas ou dados de pacientes. A demonstração desta página usa dados fictícios.</p></div>
+          <div class="briefing-close"><div><b>Depois da conversa</b><span>Você recebe uma proposta com o que será feito, prazo, valor e entrega do arquivo Power BI (.pbix).</span></div><a href="#painel">Voltar à demonstração ↑</a></div>
         </section>
-        <footer><span>Template Power BI com réplica visual na nuvem · <b>Elias Rodrigues</b></span><span>Dados sintéticos para fins de portfólio</span></footer>
-      </section>
+        <footer><span>Demonstração visual de Power BI · <b>Elias Rodrigues</b></span><span>Dados fictícios para apresentação</span></footer>
+      </div>
     </main>
   </div>
-  <script src="assets/app.js?v=2"></script>
+  <script src="assets/app.js?v=3"></script>
 </body>
 </html>
