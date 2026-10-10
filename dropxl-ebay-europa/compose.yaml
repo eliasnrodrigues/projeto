@@ -1,0 +1,23 @@
+services:
+  bridge:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    volumes:
+      - bridge-state:/app/state
+      - ./catalog.json:/app/catalog.json:ro
+      - ./carriers.json:/app/carriers.json:ro
+    read_only: true
+    tmpfs:
+      - /tmp
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    logging:
+      driver: json-file
+      options:
+        max-size: 10m
+        max-file: '3'
+volumes:
+  bridge-state:

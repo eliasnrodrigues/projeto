@@ -1,0 +1,15 @@
+[
+  {
+    "supplier_code": "100058",
+    "approved": false,
+    "title": "SUBSTITUIR pelo título do catálogo autorizado no idioma do país",
+    "description": "SUBSTITUIR pela descrição autorizada e revisada.",
+    "category_id": "SUBSTITUIR pela categoria eBay correta",
+    "image_urls": [],
+    "ean": "",
+    "aspects": {},
+    "landed_cost_factor": 1,
+    "shipping_cost_eur": 0,
+    "regulatory": {}
+  }
+]
