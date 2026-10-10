@@ -6,8 +6,9 @@ Demonstração de um painel de gestão de estoque hospitalar, com indicadores de
 
 ## Acessar
 
-- [Abrir a réplica visual na nuvem](https://eliasnrodrigues.github.io/projeto/)
-- [Ver o repositório](https://github.com/eliasnrodrigues/projeto)
+- [Abrir a réplica visual na nuvem](https://eliasnrodrigues.github.io/dropxl-ebay-espanha/)
+- [Abrir catálogo de produtos para anúncios manuais no eBay Espanha](https://eliasnrodrigues.github.io/dropxl-ebay-espanha/catalogo-ebay-espanha/)
+- [Ver o repositório](https://github.com/eliasnrodrigues/dropxl-ebay-espanha)
 
 ## Entrega Power BI e versão online
 
